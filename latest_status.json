@@ -1,0 +1,1322 @@
+{
+  "schema": "ase15_bridge_v1",
+  "bot": "ASE15 V15 FINAL15 + PREDICTION FLIP EXIT",
+  "live_real": true,
+  "entry_dollars": 1.0,
+  "cap50": 0.5,
+  "cycle_id": 1989473,
+  "cycle_start_utc": "2026-09-27T16:15:00+00:00",
+  "cycle_end_utc": "2026-09-27T16:30:00+00:00",
+  "completed": true,
+  "published_at": "2026-09-27T16:30:01+00:00",
+  "assets": {
+    "BTC": {
+      "asset": "BTC",
+      "ticker": "KXBTC15M-26SEP271230-30",
+      "seconds_left": 5.2373762130737305,
+      "spot": 84560.06,
+      "candle15": "GREEN",
+      "pred15": "NO",
+      "score": -1.562345003219295,
+      "conf_heur": 0.7499752005150873,
+      "body_atr": 0.031514300972440915,
+      "flow_imb": 0.02386792644565431,
+      "cvd_fast": -0.842404911040526,
+      "cvd_slow": -0.25946225062669825,
+      "vwap_norm": -0.07754518907111621,
+      "v30": -0.061507221897974355,
+      "maturity": 0.9941806930965847,
+      "yes_bid": 0.996,
+      "yes_ask": 0.997,
+      "no_bid": 0.003,
+      "no_ask": 0.004,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:54-05:00"
+    },
+    "ETH": {
+      "asset": "ETH",
+      "ticker": "KXETH15M-26SEP271230-30",
+      "seconds_left": 4.5980894565582275,
+      "spot": 2690.35,
+      "candle15": "RED",
+      "pred15": "NO",
+      "score": -2.4245278245787114,
+      "conf_heur": 0.8879244519325938,
+      "body_atr": -0.24080000000001017,
+      "flow_imb": -0.251154091562299,
+      "cvd_fast": -0.8088800855769076,
+      "cvd_slow": -0.05583255053079761,
+      "vwap_norm": -0.21392374945716436,
+      "v30": -0.013439999999987776,
+      "maturity": 0.9948910117149353,
+      "yes_bid": 0.001,
+      "yes_ask": 0.002,
+      "no_bid": 0.998,
+      "no_ask": 0.999,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:55-05:00"
+    },
+    "SOL": {
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26SEP271230-30",
+      "seconds_left": 3.9630556106567383,
+      "spot": 121.96,
+      "candle15": "RED",
+      "pred15": "NO",
+      "score": -1.4392444145975005,
+      "conf_heur": 0.7302791063356001,
+      "body_atr": -0.2099192618223919,
+      "flow_imb": 0.27841444433636026,
+      "cvd_fast": -0.984022665694417,
+      "cvd_slow": 0.5099026223489829,
+      "vwap_norm": -0.09925499988112801,
+      "v30": 0.0,
+      "maturity": 0.995596604877048,
+      "yes_bid": 0.0,
+      "yes_ask": 0.001,
+      "no_bid": 0.999,
+      "no_ask": 1.0,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:56-05:00"
+    },
+    "HYPE": {
+      "asset": "HYPE",
+      "ticker": "KXHYPE15M-26SEP271230-30",
+      "seconds_left": 3.1775574684143066,
+      "spot": 91.4,
+      "candle15": "GREEN",
+      "pred15": "NO",
+      "score": -1.6853380956114676,
+      "conf_heur": 0.7696540952978348,
+      "body_atr": 0.022801302931607807,
+      "flow_imb": -0.3080658780409729,
+      "cvd_fast": -1.0,
+      "cvd_slow": -0.4701620885903151,
+      "vwap_norm": 0.03667289158178657,
+      "v30": -0.04560260586318321,
+      "maturity": 0.9964693805906508,
+      "yes_bid": 0.07,
+      "yes_ask": 0.12,
+      "no_bid": 0.88,
+      "no_ask": 0.93,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:56-05:00"
+    },
+    "DOGE": {
+      "asset": "DOGE",
+      "ticker": "KXDOGE15M-26SEP271230-30",
+      "seconds_left": 2.624354124069214,
+      "spot": 0.09696,
+      "candle15": "RED",
+      "pred15": "NO",
+      "score": -3.268059635268315,
+      "conf_heur": 0.9,
+      "body_atr": -0.42872228088701114,
+      "flow_imb": -0.5097552253463836,
+      "cvd_fast": -1.0,
+      "cvd_slow": -0.5689602277662903,
+      "vwap_norm": -0.11617259197027627,
+      "v30": -0.04435058078141848,
+      "maturity": 0.9970840509732565,
+      "yes_bid": 0.0,
+      "yes_ask": 0.001,
+      "no_bid": 0.999,
+      "no_ask": 1.0,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:57-05:00"
+    },
+    "BNB": {
+      "asset": "BNB",
+      "ticker": "KXBNB15M-26SEP271230-30",
+      "seconds_left": 1.8277342319488525,
+      "spot": 774.39,
+      "candle15": "RED",
+      "pred15": "NO",
+      "score": -1.2201244032812286,
+      "conf_heur": 0.6952199045249966,
+      "body_atr": -0.3452303698896748,
+      "flow_imb": 0.259891726578318,
+      "cvd_fast": 1.0,
+      "cvd_slow": 0.1591606804779653,
+      "vwap_norm": -0.19757129234770796,
+      "v30": -0.17715768981180274,
+      "maturity": 0.9979691841867235,
+      "yes_bid": 0.0,
+      "yes_ask": 0.001,
+      "no_bid": 0.999,
+      "no_ask": 1.0,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:58-05:00"
+    },
+    "XRP": {
+      "asset": "XRP",
+      "ticker": "KXXRP15M-26SEP271230-30",
+      "seconds_left": 1.2438104152679443,
+      "spot": 1.5172,
+      "candle15": "RED",
+      "pred15": "NO",
+      "score": -1.5574027975490388,
+      "conf_heur": 0.7491844476078462,
+      "body_atr": -0.3990755007703963,
+      "flow_imb": 0.11392269130940477,
+      "cvd_fast": -0.3850387953249016,
+      "cvd_slow": 0.6680217489683116,
+      "vwap_norm": -0.27076889137624144,
+      "v30": -0.08628659476116159,
+      "maturity": 0.9986179884274801,
+      "yes_bid": 0.0,
+      "yes_ask": 0.001,
+      "no_bid": 0.999,
+      "no_ask": 1.0,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:58-05:00"
+    },
+    "ZEC": {
+      "asset": "ZEC",
+      "ticker": "KXZEC15M-26SEP271230-30",
+      "seconds_left": 0.7645912170410156,
+      "spot": 1583.27,
+      "candle15": "RED",
+      "pred15": "NO",
+      "score": -3.5812075545425652,
+      "conf_heur": 0.9,
+      "body_atr": -0.5208052298433175,
+      "flow_imb": -0.4799453155642079,
+      "cvd_fast": -1.0,
+      "cvd_slow": -0.43651176309922113,
+      "vwap_norm": -0.3057245637473337,
+      "v30": -0.05302480024904148,
+      "maturity": 0.9991504542032877,
+      "yes_bid": 0.0,
+      "yes_ask": 0.001,
+      "no_bid": 0.999,
+      "no_ask": 1.0,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:59-05:00"
+    },
+    "NEAR": {
+      "asset": "NEAR",
+      "ticker": "KXNEAR15M-26SEP271230-30",
+      "seconds_left": 0.21149635314941406,
+      "spot": 5.2095,
+      "candle15": "GREEN",
+      "pred15": "YES",
+      "score": 2.1145996494915322,
+      "conf_heur": 0.8383359439186452,
+      "body_atr": 0.341045764957704,
+      "flow_imb": 0.21591594169296177,
+      "cvd_fast": 0.27416971440765264,
+      "cvd_slow": 0.22935157497157782,
+      "vwap_norm": 0.0919439691715817,
+      "v30": 0.15553970033636214,
+      "maturity": 0.9997650040520563,
+      "yes_bid": 0.999,
+      "yes_ask": 1.0,
+      "no_bid": 0.0,
+      "no_ask": 0.001,
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "position": null,
+      "updated_at": "2026-09-27T11:29:59-05:00"
+    }
+  },
+  "events": [
+    {
+      "time": "2026-09-27T11:26:24-05:00",
+      "asset": "NEAR",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/7 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -0.1783410344224532,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:26-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/6 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -0.47846436930694136,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:27-05:00",
+      "asset": "ETH",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/1 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -1.8961863350217507,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:28-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.60; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.1892664027195319,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:29-05:00",
+      "asset": "DOGE",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=+0.07",
+      "pred15": null,
+      "score": 0.07248713595828199,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:29-05:00",
+      "asset": "BNB",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=-0.01",
+      "pred15": null,
+      "score": -0.010582320973308135,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:30-05:00",
+      "asset": "XRP",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/2 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.3959847054550425,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:31-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "YES $0.89; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.26021394326867875,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:34-05:00",
+      "asset": "ETH",
+      "decision": "ESPERAR",
+      "reason": "YES $0.53; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.1580548176420385,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:35-05:00",
+      "asset": "SOL",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/2 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.21857421586489398,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:36-05:00",
+      "asset": "DOGE",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=+0.06",
+      "pred15": null,
+      "score": 0.060208352307249746,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:38-05:00",
+      "asset": "BNB",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/12 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.7320736346449302,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:39-05:00",
+      "asset": "XRP",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=+0.02",
+      "pred15": null,
+      "score": 0.020587719869136822,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:42-05:00",
+      "asset": "BTC",
+      "decision": "ESPERAR",
+      "reason": "YES $0.87; CAP50 estricto",
+      "pred15": "YES",
+      "score": 1.630124587797941,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:44-05:00",
+      "asset": "HYPE",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: spread 5.0c > 3.0c",
+      "pred15": "YES",
+      "score": 0.8399223073435251,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:44-05:00",
+      "asset": "DOGE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.66; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.1642796384862084,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:45-05:00",
+      "asset": "BNB",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=-0.03",
+      "pred15": null,
+      "score": -0.030691754130868276,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:45-05:00",
+      "asset": "XRP",
+      "decision": "ESPERAR",
+      "reason": "NO $0.75; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.23874575905866374,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:46-05:00",
+      "asset": "ZEC",
+      "decision": "ESPERAR",
+      "reason": "NO $0.71; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.513055100675497,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:46-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=-0.00",
+      "pred15": null,
+      "score": -0.0009275053897734656,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:48-05:00",
+      "asset": "BTC",
+      "decision": "ESPERAR",
+      "reason": "YES $0.94; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.31082105314610897,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:49-05:00",
+      "asset": "ETH",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/1 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -1.1354852013895178,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:49-05:00",
+      "asset": "SOL",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=+0.03",
+      "pred15": null,
+      "score": 0.02583936700734135,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:50-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "YES $0.55; CAP50 estricto",
+      "pred15": "YES",
+      "score": 1.1351341918630262,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:51-05:00",
+      "asset": "BNB",
+      "decision": "ESPERAR",
+      "reason": "NO $0.93; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.374483378456598,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:53-05:00",
+      "asset": "NEAR",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/9 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -0.4760455648088134,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:55-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/14 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -0.5283636597910452,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:56-05:00",
+      "asset": "ETH",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/2 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -1.359658849798729,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:56-05:00",
+      "asset": "SOL",
+      "decision": "ESPERAR",
+      "reason": "NO $0.55; CAP50 estricto",
+      "pred15": "NO",
+      "score": -2.0642641376504653,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:57-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=+0.06",
+      "pred15": null,
+      "score": 0.06164774368765989,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:26:59-05:00",
+      "asset": "BNB",
+      "decision": "ESPERAR",
+      "reason": "NO $0.98; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.5355075545365826,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:00-05:00",
+      "asset": "XRP",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/3 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 1.6472284114641216,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:01-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "YES $0.93; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.6363532257552957,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:03-05:00",
+      "asset": "BTC",
+      "decision": "ESPERAR",
+      "reason": "YES $0.94; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.7639744672942407,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:05-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "YES $0.55; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.4049771517709137,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:06-05:00",
+      "asset": "DOGE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.89; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.537419913058464,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:07-05:00",
+      "asset": "XRP",
+      "decision": "ESPERAR",
+      "reason": "NO $0.75; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.6702080504987225,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:08-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=-0.02",
+      "pred15": null,
+      "score": -0.01570737088246214,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:13-05:00",
+      "asset": "BNB",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/34 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.20937206611849227,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:14-05:00",
+      "asset": "XRP",
+      "decision": "ESPERAR",
+      "reason": "NO $0.82; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.3394038004268777,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:14-05:00",
+      "asset": "ZEC",
+      "decision": "ESPERAR",
+      "reason": "NO $0.86; CAP50 estricto",
+      "pred15": "NO",
+      "score": -2.339962192317775,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:15-05:00",
+      "asset": "NEAR",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/9 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -0.23775804310892185,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:17-05:00",
+      "asset": "BTC",
+      "decision": "ESPERAR",
+      "reason": "YES $0.90; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.20629519168008098,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:19-05:00",
+      "asset": "SOL",
+      "decision": "ESPERAR",
+      "reason": "NO $0.78; CAP50 estricto",
+      "pred15": "NO",
+      "score": -2.0412900676121644,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:20-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "YES $0.56; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.15708497149968761,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:23-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "YES $0.93; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.8468772258618382,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:26-05:00",
+      "asset": "ETH",
+      "decision": "ESPERAR",
+      "reason": "NO $0.64; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.8244677294144169,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:31-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "YES $0.92; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.23885122920361523,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:36-05:00",
+      "asset": "DOGE",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/16 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.3367177161560084,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:37-05:00",
+      "asset": "BNB",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/93 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.8260821736794394,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:39-05:00",
+      "asset": "NEAR",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/9 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -0.298233685653517,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:41-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/8 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -0.23065393392968545,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:43-05:00",
+      "asset": "DOGE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.95; CAP50 estricto",
+      "pred15": "NO",
+      "score": -2.188751614505474,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:46-05:00",
+      "asset": "XRP",
+      "decision": "ESPERAR",
+      "reason": "NO $0.95; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.879189592084648,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:49-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/4 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -0.2722673432957218,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:51-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.85; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.4345850792697679,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:54-05:00",
+      "asset": "ZEC",
+      "decision": "ESPERAR",
+      "reason": "NO $0.97; CAP50 estricto",
+      "pred15": "NO",
+      "score": -3.0743142720678693,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:57-05:00",
+      "asset": "BTC",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=+0.03",
+      "pred15": null,
+      "score": 0.027050638195535374,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:58-05:00",
+      "asset": "ETH",
+      "decision": "ESPERAR",
+      "reason": "NO $0.80; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.6669742748402292,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:27:59-05:00",
+      "asset": "SOL",
+      "decision": "ESPERAR",
+      "reason": "NO $0.92; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.3821310938458167,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:00-05:00",
+      "asset": "HYPE",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/5 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.24413129928218338,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:05-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "YES $0.93; CAP50 estricto",
+      "pred15": "YES",
+      "score": 1.1733764020661508,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:07-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/4 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -1.1012254730325686,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:09-05:00",
+      "asset": "SOL",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=-0.06",
+      "pred15": null,
+      "score": -0.06136472892375394,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:10-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.85; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.1509343102377143,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:11-05:00",
+      "asset": "DOGE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.99; CAP50 estricto",
+      "pred15": "NO",
+      "score": -2.7539862765300436,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:11-05:00",
+      "asset": "BNB",
+      "decision": "ESPERAR",
+      "reason": "NO $1.00; CAP50 estricto",
+      "pred15": "NO",
+      "score": -2.491179182096543,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:16-05:00",
+      "asset": "ETH",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/4 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.18480144366466172,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:17-05:00",
+      "asset": "SOL",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/10 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.19760305321303906,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:18-05:00",
+      "asset": "HYPE",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/5 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.7949595562691529,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:21-05:00",
+      "asset": "XRP",
+      "decision": "ESPERAR",
+      "reason": "NO $0.98; CAP50 estricto",
+      "pred15": "NO",
+      "score": -3.006935556531311,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:21-05:00",
+      "asset": "ZEC",
+      "decision": "ESPERAR",
+      "reason": "NO $0.99; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.848509412060578,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:24-05:00",
+      "asset": "BTC",
+      "decision": "ESPERAR",
+      "reason": "YES $0.95; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.8796213422886362,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:24-05:00",
+      "asset": "ETH",
+      "decision": "ESPERAR",
+      "reason": "NO $0.80; CAP50 estricto",
+      "pred15": "NO",
+      "score": -2.4674754468730478,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:25-05:00",
+      "asset": "SOL",
+      "decision": "ESPERAR",
+      "reason": "NO $0.85; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.0450458008896364,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:26-05:00",
+      "asset": "HYPE",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/3 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.5541208733563221,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:29-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "YES $0.97; CAP50 estricto",
+      "pred15": "YES",
+      "score": 2.1257670789277756,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:31-05:00",
+      "asset": "ETH",
+      "decision": "ESPERAR",
+      "reason": "NO $0.91; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.9902694611576526,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:33-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.76; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.8976530703148522,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:37-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/20 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -1.0919022712405222,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:40-05:00",
+      "asset": "HYPE",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/3 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.2136960859168791,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:40-05:00",
+      "asset": "DOGE",
+      "decision": "ESPERAR",
+      "reason": "NO $1.00; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.581352311307807,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:44-05:00",
+      "asset": "BTC",
+      "decision": "ESPERAR",
+      "reason": "YES $0.95; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.7096312919161057,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:46-05:00",
+      "asset": "SOL",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/5 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.1626400648606252,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:48-05:00",
+      "asset": "BNB",
+      "decision": "ESPERAR",
+      "reason": "YES $0.00; minimo permitido $0.01",
+      "pred15": "YES",
+      "score": 0.4445383895399602,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:49-05:00",
+      "asset": "XRP",
+      "decision": "ESPERAR",
+      "reason": "NO $1.00; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.8192690665610587,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:52-05:00",
+      "asset": "BTC",
+      "decision": "ESPERAR",
+      "reason": "YES $0.96; CAP50 estricto",
+      "pred15": "YES",
+      "score": 0.640689646654435,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:54-05:00",
+      "asset": "HYPE",
+      "decision": "ESPERAR",
+      "reason": "NO $0.63; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.0572973583132892,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:55-05:00",
+      "asset": "BNB",
+      "decision": "ESPERAR",
+      "reason": "PRED15 FINAL sin edge | score=-0.05",
+      "pred15": null,
+      "score": -0.049586269159247964,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:28:56-05:00",
+      "asset": "ZEC",
+      "decision": "ESPERAR",
+      "reason": "NO $1.00; CAP50 estricto",
+      "pred15": "NO",
+      "score": -3.1837900407192454,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:00-05:00",
+      "asset": "SOL",
+      "decision": "ESPERAR",
+      "reason": "NO $0.85; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.45564756914827304,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:02-05:00",
+      "asset": "BNB",
+      "decision": "ESPERAR",
+      "reason": "NO $1.00; CAP50 estricto",
+      "pred15": "NO",
+      "score": -1.5922786223962844,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:03-05:00",
+      "asset": "NEAR",
+      "decision": "ESPERAR",
+      "reason": "YES $1.00; CAP50 estricto",
+      "pred15": "YES",
+      "score": 1.589612087818217,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:05-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/22 contratos en 5 niveles",
+      "pred15": "NO",
+      "score": -1.0316569144140142,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:06-05:00",
+      "asset": "ETH",
+      "decision": "ESPERAR",
+      "reason": "NO $0.99; CAP50 estricto",
+      "pred15": "NO",
+      "score": -2.114145241725906,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:06-05:00",
+      "asset": "SOL",
+      "decision": "ESPERAR",
+      "reason": "NO $0.99; CAP50 estricto",
+      "pred15": "NO",
+      "score": -0.6763494508530841,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:08-05:00",
+      "asset": "HYPE",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/2 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.2562716924581468,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:14-05:00",
+      "asset": "SOL",
+      "decision": "NO TRADE",
+      "reason": "LIQUIDEZ: depth insuficiente 0/71 contratos en 5 niveles",
+      "pred15": "YES",
+      "score": 0.9972466346961488,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:15-05:00",
+      "asset": "HYPE",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 0.15943389463822696,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:16-05:00",
+      "asset": "DOGE",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -2.22215268531767,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:16-05:00",
+      "asset": "BNB",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.22910844145168402,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:17-05:00",
+      "asset": "XRP",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 0.2937687293948627,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:17-05:00",
+      "asset": "ZEC",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.5608246457158175,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:18-05:00",
+      "asset": "NEAR",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.7242430458299896,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:20-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 0.6312637569206272,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:21-05:00",
+      "asset": "ETH",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.9675046027060263,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:22-05:00",
+      "asset": "SOL",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 0.4603599268027446,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:24-05:00",
+      "asset": "XRP",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.5759855705563728,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:28-05:00",
+      "asset": "ETH",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 0.7292217358480599,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:33-05:00",
+      "asset": "NEAR",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 2.4141613672878615,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:34-05:00",
+      "asset": "BTC",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.8275261245122856,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:35-05:00",
+      "asset": "ETH",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.6087599861430393,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:36-05:00",
+      "asset": "HYPE",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.9986680135145276,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:38-05:00",
+      "asset": "BNB",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 0.23958905754132154,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:45-05:00",
+      "asset": "XRP",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 0.2069939927799701,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:49-05:00",
+      "asset": "SOL",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -1.3736444631369567,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:51-05:00",
+      "asset": "BNB",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -0.5823334466464409,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:51-05:00",
+      "asset": "XRP",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -1.2498790648571705,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:52-05:00",
+      "asset": "ZEC",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "YES",
+      "score": 0.18519907075067832,
+      "position": null
+    },
+    {
+      "time": "2026-09-27T11:29:59-05:00",
+      "asset": "ZEC",
+      "decision": "NO TRADE",
+      "reason": "muy cerca del cierre",
+      "pred15": "NO",
+      "score": -3.5812075545425652,
+      "position": null
+    }
+  ],
+  "privacy": "sanitized telemetry only; no credentials/balances/source"
+}
