@@ -5,7 +5,7 @@
   "entry_dollars": 0.35,
   "max_entry_ask": 0.85,
   "session_realized_pnl": -0.46809999999999996,
-  "published_at": "2026-09-29T23:09:36+00:00",
+  "published_at": "2026-09-29T23:11:54+00:00",
   "open_positions": [
     {
       "asset": null,
@@ -19,19 +19,19 @@
   ],
   "assets": {
     "BTC": {
-      "spot": 83587.84,
+      "spot": 83593.09,
       "market": "KXBTC15M-26SEP291915-15",
       "cycle_id": "KXBTC15M-26SEP291915-15",
       "position_open": false
     },
     "ETH": {
-      "spot": 2681.42,
+      "spot": 2681.33,
       "market": "KXETH15M-26SEP291915-15",
       "cycle_id": "KXETH15M-26SEP291915-15",
       "position_open": false
     },
     "SOL": {
-      "spot": 119.16,
+      "spot": 119.14,
       "market": "KXSOL15M-26SEP291915-15",
       "cycle_id": "KXSOL15M-26SEP291915-15",
       "position_open": false
@@ -43,67 +43,37 @@
       "position_open": true
     },
     "DOGE": {
-      "spot": 0.09403,
+      "spot": 0.09406,
       "market": "KXDOGE15M-26SEP291915-15",
       "cycle_id": "KXDOGE15M-26SEP291915-15",
       "position_open": false
     },
     "BNB": {
-      "spot": 758.9,
+      "spot": 759.02,
       "market": "KXBNB15M-26SEP291915-15",
       "cycle_id": "KXBNB15M-26SEP291915-15",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.4938,
+      "spot": 1.4937,
       "market": "KXXRP15M-26SEP291915-15",
       "cycle_id": "KXXRP15M-26SEP291915-15",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1420.25,
+      "spot": 1422.54,
       "market": "KXZEC15M-26SEP291915-15",
       "cycle_id": "KXZEC15M-26SEP291915-15",
       "position_open": false
     },
     "NEAR": {
-      "spot": 4.9957,
+      "spot": 4.9912,
       "market": "KXNEAR15M-26SEP291915-15",
       "cycle_id": "KXNEAR15M-26SEP291915-15",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "17:42:18 | STATUS | BTC:- 0.65 162s* | ETH:N 0.72 162s | SOL:N 0.71 162s* | HYPE:- 0.53 162s* | XRP:- 0.68 162s | ZEC:- 0.56 162s | entries=10 PNL=$+0.15",
-    "17:42:23 | STATUS | BTC:- 0.56 156s* | ETH:- 0.68 156s | SOL:- 0.63 156s* | XRP:- 0.67 156s | ZEC:- 0.58 156s | NEAR:- 0.54 156s | entries=10 PNL=$+0.15",
-    "17:42:29 | STATUS | BTC:- 0.55 151s* | ETH:- 0.65 151s | SOL:- 0.67 151s* | HYPE:- 0.53 151s* | XRP:- 0.68 151s | ZEC:- 0.61 151s | NEAR:- 0.61 151s | entries=10 PNL=$+0.15",
-    "17:42:34 | STATUS | BTC:- 0.53 146s* | ETH:- 0.67 146s | SOL:- 0.57 146s* | HYPE:- 0.52 146s* | DOGE:- 0.68 146s* | BNB:- 0.53 146s | XRP:- 0.67 146s | ZEC:- 0.58 146s | entries=10 PNL=$+0.15",
-    "17:42:39 | STATUS | BTC:- 0.50 141s* | ETH:- 0.62 141s | SOL:- 0.61 141s* | HYPE:- 0.55 141s* | XRP:- 0.70 141s | ZEC:- 0.61 141s | NEAR:- 0.52 141s | entries=10 PNL=$+0.15",
-    "17:42:39 | XRP | VALUE BLOCK NO | score=0.707 | ASK_CAP 0.993",
-    "17:42:41 | XRP | VALUE BLOCK NO | score=0.777 | ASK_CAP 0.992",
-    "17:42:44 | XRP | VALUE BLOCK NO | score=0.735 | ASK_CAP 0.992",
-    "17:42:44 | STATUS | BTC:N 0.71 135s* | ETH:N 0.75 135s | SOL:N 0.78 135s* | HYPE:- 0.59 135s* | DOGE:N 0.78 135s* | BNB:- 0.66 135s | XRP:N 0.74 135s | ZEC:- 0.55 135s | NEAR:- 0.61 135s | entries=10 PNL=$+0.15",
-    "17:42:46 | XRP | VALUE BLOCK NO | score=0.775 | ASK_CAP 0.991",
-    "17:42:48 | XRP | VALUE BLOCK NO | score=0.751 | ASK_CAP 0.990",
-    "17:42:48 | BTC | EXIT TRY 1/4 | YES bid=0.670 qty=0.63 source=REST | THESIS_INVALID bad=position,trajectory,feasibility opposite=0.694",
-    "17:42:50 | STATUS | BTC:N 0.75 130s* | ETH:N 0.73 130s | SOL:N 0.81 130s* | HYPE:- 0.54 130s* | DOGE:N 0.81 130s* | BNB:- 0.58 130s | XRP:N 0.79 130s | ZEC:- 0.57 130s | NEAR:- 0.63 130s | entries=10 PNL=$+0.15",
-    "17:42:50 | XRP | VALUE BLOCK NO | score=0.790 | ASK_CAP 0.990",
-    "17:42:52 | BTC | EXIT CLOSED VERIFIED YES | entry=0.550 exit≈0.670 qty=0.63 PNL≈$+0.076 | THESIS_INVALID bad=position,trajectory,feasibility opposite=0.694 | order=1205ms total=2897ms",
-    "17:42:52 | XRP | VALUE BLOCK NO | score=0.782 | ASK_CAP 0.989",
-    "17:42:54 | XRP | VALUE BLOCK NO | score=0.809 | ASK_CAP 0.989",
-    "17:42:55 | STATUS | BTC:N 0.75 125s | ETH:N 0.72 125s | SOL:N 0.83 125s* | HYPE:- 0.60 124s* | DOGE:N 0.80 124s* | XRP:N 0.79 124s | entries=10 PNL=$+0.23",
-    "17:42:57 | XRP | VALUE BLOCK NO | score=0.768 | ASK_CAP 0.987",
-    "17:42:59 | XRP | VALUE BLOCK NO | score=0.782 | ASK_CAP 0.987",
-    "17:43:01 | STATUS | BTC:- 0.69 119s | ETH:N 0.78 119s | SOL:N 0.83 119s* | XRP:N 0.73 119s | ZEC:- 0.61 119s | entries=10 PNL=$+0.23",
-    "17:43:02 | XRP | VALUE BLOCK NO | score=0.771 | ASK_CAP 0.987",
-    "17:43:04 | XRP | VALUE BLOCK NO | score=0.711 | ASK_CAP 0.986",
-    "17:43:06 | STATUS | BTC:- 0.64 114s | ETH:- 0.69 114s | SOL:N 0.75 114s* | HYPE:- 0.53 114s* | XRP:- 0.68 114s | ZEC:- 0.63 114s | entries=10 PNL=$+0.23",
-    "17:43:11 | STATUS | BTC:- 0.61 109s | ETH:- 0.69 108s | SOL:- 0.72 108s* | HYPE:- 0.63 108s* | DOGE:- 0.61 108s* | XRP:- 0.65 108s | ZEC:- 0.66 108s | NEAR:- 0.53 108s | entries=10 PNL=$+0.23",
-    "17:43:16 | STATUS | BTC:- 0.61 103s | ETH:N 0.73 103s | SOL:- 0.69 103s* | ZEC:- 0.63 103s | entries=10 PNL=$+0.23",
-    "17:43:22 | STATUS | BTC:- 0.62 98s | ETH:N 0.71 98s | SOL:- 0.68 98s* | BNB:- 0.68 98s | XRP:- 0.64 98s | ZEC:- 0.66 98s | entries=10 PNL=$+0.23",
-    "17:43:27 | STATUS | BTC:- 0.67 92s | ETH:N 0.72 92s | SOL:- 0.71 92s* | DOGE:- 0.65 92s* | XRP:N 0.74 92s | ZEC:- 0.63 92s | NEAR:- 0.55 92s | entries=10 PNL=$+0.23",
-    "17:43:29 | XRP | VALUE BLOCK NO | score=0.728 | ASK_CAP 0.993",
-    "17:43:33 | STATUS | BTC:- 0.66 87s | ETH:- 0.66 87s | SOL:- 0.67 87s* | HYPE:Y 0.71 87s* | XRP:- 0.69 87s | ZEC:- 0.65 87s | entries=10 PNL=$+0.23",
     "17:43:35 | XRP | VALUE BLOCK NO | score=0.711 | ASK_CAP 0.994",
     "17:43:39 | STATUS | BTC:- 0.64 81s | ETH:- 0.65 81s | SOL:- 0.67 81s* | HYPE:Y 0.71 81s* | ZEC:- 0.69 81s | entries=10 PNL=$+0.23",
     "17:43:44 | STATUS | BTC:- 0.56 76s | ETH:- 0.61 76s | SOL:- 0.56 76s* | XRP:- 0.65 76s | ZEC:Y 0.80 76s | entries=10 PNL=$+0.23",
@@ -573,7 +543,37 @@
     "18:09:19 | STATUS | BTC:- 0.56 341s | ETH:- 0.54 341s | SOL:- 0.51 341s | HYPE:- 0.63 341s* | DOGE:- 0.56 341s | entries=15 PNL=$-0.47",
     "18:09:24 | STATUS | BTC:- 0.55 335s | ETH:- 0.62 335s | SOL:- 0.53 335s | ZEC:- 0.55 335s | entries=15 PNL=$-0.47",
     "18:09:30 | STATUS | BTC:- 0.58 330s | ETH:- 0.62 330s | DOGE:- 0.57 330s | entries=15 PNL=$-0.47",
-    "18:09:35 | STATUS | BTC:- 0.59 325s | ETH:- 0.61 325s | SOL:- 0.58 325s | HYPE:- 0.68 325s* | DOGE:- 0.62 325s | BNB:- 0.53 325s | XRP:- 0.55 325s | ZEC:- 0.56 325s | NEAR:Y 0.71 324s | entries=15 PNL=$-0.47"
+    "18:09:35 | STATUS | BTC:- 0.59 325s | ETH:- 0.61 325s | SOL:- 0.58 325s | HYPE:- 0.68 325s* | DOGE:- 0.62 325s | BNB:- 0.53 325s | XRP:- 0.55 325s | ZEC:- 0.56 325s | NEAR:Y 0.71 324s | entries=15 PNL=$-0.47",
+    "18:09:36 | NEAR | VALUE BLOCK YES | score=0.711 | ASK_CAP 0.890",
+    "18:09:41 | STATUS | BTC:- 0.62 319s | ETH:- 0.60 319s | XRP:- 0.53 319s | ZEC:- 0.60 319s | NEAR:Y 0.74 319s | entries=15 PNL=$-0.47",
+    "18:09:42 | NEAR | VALUE BLOCK YES | score=0.738 | ASK_CAP 0.870",
+    "18:09:46 | STATUS | BTC:- 0.61 314s | ETH:- 0.62 313s | XRP:- 0.54 313s | ZEC:- 0.62 313s | entries=15 PNL=$-0.47",
+    "18:09:52 | STATUS | BTC:- 0.61 308s | ETH:- 0.63 308s | SOL:- 0.60 308s | XRP:- 0.58 308s | ZEC:- 0.58 308s | entries=15 PNL=$-0.47",
+    "18:09:57 | STATUS | BTC:- 0.55 303s | ETH:- 0.60 303s | SOL:- 0.61 303s | XRP:- 0.54 303s | ZEC:- 0.53 303s | entries=15 PNL=$-0.47",
+    "18:10:03 | STATUS | BTC:- 0.58 297s | ETH:- 0.62 297s | SOL:- 0.64 297s | XRP:- 0.59 297s | ZEC:- 0.60 297s | entries=15 PNL=$-0.47",
+    "18:10:08 | STATUS | BTC:- 0.58 292s | ETH:- 0.66 292s | SOL:- 0.65 292s | XRP:- 0.54 292s | ZEC:- 0.62 292s | entries=15 PNL=$-0.47",
+    "18:10:12 | NEAR | VALUE BLOCK YES | score=0.855 | ASK_CAP 0.955",
+    "18:10:13 | STATUS | BTC:- 0.58 286s | ETH:- 0.60 286s | SOL:- 0.63 286s | DOGE:- 0.61 286s | XRP:- 0.54 286s | ZEC:- 0.62 286s | NEAR:- 0.73 286s | entries=15 PNL=$-0.47",
+    "18:10:19 | STATUS | BTC:- 0.61 281s | XRP:- 0.54 281s | entries=15 PNL=$-0.47",
+    "18:10:25 | STATUS | BTC:- 0.62 275s | ETH:- 0.60 275s | SOL:- 0.60 275s | XRP:- 0.50 275s | ZEC:- 0.52 275s | entries=15 PNL=$-0.47",
+    "18:10:30 | STATUS | BTC:- 0.61 270s | ETH:- 0.59 270s | SOL:- 0.61 270s | DOGE:- 0.65 269s | XRP:- 0.51 269s | ZEC:- 0.58 269s | entries=15 PNL=$-0.47",
+    "18:10:36 | STATUS | BTC:- 0.58 264s | ETH:- 0.59 264s | SOL:- 0.53 264s | HYPE:- 0.58 264s* | DOGE:- 0.58 264s | XRP:- 0.51 264s | ZEC:- 0.64 264s | entries=15 PNL=$-0.47",
+    "18:10:42 | STATUS | BTC:- 0.60 259s | ETH:- 0.65 259s | SOL:- 0.61 259s | DOGE:- 0.55 258s | XRP:- 0.56 258s | ZEC:- 0.57 258s | NEAR:Y 0.74 258s | entries=15 PNL=$-0.47",
+    "18:10:42 | NEAR | VALUE BLOCK YES | score=0.743 | ASK_CAP 0.975",
+    "18:10:47 | STATUS | BTC:- 0.59 253s | ETH:- 0.59 253s | SOL:- 0.58 253s | DOGE:- 0.53 252s | XRP:- 0.52 252s | ZEC:- 0.60 252s | entries=15 PNL=$-0.47",
+    "18:10:53 | STATUS | BTC:- 0.58 247s | SOL:- 0.63 247s | XRP:- 0.53 247s | entries=15 PNL=$-0.47",
+    "18:10:58 | STATUS | BTC:- 0.60 242s | ETH:- 0.60 242s | SOL:- 0.55 242s | XRP:- 0.52 242s | entries=15 PNL=$-0.47",
+    "18:11:04 | STATUS | BTC:- 0.60 236s | SOL:- 0.60 236s | XRP:- 0.57 236s | ZEC:- 0.60 236s | entries=15 PNL=$-0.47",
+    "18:11:09 | STATUS | BTC:- 0.61 231s | ETH:- 0.64 231s | SOL:- 0.62 231s | DOGE:- 0.62 231s | XRP:- 0.63 231s | entries=15 PNL=$-0.47",
+    "18:11:15 | STATUS | BTC:- 0.63 225s | ETH:- 0.64 225s | SOL:- 0.66 225s | XRP:- 0.60 225s | NEAR:- 0.73 225s | entries=15 PNL=$-0.47",
+    "18:11:20 | STATUS | BTC:- 0.62 220s | ETH:- 0.65 219s | SOL:- 0.61 219s | XRP:- 0.58 219s | ZEC:- 0.66 219s | entries=15 PNL=$-0.47",
+    "18:11:26 | STATUS | BTC:- 0.62 214s | ETH:- 0.65 214s | SOL:- 0.65 214s | XRP:- 0.53 214s | ZEC:- 0.66 214s | NEAR:- 0.67 214s | entries=15 PNL=$-0.47",
+    "18:11:31 | STATUS | BTC:- 0.61 208s | SOL:- 0.68 208s | ZEC:- 0.64 208s | entries=15 PNL=$-0.47",
+    "18:11:37 | STATUS | BTC:- 0.60 203s | ETH:- 0.64 203s | SOL:Y 0.70 203s | DOGE:- 0.67 203s | XRP:- 0.55 203s | entries=15 PNL=$-0.47",
+    "18:11:37 | SOL | VALUE BLOCK YES | score=0.704 | ASK_CAP 0.997",
+    "18:11:43 | STATUS | BTC:- 0.63 198s | ETH:- 0.63 197s | SOL:- 0.69 197s | XRP:- 0.57 197s | ZEC:- 0.69 197s | entries=15 PNL=$-0.47",
+    "18:11:46 | BNB | VALUE BLOCK YES | score=0.731 | ASK_CAP 0.996",
+    "18:11:49 | STATUS | BTC:- 0.61 192s | ETH:- 0.65 191s | SOL:- 0.69 191s | XRP:- 0.54 191s | ZEC:- 0.61 191s | entries=15 PNL=$-0.47"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
