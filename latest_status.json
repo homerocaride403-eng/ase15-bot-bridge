@@ -5,7 +5,7 @@
   "entry_dollars": 0.35,
   "max_entry_ask": 0.85,
   "session_realized_pnl": 0.15000000000000002,
-  "published_at": "2026-09-29T22:39:51+00:00",
+  "published_at": "2026-09-29T22:41:52+00:00",
   "open_positions": [
     {
       "asset": null,
@@ -28,55 +28,55 @@
   ],
   "assets": {
     "BTC": {
-      "spot": 83562.16,
+      "spot": 83570.3,
       "market": "KXBTC15M-26SEP291845-45",
       "cycle_id": "KXBTC15M-26SEP291845-45",
       "position_open": true
     },
     "ETH": {
-      "spot": 2679.9,
+      "spot": 2678.98,
       "market": "KXETH15M-26SEP291845-45",
       "cycle_id": "KXETH15M-26SEP291845-45",
       "position_open": false
     },
     "SOL": {
-      "spot": 119.17,
+      "spot": 119.09,
       "market": "KXSOL15M-26SEP291845-45",
       "cycle_id": "KXSOL15M-26SEP291845-45",
       "position_open": false
     },
     "HYPE": {
-      "spot": 86.15,
+      "spot": 86.13,
       "market": "KXHYPE15M-26SEP291845-45",
       "cycle_id": "KXHYPE15M-26SEP291845-45",
       "position_open": true
     },
     "DOGE": {
-      "spot": 0.09406,
+      "spot": 0.09398,
       "market": "KXDOGE15M-26SEP291845-45",
       "cycle_id": "KXDOGE15M-26SEP291845-45",
       "position_open": false
     },
     "BNB": {
-      "spot": 758.67,
+      "spot": 758.19,
       "market": "KXBNB15M-26SEP291845-45",
       "cycle_id": "KXBNB15M-26SEP291845-45",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.497,
+      "spot": 1.4953,
       "market": "KXXRP15M-26SEP291845-45",
       "cycle_id": "KXXRP15M-26SEP291845-45",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1409.78,
+      "spot": 1406.89,
       "market": "KXZEC15M-26SEP291845-45",
       "cycle_id": "KXZEC15M-26SEP291845-45",
       "position_open": false
     },
     "NEAR": {
-      "spot": 4.9536,
+      "spot": 4.9459,
       "market": "KXNEAR15M-26SEP291845-45",
       "cycle_id": "KXNEAR15M-26SEP291845-45",
       "position_open": false
@@ -455,7 +455,31 @@
     "17:39:33 | STATUS | BTC:- 0.53 327s* | ETH:- 0.51 327s | SOL:- 0.59 327s | entries=7 PNL=$+0.15",
     "17:39:39 | STATUS | BTC:- 0.55 321s* | ETH:- 0.50 321s | SOL:- 0.52 321s | XRP:- 0.57 321s | ZEC:- 0.66 321s | NEAR:- 0.57 321s | entries=7 PNL=$+0.15",
     "17:39:44 | STATUS | BTC:- 0.52 316s* | ETH:- 0.50 316s | SOL:- 0.51 316s | HYPE:Y 0.74 316s* | DOGE:- 0.55 316s | XRP:- 0.51 316s | entries=7 PNL=$+0.15",
-    "17:39:49 | STATUS | BTC:- 0.51 311s* | DOGE:- 0.58 311s | XRP:- 0.52 311s | ZEC:- 0.66 310s | entries=7 PNL=$+0.15"
+    "17:39:49 | STATUS | BTC:- 0.51 311s* | DOGE:- 0.58 311s | XRP:- 0.52 311s | ZEC:- 0.66 310s | entries=7 PNL=$+0.15",
+    "17:39:55 | STATUS | BTC:- 0.51 305s* | ETH:- 0.50 305s | SOL:- 0.58 305s | XRP:- 0.54 305s | entries=7 PNL=$+0.15",
+    "17:40:00 | STATUS | BTC:- 0.51 299s* | ETH:- 0.51 299s | SOL:- 0.52 299s | XRP:- 0.51 299s | entries=7 PNL=$+0.15",
+    "17:40:06 | STATUS | BTC:- 0.51 294s* | ETH:- 0.57 294s | SOL:- 0.54 294s | DOGE:- 0.57 294s | XRP:- 0.58 294s | entries=7 PNL=$+0.15",
+    "17:40:11 | STATUS | BTC:- 0.57 288s* | ETH:- 0.56 288s | SOL:- 0.56 288s | BNB:- 0.65 288s | XRP:- 0.51 288s | ZEC:- 0.58 288s | entries=7 PNL=$+0.15",
+    "17:40:16 | STATUS | BTC:- 0.50 283s* | ETH:- 0.54 283s | SOL:- 0.56 283s | XRP:- 0.52 283s | NEAR:- 0.65 283s | entries=7 PNL=$+0.15",
+    "17:40:22 | STATUS | BTC:- 0.50 278s* | ETH:- 0.53 278s | SOL:- 0.58 278s | XRP:- 0.50 278s | NEAR:- 0.63 278s | entries=7 PNL=$+0.15",
+    "17:40:27 | STATUS | BTC:- 0.52 273s* | ETH:- 0.54 273s | XRP:- 0.55 272s | ZEC:- 0.65 272s | entries=7 PNL=$+0.15",
+    "17:40:33 | STATUS | BTC:- 0.51 267s* | ETH:- 0.52 267s | SOL:- 0.55 267s | entries=7 PNL=$+0.15",
+    "17:40:38 | STATUS | BTC:- 0.52 262s* | ETH:- 0.51 262s | SOL:- 0.56 262s | HYPE:Y 0.75 262s* | DOGE:- 0.50 262s | XRP:- 0.53 262s | NEAR:- 0.68 262s | entries=7 PNL=$+0.15",
+    "17:40:43 | STATUS | BTC:- 0.51 257s* | ETH:- 0.52 257s | SOL:- 0.57 257s | XRP:- 0.55 257s | ZEC:- 0.57 257s | NEAR:- 0.58 257s | entries=7 PNL=$+0.15",
+    "17:40:48 | STATUS | BTC:- 0.53 252s* | ETH:- 0.57 252s | SOL:- 0.64 251s | DOGE:- 0.68 251s | XRP:- 0.50 251s | ZEC:- 0.59 251s | NEAR:- 0.58 251s | entries=7 PNL=$+0.15",
+    "17:40:50 | DOGE | VALUE BLOCK NO | score=0.722 | NO_VALUE proxy=+0.007",
+    "17:40:53 | STATUS | BTC:- 0.59 246s* | ETH:- 0.61 246s | SOL:- 0.64 246s | DOGE:- 0.67 246s | XRP:- 0.64 246s | NEAR:- 0.54 246s | entries=7 PNL=$+0.15",
+    "17:40:58 | STATUS | BTC:- 0.60 241s* | SOL:- 0.66 241s | HYPE:- 0.53 241s* | XRP:- 0.60 241s | ZEC:- 0.51 241s | entries=7 PNL=$+0.15",
+    "17:41:04 | STATUS | BTC:- 0.61 236s* | ETH:- 0.62 236s | SOL:- 0.70 236s | XRP:- 0.59 235s | entries=7 PNL=$+0.15",
+    "17:41:10 | STATUS | BTC:- 0.55 230s* | ETH:- 0.54 230s | SOL:- 0.64 230s | XRP:- 0.60 230s | entries=7 PNL=$+0.15",
+    "17:41:15 | STATUS | BTC:- 0.53 225s* | NEAR:- 0.55 225s | entries=7 PNL=$+0.15",
+    "17:41:20 | STATUS | BTC:- 0.55 220s* | ETH:- 0.56 220s | SOL:- 0.65 220s | XRP:- 0.59 220s | ZEC:- 0.53 220s | entries=7 PNL=$+0.15",
+    "17:41:25 | STATUS | BTC:- 0.62 214s* | ETH:- 0.50 214s | SOL:- 0.55 214s | HYPE:- 0.56 214s* | XRP:- 0.54 214s | ZEC:- 0.51 214s | NEAR:- 0.59 214s | entries=7 PNL=$+0.15",
+    "17:41:31 | STATUS | BTC:- 0.59 209s* | ETH:- 0.50 209s | XRP:- 0.54 209s | ZEC:- 0.53 209s | NEAR:- 0.58 209s | entries=7 PNL=$+0.15",
+    "17:41:36 | STATUS | BTC:- 0.70 204s* | ETH:- 0.54 204s | SOL:- 0.51 204s | HYPE:- 0.63 204s* | XRP:- 0.54 204s | ZEC:- 0.51 204s | entries=7 PNL=$+0.15",
+    "17:41:41 | STATUS | BTC:Y 0.71 198s* | ETH:- 0.54 198s | SOL:- 0.52 198s | DOGE:- 0.53 198s | XRP:- 0.50 198s | ZEC:- 0.55 198s | NEAR:- 0.56 198s | entries=7 PNL=$+0.15",
+    "17:41:46 | STATUS | BTC:- 0.69 193s* | ETH:- 0.51 193s | SOL:- 0.53 193s | DOGE:- 0.53 193s | ZEC:- 0.52 193s | NEAR:- 0.59 193s | entries=7 PNL=$+0.15",
+    "17:41:52 | STATUS | BTC:- 0.60 188s* | ETH:- 0.56 188s | SOL:- 0.56 188s | DOGE:- 0.66 188s | XRP:- 0.58 188s | entries=7 PNL=$+0.15"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
