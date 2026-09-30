@@ -6,78 +6,65 @@
   "entry_dollars_min": 0.25,
   "max_entry_ask": 0.8,
   "session_realized_pnl": -2.4040800000000035,
-  "published_at": "2026-09-30T16:14:35+00:00",
+  "published_at": "2026-09-30T16:15:06+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 84315.29,
+      "spot": 84313.6,
       "market": "KXBTC15M-26SEP301215-15",
       "cycle_id": "KXBTC15M-26SEP301215-15",
       "position_open": false
     },
     "ETH": {
-      "spot": 2687.48,
-      "market": "KXETH15M-26SEP301215-15",
+      "spot": 2687.21,
+      "market": null,
       "cycle_id": "KXETH15M-26SEP301215-15",
       "position_open": false
     },
     "SOL": {
-      "spot": 119.69,
-      "market": "KXSOL15M-26SEP301215-15",
+      "spot": 119.65,
+      "market": null,
       "cycle_id": "KXSOL15M-26SEP301215-15",
       "position_open": false
     },
     "HYPE": {
-      "spot": 88.12,
-      "market": "KXHYPE15M-26SEP301215-15",
+      "spot": 88.17,
+      "market": null,
       "cycle_id": "KXHYPE15M-26SEP301215-15",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09564,
-      "market": "KXDOGE15M-26SEP301215-15",
+      "spot": 0.09558,
+      "market": null,
       "cycle_id": "KXDOGE15M-26SEP301215-15",
       "position_open": false
     },
     "BNB": {
-      "spot": 770.07,
+      "spot": 770.11,
       "market": "KXBNB15M-26SEP301215-15",
       "cycle_id": "KXBNB15M-26SEP301215-15",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5115,
+      "spot": 1.5111,
       "market": "KXXRP15M-26SEP301215-15",
       "cycle_id": "KXXRP15M-26SEP301215-15",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1447.99,
+      "spot": 1446.4,
       "market": "KXZEC15M-26SEP301215-15",
       "cycle_id": "KXZEC15M-26SEP301215-15",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.3274,
+      "spot": 5.3303,
       "market": "KXNEAR15M-26SEP301215-15",
       "cycle_id": "KXNEAR15M-26SEP301215-15",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "11:05:07 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=119.47 target=119.2547 left=592s",
-    "11:05:08 | NEAR | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=5.3628 target=5.3039 left=591s",
-    "11:05:09 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=84242.63 target=84088.21 left=591s",
-    "11:05:09 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5083 target=1.5044 left=591s",
-    "11:05:10 | ZEC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1446.21 target=1442.035 left=590s",
-    "11:05:10 | BNB | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=769.74 target=769.38 left=589s",
-    "11:05:10 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2685.58 target=2682.32 left=589s",
-    "11:05:10 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=119.47 target=119.2547 left=589s",
-    "11:05:11 | DOGE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=0.09555 target=0.095346 left=589s",
-    "11:05:11 | STATUS | BTC:- CONTINUE_NOT_SAFE_ENOUGH 589s | ETH:- NO_CLEAR_OPPORTUNITY 589s | SOL:- CONTINUE_NOT_SAFE_ENOUGH 589s | DOGE:- CONTINUE_NOT_SAFE_ENOUGH 589s | BNB:- CONTINUE_NOT_SAFE_ENOUGH 589s | XRP:- NO_CLEAR_OPPORTUNITY 589s | ZEC:- CONTINUE_NOT_SAFE_ENOUGH 589s | NEAR:- CONTINUE_NOT_SAFE_ENOUGH 589s | entries=5 PNL=$-1.43",
-    "11:05:11 | NEAR | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=5.3634 target=5.3039 left=588s",
-    "11:05:12 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=84246.76 target=84088.21 left=588s",
-    "11:05:12 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5081 target=1.5044 left=588s",
     "11:05:13 | ZEC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1446.8 target=1442.035 left=587s",
     "11:05:13 | SOL | ENTRY AUDIT | INITIAL | side=NO setup=FOLD_DOWN lateral=False compressed=False micro_lateral=False micro_stepR=0.818 micro_spanR=4.000 micro_alts=2 lateral_reset=True breakout_dir=UP_REJECTED overlap=0.658 eff=0.435 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=True sweep_lo=False",
     "11:05:14 | SOL | ENTRY AUDIT | RECONFIRM | side=NO setup=FOLD_DOWN lateral=False compressed=False micro_lateral=False micro_stepR=0.818 micro_spanR=4.000 micro_alts=2 lateral_reset=True breakout_dir=UP_REJECTED overlap=0.658 eff=0.435 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=True sweep_lo=False",
@@ -1064,7 +1051,20 @@
     "11:14:34 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=84311.59 target=84088.21 left=26s",
     "11:14:34 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2687.51 target=2682.32 left=26s",
     "11:14:34 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=119.69 target=119.2547 left=25s",
-    "11:14:35 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1447.99 target=1442.035 left=25s"
+    "11:14:35 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1447.99 target=1442.035 left=25s",
+    "11:14:36 | XRP | NO TRADE | LATERAL_NO_INFORMATION | spot=1.5115 target=1.5044 left=23s",
+    "11:14:36 | STATUS | BTC:- NO_CLEAR_OPPORTUNITY 23s | ETH:- NO_CLEAR_OPPORTUNITY 23s | SOL:- NO_CLEAR_OPPORTUNITY 23s | XRP:- LATERAL_NO_INFORMATION 23s | ZEC:- NO_CLEAR_OPPORTUNITY 23s | entries=7 PNL=$-2.40",
+    "11:14:37 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=84315.28 target=84088.21 left=23s",
+    "11:14:37 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2687.48 target=2682.32 left=23s",
+    "11:14:37 | HYPE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=True micro_lateral=False micro_stepR=0.846 micro_spanR=1.846 micro_alts=3 lateral_reset=False breakout_dir=None overlap=0.752 eff=0.070 active_up=False active_dn=True buyer_stall=True seller_stall=False sweep_hi=False sweep_lo=False",
+    "11:14:37 | HYPE | ENTRY HARD BLOCK | INITIAL | COMPRESSED_NO_INFORMATION overlap=0.752 eff=0.070",
+    "11:14:38 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=119.69 target=119.2547 left=22s",
+    "11:14:39 | XRP | NO TRADE | LATERAL_NO_INFORMATION | spot=1.5115 target=1.5044 left=20s",
+    "11:14:41 | STATUS |  | entries=7 PNL=$-2.40",
+    "11:14:46 | STATUS |  | entries=7 PNL=$-2.40",
+    "11:14:51 | STATUS |  | entries=7 PNL=$-2.40",
+    "11:14:56 | STATUS |  | entries=7 PNL=$-2.40",
+    "11:15:01 | STATUS |  | entries=7 PNL=$-2.40"
   ],
   "trade_events": [
     "10:29:39 | ETH | ENTRY AUDIT | INITIAL | side=NO setup=CONTINUE_DOWN lateral=False compressed=True micro_lateral=False micro_stepR=0.417 micro_spanR=2.613 micro_alts=1 lateral_reset=False breakout_dir=None overlap=0.611 eff=0.044 active_up=False active_dn=True buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
@@ -1531,7 +1531,9 @@
     "11:14:24 | HYPE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=True micro_lateral=False micro_stepR=0.846 micro_spanR=1.846 micro_alts=3 lateral_reset=False breakout_dir=None overlap=0.752 eff=0.070 active_up=False active_dn=True buyer_stall=True seller_stall=False sweep_hi=False sweep_lo=False",
     "11:14:24 | HYPE | ENTRY HARD BLOCK | INITIAL | COMPRESSED_NO_INFORMATION overlap=0.752 eff=0.070",
     "11:14:31 | HYPE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=True micro_lateral=False micro_stepR=0.846 micro_spanR=1.846 micro_alts=3 lateral_reset=False breakout_dir=None overlap=0.752 eff=0.070 active_up=False active_dn=True buyer_stall=True seller_stall=False sweep_hi=False sweep_lo=False",
-    "11:14:31 | HYPE | ENTRY HARD BLOCK | INITIAL | COMPRESSED_NO_INFORMATION overlap=0.752 eff=0.070"
+    "11:14:31 | HYPE | ENTRY HARD BLOCK | INITIAL | COMPRESSED_NO_INFORMATION overlap=0.752 eff=0.070",
+    "11:14:37 | HYPE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=True micro_lateral=False micro_stepR=0.846 micro_spanR=1.846 micro_alts=3 lateral_reset=False breakout_dir=None overlap=0.752 eff=0.070 active_up=False active_dn=True buyer_stall=True seller_stall=False sweep_hi=False sweep_lo=False",
+    "11:14:37 | HYPE | ENTRY HARD BLOCK | INITIAL | COMPRESSED_NO_INFORMATION overlap=0.752 eff=0.070"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
