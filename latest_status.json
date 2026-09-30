@@ -6,70 +6,65 @@
   "entry_dollars_min": 0.25,
   "max_entry_ask": 0.8,
   "session_realized_pnl": 0.0,
-  "published_at": "2026-09-30T13:59:40+00:00",
+  "published_at": "2026-09-30T14:00:09+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 84551.95,
+      "spot": 84584.08,
       "market": "KXBTC15M-26SEP301000-00",
       "cycle_id": "KXBTC15M-26SEP301000-00",
       "position_open": false
     },
     "ETH": {
-      "spot": 2707.32,
+      "spot": 2708.38,
       "market": "KXETH15M-26SEP301000-00",
       "cycle_id": "KXETH15M-26SEP301000-00",
       "position_open": false
     },
     "SOL": {
-      "spot": 120.9,
+      "spot": 120.95,
       "market": "KXSOL15M-26SEP301000-00",
       "cycle_id": "KXSOL15M-26SEP301000-00",
       "position_open": false
     },
     "HYPE": {
-      "spot": 86.32,
+      "spot": 86.42,
       "market": "KXHYPE15M-26SEP301000-00",
       "cycle_id": "KXHYPE15M-26SEP301000-00",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09613,
+      "spot": 0.09626,
       "market": "KXDOGE15M-26SEP301000-00",
       "cycle_id": "KXDOGE15M-26SEP301000-00",
       "position_open": false
     },
     "BNB": {
-      "spot": 770.64,
+      "spot": 771.41,
       "market": "KXBNB15M-26SEP301000-00",
       "cycle_id": "KXBNB15M-26SEP301000-00",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5176,
+      "spot": 1.519,
       "market": "KXXRP15M-26SEP301000-00",
       "cycle_id": "KXXRP15M-26SEP301000-00",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1464.02,
+      "spot": 1467.04,
       "market": "KXZEC15M-26SEP301000-00",
       "cycle_id": "KXZEC15M-26SEP301000-00",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.3256,
+      "spot": 5.3435,
       "market": "KXNEAR15M-26SEP301000-00",
       "cycle_id": "KXNEAR15M-26SEP301000-00",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "08:55:48 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.3374 target=5.3413 left=252s",
-    "08:55:49 | HYPE | NO TRADE | LATERAL_NO_INFORMATION | spot=86.32 target=86.4581 left=250s",
-    "08:55:50 | BTC | NO TRADE | LATERAL_NO_INFORMATION | spot=84529.55 target=84435.58 left=250s",
-    "08:55:50 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2705.64 target=2701.27 left=250s",
-    "08:55:50 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1461.75 target=1459.832 left=250s",
     "08:55:50 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5162 target=1.5182 left=249s",
     "08:55:51 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.3343 target=5.3413 left=248s",
     "08:55:52 | STATUS | BTC:- LATERAL_NO_INFORMATION 247s | ETH:- NO_CLEAR_OPPORTUNITY 247s | SOL:- LATERAL_NO_INFORMATION 247s* | HYPE:- LATERAL_NO_INFORMATION 247s | XRP:- NO_CLEAR_OPPORTUNITY 247s | NEAR:- NO_CLEAR_OPPORTUNITY 247s | entries=3 PNL=$+0.00",
@@ -564,7 +559,12 @@
     "08:59:38 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=120.86 target=121.032 left=21s",
     "08:59:38 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5176 target=1.5182 left=21s",
     "08:59:39 | HYPE | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=86.28 target=86.4581 left=21s",
-    "08:59:39 | STATUS | BTC:- NO_CLEAR_OPPORTUNITY 20s | ETH:- NO_CLEAR_OPPORTUNITY 20s | SOL:- NO_CLEAR_OPPORTUNITY 20s | HYPE:- NO_CLEAR_OPPORTUNITY 20s | DOGE:NO CONTINUE_DOWN 20s | XRP:- NO_CLEAR_OPPORTUNITY 20s | ZEC:YES FOLD_UP 20s | NEAR:- NO_CLEAR_OPPORTUNITY 20s | entries=3 PNL=$+0.00"
+    "08:59:39 | STATUS | BTC:- NO_CLEAR_OPPORTUNITY 20s | ETH:- NO_CLEAR_OPPORTUNITY 20s | SOL:- NO_CLEAR_OPPORTUNITY 20s | HYPE:- NO_CLEAR_OPPORTUNITY 20s | DOGE:NO CONTINUE_DOWN 20s | XRP:- NO_CLEAR_OPPORTUNITY 20s | ZEC:YES FOLD_UP 20s | NEAR:- NO_CLEAR_OPPORTUNITY 20s | entries=3 PNL=$+0.00",
+    "08:59:45 | STATUS |  | entries=3 PNL=$+0.00",
+    "08:59:50 | STATUS |  | entries=3 PNL=$+0.00",
+    "08:59:55 | STATUS |  | entries=3 PNL=$+0.00",
+    "09:00:00 | STATUS |  | entries=3 PNL=$+0.00",
+    "09:00:05 | STATUS |  | entries=3 PNL=$+0.00"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
