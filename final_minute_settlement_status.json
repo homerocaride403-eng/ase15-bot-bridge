@@ -1,0 +1,118 @@
+{
+  "schema": "final_minute_settlement_real_v1",
+  "bot": "KALSHI_9CRYPTO_FINAL_MINUTE_SETTLEMENT_V1_2_REAL_050_GITHUB_FIX",
+  "live_real": true,
+  "entry_dollars_max": 0.5,
+  "strategy": "official CF Benchmarks final-minute settlement average",
+  "stats": {
+    "entries": 0,
+    "wins": 0,
+    "losses": 0,
+    "settled": 0,
+    "realized_pnl": 0.0
+  },
+  "open_positions": [],
+  "assets": {
+    "BTC": {
+      "ticker": "KXBTC15M-26SEP301900-00",
+      "target": 83762.43,
+      "rti": 83749.94,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    },
+    "ETH": {
+      "ticker": "KXETH15M-26SEP301900-00",
+      "target": 2690.1,
+      "rti": 2689.85,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    },
+    "SOL": {
+      "ticker": "KXSOL15M-26SEP301900-00",
+      "target": 118.382,
+      "rti": 118.33,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    },
+    "HYPE": {
+      "ticker": "KXHYPE15M-26SEP301900-00",
+      "target": 91.445,
+      "rti": 91.4601,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    },
+    "DOGE": {
+      "ticker": "KXDOGE15M-26SEP301900-00",
+      "target": 0.094651,
+      "rti": 0.094611,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    },
+    "BNB": {
+      "ticker": "KXBNB15M-26SEP301900-00",
+      "target": 768.83,
+      "rti": 769.017,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    },
+    "XRP": {
+      "ticker": "KXXRP15M-26SEP301900-00",
+      "target": 1.4928,
+      "rti": 1.49252,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    },
+    "ZEC": {
+      "ticker": "KXZEC15M-26SEP301900-00",
+      "target": 1435.6831,
+      "rti": 1435.4306,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    },
+    "NEAR": {
+      "ticker": "KXNEAR15M-26SEP301900-00",
+      "target": 5.3907,
+      "rti": 5.3791,
+      "settle_avg": null,
+      "window_size": 0,
+      "last_eval": null,
+      "position_open": false
+    }
+  },
+  "trade_events": [],
+  "recent_log_lines": [
+    "17:46:54 | KALSHI_9CRYPTO_FINAL_MINUTE_SETTLEMENT_V1_2_REAL_050_GITHUB_FIX | LIVE REAL | MAX $0.50 PER ENTRY",
+    "17:46:54 | ONLY PATH: OFFICIAL RTI -> FINAL-MINUTE PARTIAL AVG -> FLIP RISK -> VALUE -> IOC",
+    "17:46:54 | ENTRY: n>=45/60 | left 2-16s | flipZ>=3.25 | edge>=0.010 | ASK<=0.99",
+    "17:46:54 | GITHUB | homerocaride403-eng/ase15-bot-bridge/final_minute_settlement_status.json | every 10s",
+    "17:46:56 | PREFLIGHT | CF Benchmarks passthrough OK",
+    "17:46:56 | PREFLIGHT | BTC KXBTC15M-26SEP301900-00 target=83762.43",
+    "17:46:56 | PREFLIGHT | ETH KXETH15M-26SEP301900-00 target=2690.1",
+    "17:46:56 | PREFLIGHT | SOL KXSOL15M-26SEP301900-00 target=118.382",
+    "17:46:56 | PREFLIGHT | HYPE KXHYPE15M-26SEP301900-00 target=91.445",
+    "17:46:56 | PREFLIGHT | DOGE KXDOGE15M-26SEP301900-00 target=0.094651",
+    "17:46:57 | PREFLIGHT | BNB KXBNB15M-26SEP301900-00 target=768.83",
+    "17:46:57 | PREFLIGHT | XRP KXXRP15M-26SEP301900-00 target=1.4928",
+    "17:46:57 | PREFLIGHT | ZEC KXZEC15M-26SEP301900-00 target=1435.6831",
+    "17:46:57 | PREFLIGHT | NEAR KXNEAR15M-26SEP301900-00 target=5.3907",
+    "17:46:59 | CFB WS CONNECTED | 9 RTI | official final-minute average feed"
+  ],
+  "published_at": "2026-09-30T22:47:12+00:00",
+  "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
+}
