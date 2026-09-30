@@ -6,72 +6,65 @@
   "entry_dollars_min": 0.25,
   "max_entry_ask": 0.8,
   "session_realized_pnl": -0.7686800000000003,
-  "published_at": "2026-09-30T12:39:56+00:00",
+  "published_at": "2026-09-30T12:40:28+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 84764.22,
+      "spot": 84893.87,
       "market": "KXBTC15M-26SEP300845-45",
       "cycle_id": "KXBTC15M-26SEP300845-45",
       "position_open": false
     },
     "ETH": {
-      "spot": 2725.63,
+      "spot": 2729.6,
       "market": "KXETH15M-26SEP300845-45",
       "cycle_id": "KXETH15M-26SEP300845-45",
       "position_open": false
     },
     "SOL": {
-      "spot": 121.28,
+      "spot": 121.64,
       "market": "KXSOL15M-26SEP300845-45",
       "cycle_id": "KXSOL15M-26SEP300845-45",
       "position_open": false
     },
     "HYPE": {
-      "spot": 87.3,
+      "spot": 87.5,
       "market": "KXHYPE15M-26SEP300845-45",
       "cycle_id": "KXHYPE15M-26SEP300845-45",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09731,
+      "spot": 0.09734,
       "market": "KXDOGE15M-26SEP300845-45",
       "cycle_id": "KXDOGE15M-26SEP300845-45",
       "position_open": false
     },
     "BNB": {
-      "spot": 774.34,
+      "spot": 774.49,
       "market": "KXBNB15M-26SEP300845-45",
       "cycle_id": "KXBNB15M-26SEP300845-45",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5365,
+      "spot": 1.5378,
       "market": "KXXRP15M-26SEP300845-45",
       "cycle_id": "KXXRP15M-26SEP300845-45",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1456.15,
+      "spot": 1458.46,
       "market": "KXZEC15M-26SEP300845-45",
       "cycle_id": "KXZEC15M-26SEP300845-45",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.404,
+      "spot": 5.409,
       "market": "KXNEAR15M-26SEP300845-45",
       "cycle_id": "KXNEAR15M-26SEP300845-45",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "07:32:38 | DOGE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=0.09735 target=0.095632 left=741s",
-    "07:32:42 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=121.04 target=119.6612 left=738s",
-    "07:32:42 | DOGE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=0.09729 target=0.095632 left=738s",
-    "07:32:43 | STATUS | BTC:NO FOLD_DOWN 737s | ETH:NO FOLD_DOWN 737s | SOL:- CONTINUE_NOT_SAFE_ENOUGH 737s | HYPE:NO FOLD_DOWN 737s* | DOGE:- CONTINUE_NOT_SAFE_ENOUGH 737s | XRP:NO FOLD_DOWN 737s* | ZEC:NO FOLD_DOWN 737s | NEAR:NO FOLD_DOWN 737s | entries=7 PNL=$-0.18",
-    "07:32:45 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=121.1 target=119.6612 left=735s",
-    "07:32:45 | DOGE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=0.09743 target=0.095632 left=735s",
-    "07:32:48 | STATUS | BTC:NO FOLD_DOWN 732s | ETH:NO FOLD_DOWN 732s | SOL:- CONTINUE_NOT_SAFE_ENOUGH 732s | HYPE:NO FOLD_DOWN 732s* | DOGE:- CONTINUE_NOT_SAFE_ENOUGH 732s | XRP:NO FOLD_DOWN 732s* | ZEC:NO FOLD_DOWN 732s | NEAR:NO FOLD_DOWN 732s | entries=7 PNL=$-0.18",
     "07:32:48 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=121.09 target=119.6612 left=731s",
     "07:32:48 | DOGE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=0.09756 target=0.095632 left=731s",
     "07:32:51 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=121.16 target=119.6612 left=728s",
@@ -564,7 +557,14 @@
     "07:39:40 | STATUS | BTC:YES CONTINUE_UP 320s | ETH:YES CONTINUE_UP 320s | SOL:YES CONTINUE_UP 320s | XRP:YES CONTINUE_UP 320s | ZEC:YES CONTINUE_UP 320s | NEAR:- NO_CLEAR_OPPORTUNITY 320s | entries=9 PNL=$-0.77",
     "07:39:45 | STATUS | BTC:YES CONTINUE_UP 315s | ETH:YES CONTINUE_UP 315s | SOL:YES CONTINUE_UP 315s | DOGE:YES FOLD_UP 315s | XRP:YES CONTINUE_UP 315s | NEAR:YES CONTINUE_UP 315s | entries=9 PNL=$-0.77",
     "07:39:50 | STATUS | BTC:YES CONTINUE_UP 310s | ETH:YES CONTINUE_UP 310s | SOL:YES CONTINUE_UP 310s | DOGE:YES FOLD_UP 310s | XRP:YES CONTINUE_UP 310s | ZEC:YES CONTINUE_UP 310s | NEAR:YES CONTINUE_UP 310s | entries=9 PNL=$-0.77",
-    "07:39:55 | STATUS | BTC:YES CONTINUE_UP 305s | ETH:YES CONTINUE_UP 305s | SOL:YES CONTINUE_UP 305s | XRP:YES CONTINUE_UP 305s | ZEC:YES CONTINUE_UP 305s | NEAR:YES CONTINUE_UP 305s | entries=9 PNL=$-0.77"
+    "07:39:55 | STATUS | BTC:YES CONTINUE_UP 305s | ETH:YES CONTINUE_UP 305s | SOL:YES CONTINUE_UP 305s | XRP:YES CONTINUE_UP 305s | ZEC:YES CONTINUE_UP 305s | NEAR:YES CONTINUE_UP 305s | entries=9 PNL=$-0.77",
+    "07:40:00 | STATUS | BTC:YES CONTINUE_UP 300s | ETH:YES CONTINUE_UP 300s | SOL:YES CONTINUE_UP 300s | HYPE:YES CONTINUE_UP 300s | DOGE:YES FOLD_UP 300s | XRP:YES CONTINUE_UP 300s | ZEC:YES CONTINUE_UP 300s | NEAR:YES CONTINUE_UP 300s | entries=9 PNL=$-0.77",
+    "07:40:05 | STATUS | BTC:YES CONTINUE_UP 295s | ETH:YES CONTINUE_UP 295s | SOL:YES CONTINUE_UP 295s | XRP:YES CONTINUE_UP 295s | ZEC:YES CONTINUE_UP 295s | NEAR:YES CONTINUE_UP 295s | entries=9 PNL=$-0.77",
+    "07:40:10 | STATUS | BTC:YES CONTINUE_UP 290s | ETH:YES CONTINUE_UP 290s | SOL:YES CONTINUE_UP 290s | HYPE:YES CONTINUE_UP 290s | DOGE:YES CONTINUE_UP 290s | BNB:YES CONTINUE_UP 290s | XRP:YES CONTINUE_UP 290s | ZEC:YES CONTINUE_UP 290s | NEAR:YES CONTINUE_UP 290s | entries=9 PNL=$-0.77",
+    "07:40:10 | KALSHI WS CONNECTED | 9 books",
+    "07:40:15 | STATUS | BTC:YES CONTINUE_UP 284s | ETH:YES CONTINUE_UP 284s | SOL:YES CONTINUE_UP 284s | HYPE:YES CONTINUE_UP 284s | DOGE:YES CONTINUE_UP 284s | BNB:YES CONTINUE_UP 284s | XRP:YES CONTINUE_UP 284s | ZEC:YES CONTINUE_UP 284s | NEAR:YES CONTINUE_UP 284s | entries=9 PNL=$-0.77",
+    "07:40:20 | STATUS | BTC:YES CONTINUE_UP 279s | ETH:YES CONTINUE_UP 279s | SOL:YES CONTINUE_UP 279s | HYPE:YES CONTINUE_UP 279s | DOGE:YES CONTINUE_UP 279s | BNB:YES CONTINUE_UP 279s | XRP:YES CONTINUE_UP 279s | ZEC:YES CONTINUE_UP 279s | NEAR:YES CONTINUE_UP 279s | entries=9 PNL=$-0.77",
+    "07:40:25 | STATUS | BTC:YES CONTINUE_UP 274s | ETH:YES CONTINUE_UP 274s | SOL:YES CONTINUE_UP 274s | HYPE:YES CONTINUE_UP 274s | DOGE:YES CONTINUE_UP 274s | XRP:YES CONTINUE_UP 274s | ZEC:YES CONTINUE_UP 274s | entries=9 PNL=$-0.77"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
