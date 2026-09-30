@@ -6,7 +6,7 @@
   "entry_dollars_min": 0.2,
   "max_entry_ask": 0.8,
   "session_realized_pnl": 0.0,
-  "published_at": "2026-09-30T11:29:15+00:00",
+  "published_at": "2026-09-30T11:29:51+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
@@ -16,25 +16,25 @@
       "position_open": false
     },
     "ETH": {
-      "spot": 2692.77,
+      "spot": 2692.2,
       "market": "KXETH15M-26SEP300730-30",
       "cycle_id": "KXETH15M-26SEP300730-30",
       "position_open": false
     },
     "SOL": {
-      "spot": 119.56,
+      "spot": 119.52,
       "market": "KXSOL15M-26SEP300730-30",
       "cycle_id": "KXSOL15M-26SEP300730-30",
       "position_open": false
     },
     "HYPE": {
-      "spot": 86.93,
+      "spot": 86.94,
       "market": "KXHYPE15M-26SEP300730-30",
       "cycle_id": "KXHYPE15M-26SEP300730-30",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09532,
+      "spot": 0.09531,
       "market": "KXDOGE15M-26SEP300730-30",
       "cycle_id": "KXDOGE15M-26SEP300730-30",
       "position_open": false
@@ -46,19 +46,19 @@
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5128,
+      "spot": 1.5126,
       "market": "KXXRP15M-26SEP300730-30",
       "cycle_id": "KXXRP15M-26SEP300730-30",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1425.14,
+      "spot": 1424.67,
       "market": "KXZEC15M-26SEP300730-30",
       "cycle_id": "KXZEC15M-26SEP300730-30",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.3009,
+      "spot": 5.3014,
       "market": "KXNEAR15M-26SEP300730-30",
       "cycle_id": "KXNEAR15M-26SEP300730-30",
       "position_open": false
@@ -215,7 +215,41 @@
     "06:29:13 | DOGE | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=0.09532 target=0.095145 left=46s",
     "06:29:14 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83832.6 target=83806.52 left=45s",
     "06:29:14 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.302 target=5.3204 left=45s",
-    "06:29:15 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1425.14 target=1425.351 left=44s"
+    "06:29:15 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1425.14 target=1425.351 left=44s",
+    "06:29:16 | XRP | NO TRADE VALUE | YES CONTINUE_UP | spot=1.5127 target=1.5095 left=44s",
+    "06:29:17 | STATUS | BTC:- CONTINUE_NOT_SAFE_ENOUGH 42s | SOL:YES CONTINUE_UP 42s | XRP:YES CONTINUE_UP 42s | ZEC:- NO_CLEAR_OPPORTUNITY 42s | NEAR:- NO_CLEAR_OPPORTUNITY 42s | entries=1 PNL=$+0.00",
+    "06:29:17 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83832.6 target=83806.52 left=42s",
+    "06:29:17 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.2985 target=5.3204 left=42s",
+    "06:29:19 | ETH | NO TRADE VALUE | YES CONTINUE_UP | spot=2692.57 target=2690.21 left=41s",
+    "06:29:21 | SOL | NO TRADE VALUE | YES CONTINUE_UP | spot=119.57 target=119.439 left=39s",
+    "06:29:21 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.2988 target=5.3204 left=39s",
+    "06:29:21 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83832.61 target=83806.52 left=38s",
+    "06:29:22 | STATUS | BTC:- CONTINUE_NOT_SAFE_ENOUGH 37s | SOL:YES CONTINUE_UP 37s | XRP:YES CONTINUE_UP 37s | NEAR:- NO_CLEAR_OPPORTUNITY 37s | entries=1 PNL=$+0.00",
+    "06:29:24 | ETH | NO TRADE VALUE | YES CONTINUE_UP | spot=2692.72 target=2690.21 left=36s",
+    "06:29:24 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1425.29 target=1425.351 left=35s",
+    "06:29:24 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.2938 target=5.3204 left=35s",
+    "06:29:24 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83832.6 target=83806.52 left=35s",
+    "06:29:27 | SOL | NO TRADE VALUE | YES CONTINUE_UP | spot=119.56 target=119.439 left=34s",
+    "06:29:27 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1425.22 target=1425.351 left=32s",
+    "06:29:27 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.2963 target=5.3204 left=32s",
+    "06:29:27 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83832.6 target=83806.52 left=32s",
+    "06:29:27 | STATUS | BTC:- CONTINUE_NOT_SAFE_ENOUGH 32s | ETH:YES CONTINUE_UP 32s | SOL:YES CONTINUE_UP 32s | ZEC:- NO_CLEAR_OPPORTUNITY 32s | NEAR:- NO_CLEAR_OPPORTUNITY 32s | entries=1 PNL=$+0.00",
+    "06:29:29 | XRP | NO TRADE VALUE | YES CONTINUE_UP | spot=1.5126 target=1.5095 left=32s",
+    "06:29:30 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1425.24 target=1425.351 left=29s",
+    "06:29:30 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.2978 target=5.3204 left=29s",
+    "06:29:31 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83832.6 target=83806.52 left=29s",
+    "06:29:32 | STATUS | BTC:- CONTINUE_NOT_SAFE_ENOUGH 27s | ETH:YES CONTINUE_UP 27s | XRP:YES CONTINUE_UP 27s | ZEC:- NO_CLEAR_OPPORTUNITY 27s | NEAR:- NO_CLEAR_OPPORTUNITY 27s | entries=1 PNL=$+0.00",
+    "06:29:33 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.302 target=5.3204 left=26s",
+    "06:29:34 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83832.6 target=83806.52 left=26s",
+    "06:29:36 | SOL | NO TRADE VALUE | YES CONTINUE_UP | spot=119.54 target=119.439 left=24s",
+    "06:29:36 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1424.94 target=1425.351 left=23s",
+    "06:29:37 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.302 target=5.3204 left=23s",
+    "06:29:37 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83832.6 target=83806.52 left=23s",
+    "06:29:38 | STATUS | BTC:- CONTINUE_NOT_SAFE_ENOUGH 22s | ETH:YES CONTINUE_UP 22s | SOL:YES CONTINUE_UP 22s | XRP:YES CONTINUE_UP 22s | ZEC:- NO_CLEAR_OPPORTUNITY 22s | NEAR:- NO_CLEAR_OPPORTUNITY 22s | entries=1 PNL=$+0.00",
+    "06:29:38 | ETH | NO TRADE VALUE | YES CONTINUE_UP | spot=2692.82 target=2690.21 left=23s",
+    "06:29:43 | STATUS |  | entries=1 PNL=$+0.00",
+    "06:29:46 | KALSHI WS CONNECTED | 9 books",
+    "06:29:48 | STATUS |  | entries=1 PNL=$+0.00"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
