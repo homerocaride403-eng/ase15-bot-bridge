@@ -5,7 +5,7 @@
   "entry_dollars": 0.35,
   "max_entry_ask": 0.85,
   "session_realized_pnl": 0.0,
-  "published_at": "2026-09-30T01:24:05+00:00",
+  "published_at": "2026-09-30T01:26:15+00:00",
   "open_positions": [
     {
       "asset": null,
@@ -19,55 +19,55 @@
   ],
   "assets": {
     "BTC": {
-      "spot": 83371.45,
+      "spot": 83379.32,
       "market": "KXBTC15M-26SEP292130-30",
       "cycle_id": "KXBTC15M-26SEP292130-30",
       "position_open": false
     },
     "ETH": {
-      "spot": 2671.17,
+      "spot": 2671.93,
       "market": "KXETH15M-26SEP292130-30",
       "cycle_id": "KXETH15M-26SEP292130-30",
       "position_open": false
     },
     "SOL": {
-      "spot": 119.26,
+      "spot": 119.25,
       "market": "KXSOL15M-26SEP292130-30",
       "cycle_id": "KXSOL15M-26SEP292130-30",
       "position_open": false
     },
     "HYPE": {
-      "spot": 86.38,
+      "spot": 86.37,
       "market": "KXHYPE15M-26SEP292130-30",
       "cycle_id": "KXHYPE15M-26SEP292130-30",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09402,
+      "spot": 0.09405,
       "market": "KXDOGE15M-26SEP292130-30",
       "cycle_id": "KXDOGE15M-26SEP292130-30",
       "position_open": false
     },
     "BNB": {
-      "spot": 760.77,
+      "spot": 760.86,
       "market": "KXBNB15M-26SEP292130-30",
       "cycle_id": "KXBNB15M-26SEP292130-30",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.4963,
+      "spot": 1.4961,
       "market": "KXXRP15M-26SEP292130-30",
       "cycle_id": "KXXRP15M-26SEP292130-30",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1420.51,
+      "spot": 1421.74,
       "market": "KXZEC15M-26SEP292130-30",
       "cycle_id": "KXZEC15M-26SEP292130-30",
       "position_open": true
     },
     "NEAR": {
-      "spot": 5.0474,
+      "spot": 5.0549,
       "market": "KXNEAR15M-26SEP292130-30",
       "cycle_id": "KXNEAR15M-26SEP292130-30",
       "position_open": false
@@ -191,7 +191,49 @@
     "20:23:44 | STATUS | BTC:- 0.63 376s | SOL:- 0.56 376s | HYPE:- 0.53 376s | XRP:- 0.59 375s | ZEC:N 0.73 375s* | NEAR:- 0.52 375s | entries=1 PNL=$+0.00",
     "20:23:49 | STATUS | BTC:- 0.66 370s | SOL:- 0.57 370s | XRP:- 0.56 370s | entries=1 PNL=$+0.00",
     "20:23:55 | STATUS | BTC:- 0.64 365s | ETH:- 0.54 365s | SOL:- 0.58 365s | XRP:- 0.54 365s | entries=1 PNL=$+0.00",
-    "20:24:00 | STATUS | BTC:- 0.59 360s | XRP:- 0.59 360s | NEAR:- 0.52 360s | entries=1 PNL=$+0.00"
+    "20:24:00 | STATUS | BTC:- 0.59 360s | XRP:- 0.59 360s | NEAR:- 0.52 360s | entries=1 PNL=$+0.00",
+    "20:24:05 | STATUS | BTC:- 0.62 354s | ETH:- 0.51 354s | SOL:- 0.62 354s | XRP:- 0.51 354s | entries=1 PNL=$+0.00",
+    "20:24:10 | STATUS | BTC:- 0.58 349s | ETH:- 0.52 349s | SOL:- 0.63 349s | XRP:- 0.57 349s | ZEC:N 0.72 349s* | entries=1 PNL=$+0.00",
+    "20:24:16 | STATUS | BTC:- 0.51 344s | ETH:- 0.55 344s | SOL:- 0.67 344s | entries=1 PNL=$+0.00",
+    "20:24:21 | STATUS | BTC:- 0.55 339s | SOL:- 0.66 339s | entries=1 PNL=$+0.00",
+    "20:24:26 | STATUS | BTC:- 0.53 334s | ETH:- 0.53 334s | SOL:- 0.68 334s | entries=1 PNL=$+0.00",
+    "20:24:31 | STATUS | BTC:- 0.56 328s | ETH:- 0.55 328s | SOL:- 0.61 328s | XRP:- 0.55 328s | NEAR:- 0.55 328s | entries=1 PNL=$+0.00",
+    "20:24:35 | KALSHI WS CONNECTED | 9 books",
+    "20:24:36 | STATUS | BTC:- 0.51 323s | ETH:- 0.52 323s | SOL:- 0.56 323s | XRP:- 0.55 323s | NEAR:- 0.52 323s | entries=1 PNL=$+0.00",
+    "20:24:41 | STATUS | BTC:- 0.52 318s | ETH:- 0.51 318s | SOL:- 0.60 318s | entries=1 PNL=$+0.00",
+    "20:24:47 | STATUS | BTC:- 0.52 313s | SOL:- 0.62 313s | XRP:- 0.62 313s | entries=1 PNL=$+0.00",
+    "20:24:52 | STATUS | BTC:- 0.52 308s | ETH:- 0.55 308s | SOL:- 0.65 308s | entries=1 PNL=$+0.00",
+    "20:24:57 | STATUS | BTC:- 0.53 303s | ETH:- 0.56 303s | SOL:- 0.66 303s | XRP:- 0.52 302s | entries=1 PNL=$+0.00",
+    "20:25:02 | STATUS | BTC:- 0.50 297s | ETH:- 0.57 297s | SOL:- 0.69 297s | XRP:- 0.60 297s | ZEC:- 0.69 297s* | entries=1 PNL=$+0.00",
+    "20:25:07 | STATUS | BTC:- 0.53 292s | XRP:- 0.58 292s | ZEC:- 0.65 292s* | entries=1 PNL=$+0.00",
+    "20:25:10 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0529 rejectATR=0.71 | spot=5.0496 left=289.4s",
+    "20:25:12 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0529 rejectATR=0.71 | spot=5.0496 left=287.4s",
+    "20:25:13 | STATUS | BTC:- 0.60 287s | ETH:- 0.58 287s | SOL:- 0.66 287s | NEAR:- 0.72 287s | entries=1 PNL=$+0.00",
+    "20:25:14 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0529 rejectATR=0.71 | spot=5.05 left=285.3s",
+    "20:25:18 | STATUS | BTC:- 0.62 282s | SOL:- 0.63 282s | XRP:- 0.56 282s | entries=1 PNL=$+0.00",
+    "20:25:18 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0529 rejectATR=0.71 | spot=5.052 left=281.0s",
+    "20:25:21 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0531 rejectATR=0.72 | spot=5.0539 left=279.0s",
+    "20:25:23 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0531 rejectATR=0.72 | spot=5.0539 left=277.0s",
+    "20:25:23 | STATUS | BTC:- 0.58 277s | ETH:- 0.66 277s | SOL:- 0.62 277s | XRP:- 0.55 277s | ZEC:- 0.69 277s* | NEAR:- 0.72 277s | entries=1 PNL=$+0.00",
+    "20:25:26 | KALSHI WS CONNECTED | 9 books",
+    "20:25:27 | ZEC | WATCHDOG ERROR: cannot access local variable 'bid' where it is not associated with a value",
+    "20:25:28 | STATUS | BTC:- 0.57 271s | ETH:- 0.65 271s | XRP:- 0.53 271s | entries=1 PNL=$+0.00",
+    "20:25:29 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0532 rejectATR=0.73 | spot=5.0538 left=270.1s",
+    "20:25:31 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0532 rejectATR=0.73 | spot=5.0538 left=268.1s",
+    "20:25:34 | STATUS | BTC:- 0.56 266s | ETH:- 0.65 266s | XRP:- 0.53 266s | ZEC:- 0.64 266s* | NEAR:- 0.75 266s | entries=1 PNL=$+0.00",
+    "20:25:34 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0537 rejectATR=0.77 | spot=5.0537 left=265.7s",
+    "20:25:36 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0537 rejectATR=0.77 | spot=5.0537 left=263.6s",
+    "20:25:38 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0537 rejectATR=0.77 | spot=5.0532 left=261.6s",
+    "20:25:39 | STATUS | BTC:- 0.53 260s | ETH:- 0.68 260s | SOL:- 0.64 260s | NEAR:- 0.74 260s | entries=1 PNL=$+0.00",
+    "20:25:44 | STATUS | BTC:- 0.58 255s | ETH:- 0.58 255s | XRP:- 0.52 255s | entries=1 PNL=$+0.00",
+    "20:25:50 | STATUS | BTC:- 0.55 250s | ETH:- 0.62 250s | SOL:- 0.59 250s | DOGE:- 0.60 250s | XRP:- 0.52 250s | entries=1 PNL=$+0.00",
+    "20:25:51 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0538 rejectATR=0.78 | spot=5.0549 left=248.6s",
+    "20:25:53 | NEAR | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=4 zone=5.0538 rejectATR=0.78 | spot=5.0549 left=246.6s",
+    "20:25:55 | STATUS | BTC:- 0.57 245s | XRP:- 0.55 245s | entries=1 PNL=$+0.00",
+    "20:26:00 | STATUS | BTC:- 0.55 239s | SOL:- 0.62 239s | XRP:- 0.54 239s | entries=1 PNL=$+0.00",
+    "20:26:05 | STATUS | BTC:- 0.57 234s | SOL:- 0.56 234s | entries=1 PNL=$+0.00",
+    "20:26:07 | ZEC | market refresh error: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "20:26:11 | STATUS | BTC:- 0.54 229s | ETH:- 0.60 229s | SOL:- 0.58 229s | XRP:- 0.58 229s | entries=1 PNL=$+0.00"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
