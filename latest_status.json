@@ -5,62 +5,72 @@
   "entry_dollars": 0.35,
   "max_entry_ask": 0.85,
   "session_realized_pnl": 0.0,
-  "published_at": "2026-09-30T01:48:25+00:00",
-  "open_positions": [],
+  "published_at": "2026-09-30T01:50:13+00:00",
+  "open_positions": [
+    {
+      "asset": null,
+      "ticker": "KXNEAR15M-26SEP292200-00",
+      "side": "NO",
+      "entry": 0.65,
+      "qty": 0.53,
+      "entry_ts": 1790733008.5283623,
+      "close_ts": 1790733600.0
+    }
+  ],
   "assets": {
     "BTC": {
-      "spot": 83411.99,
+      "spot": 83382.63,
       "market": "KXBTC15M-26SEP292200-00",
       "cycle_id": "KXBTC15M-26SEP292200-00",
       "position_open": false
     },
     "ETH": {
-      "spot": 2671.53,
+      "spot": 2670.79,
       "market": "KXETH15M-26SEP292200-00",
       "cycle_id": "KXETH15M-26SEP292200-00",
       "position_open": false
     },
     "SOL": {
-      "spot": 119.46,
+      "spot": 119.35,
       "market": "KXSOL15M-26SEP292200-00",
       "cycle_id": "KXSOL15M-26SEP292200-00",
       "position_open": false
     },
     "HYPE": {
-      "spot": 86.44,
+      "spot": 86.4,
       "market": "KXHYPE15M-26SEP292200-00",
       "cycle_id": "KXHYPE15M-26SEP292200-00",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09408,
+      "spot": 0.09397,
       "market": "KXDOGE15M-26SEP292200-00",
       "cycle_id": "KXDOGE15M-26SEP292200-00",
       "position_open": false
     },
     "BNB": {
-      "spot": 760.14,
+      "spot": 760.03,
       "market": "KXBNB15M-26SEP292200-00",
       "cycle_id": "KXBNB15M-26SEP292200-00",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.4984,
+      "spot": 1.4973,
       "market": "KXXRP15M-26SEP292200-00",
       "cycle_id": "KXXRP15M-26SEP292200-00",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1423.65,
+      "spot": 1421.2,
       "market": "KXZEC15M-26SEP292200-00",
       "cycle_id": "KXZEC15M-26SEP292200-00",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.0216,
+      "spot": 5.006,
       "market": "KXNEAR15M-26SEP292200-00",
       "cycle_id": "KXNEAR15M-26SEP292200-00",
-      "position_open": false
+      "position_open": true
     }
   },
   "recent_log_lines": [
@@ -110,7 +120,44 @@
     "20:48:09 | STATUS | BTC:- 0.68 711s | ETH:Y 0.75 711s | SOL:- 0.71 710s | XRP:- 0.64 710s | ZEC:- 0.53 710s | NEAR:- 0.62 710s | entries=0 PNL=$+0.00",
     "20:48:14 | ETH | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=2 zone=2671.9 rejectATR=0.23 | spot=2671.53 left=705.6s",
     "20:48:15 | STATUS | BTC:- 0.65 705s | ETH:- 0.71 705s | XRP:- 0.61 705s | entries=0 PNL=$+0.00",
-    "20:48:20 | STATUS | BTC:- 0.62 700s | XRP:- 0.57 700s | entries=0 PNL=$+0.00"
+    "20:48:20 | STATUS | BTC:- 0.62 700s | XRP:- 0.57 700s | entries=0 PNL=$+0.00",
+    "20:48:25 | ETH | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=2 zone=2671.9 rejectATR=0.23 | spot=2671.62 left=694.5s",
+    "20:48:25 | STATUS | BTC:- 0.63 694s | ETH:- 0.72 694s | SOL:- 0.69 694s | BNB:- 0.63 694s | XRP:- 0.60 694s | ZEC:- 0.55 694s | NEAR:- 0.52 694s | entries=0 PNL=$+0.00",
+    "20:48:28 | KALSHI WS CONNECTED | 9 books",
+    "20:48:30 | STATUS | BTC:- 0.62 689s | SOL:- 0.64 689s | DOGE:- 0.66 689s | BNB:- 0.63 689s | XRP:- 0.55 689s | NEAR:- 0.57 689s | entries=0 PNL=$+0.00",
+    "20:48:35 | STATUS | BTC:- 0.53 684s | SOL:- 0.57 684s | HYPE:- 0.63 684s | entries=0 PNL=$+0.00",
+    "20:48:40 | STATUS | BTC:- 0.55 679s | SOL:- 0.63 679s | BNB:- 0.57 679s | NEAR:- 0.70 679s | entries=0 PNL=$+0.00",
+    "20:48:46 | STATUS | BTC:- 0.55 674s | ETH:- 0.64 674s | SOL:- 0.64 674s | NEAR:- 0.67 674s | entries=0 PNL=$+0.00",
+    "20:48:46 | ETH | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=3 zone=2671.89 rejectATR=0.47 | spot=2671.64 left=673.8s",
+    "20:48:49 | ETH | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=3 zone=2671.9 rejectATR=0.48 | spot=2671.91 left=670.5s",
+    "20:48:51 | STATUS | BTC:- 0.62 669s | ETH:- 0.75 669s | SOL:- 0.69 669s | DOGE:- 0.66 669s | BNB:- 0.63 669s | XRP:- 0.61 669s | entries=0 PNL=$+0.00",
+    "20:48:51 | ETH | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=3 zone=2671.9 rejectATR=0.48 | spot=2671.91 left=668.4s",
+    "20:48:53 | ETH | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=3 zone=2671.9 rejectATR=0.48 | spot=2671.9 left=666.3s",
+    "20:48:56 | STATUS | BTC:- 0.57 664s | SOL:- 0.63 664s | ZEC:- 0.55 663s | NEAR:- 0.65 663s | entries=0 PNL=$+0.00",
+    "20:49:01 | STATUS | BTC:- 0.57 658s | XRP:- 0.61 658s | entries=0 PNL=$+0.00",
+    "20:49:07 | STATUS | BTC:- 0.56 653s | ETH:- 0.60 653s | SOL:- 0.59 653s | XRP:- 0.56 653s | entries=0 PNL=$+0.00",
+    "20:49:12 | STATUS | BTC:- 0.56 648s | ETH:- 0.64 648s | SOL:- 0.56 648s | NEAR:- 0.64 648s | entries=0 PNL=$+0.00",
+    "20:49:17 | STATUS | BTC:- 0.52 642s | SOL:- 0.52 642s | XRP:- 0.54 642s | ZEC:- 0.53 642s | NEAR:- 0.67 642s | entries=0 PNL=$+0.00",
+    "20:49:17 | KALSHI WS CONNECTED | 9 books",
+    "20:49:22 | STATUS | BTC:- 0.50 637s | SOL:- 0.61 637s | XRP:- 0.58 637s | entries=0 PNL=$+0.00",
+    "20:49:28 | STATUS | BTC:- 0.51 632s | SOL:- 0.61 632s | DOGE:- 0.58 632s | XRP:- 0.55 632s | ZEC:- 0.56 632s | entries=0 PNL=$+0.00",
+    "20:49:33 | STATUS | BTC:- 0.52 627s | ETH:- 0.62 627s | SOL:- 0.61 627s | XRP:- 0.60 627s | entries=0 PNL=$+0.00",
+    "20:49:38 | STATUS | BTC:- 0.51 621s | SOL:- 0.63 621s | NEAR:- 0.62 621s | entries=0 PNL=$+0.00",
+    "20:49:40 | ETH | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=5 zone=2671.9 rejectATR=0.50 | spot=2671.77 left=619.2s",
+    "20:49:42 | ETH | NO TRADE ZONE DEFENSE | SUPPLY_DEFENDED tests=5 zone=2671.9 rejectATR=0.50 | spot=2671.77 left=617.1s",
+    "20:49:42 | NEAR | NO TRADE REVERSAL CONFIRM | REVERSAL_TURN_NOT_CONFIRMED side=NO tests=2 age=81.0s moveATR=0.90 m5=+0.10 m15=+0.02 traj=+0.17 | spot=5.0097 open15=5.0251 left=617.0s",
+    "20:49:44 | STATUS | ETH:- 0.66 616s | SOL:- 0.64 616s | NEAR:- 0.72 616s | entries=0 PNL=$+0.00",
+    "20:49:45 | NEAR | NO TRADE REVERSAL CONFIRM | REVERSAL_TURN_NOT_CONFIRMED side=NO tests=2 age=83.0s moveATR=0.90 m5=+0.10 m15=+0.02 traj=+0.18 | spot=5.0097 open15=5.0251 left=615.0s",
+    "20:49:49 | STATUS | BTC:- 0.51 611s | ETH:- 0.60 611s | SOL:- 0.57 611s | XRP:- 0.52 611s | ZEC:- 0.52 610s | entries=0 PNL=$+0.00",
+    "20:49:53 | NEAR | VALUE BLOCK NO | score=0.737 | NO_VALUE proxy=+0.002",
+    "20:49:55 | STATUS | BTC:- 0.53 605s | ETH:- 0.53 605s | entries=0 PNL=$+0.00",
+    "20:50:00 | STATUS | BTC:- 0.54 600s | entries=0 PNL=$+0.00",
+    "20:50:05 | STATUS | BTC:- 0.53 594s | SOL:- 0.61 594s | HYPE:- 0.52 594s | XRP:- 0.51 594s | NEAR:N 0.76 594s | entries=0 PNL=$+0.00",
+    "20:50:07 | KALSHI WS CONNECTED | 9 books",
+    "20:50:07 | NEAR | ENTRY SIGNAL NO | score=0.761 evidence=6/6 | spot=5.006 open15=5.0251 left=593.3s | SURVIVAL_RISK=0.15 reasons=CROSS_TIME=0.61 | SETTLE_PATH_RISK=0.00 opp_zone=4.9578 route=0.11550000000000082 | position=-1.00 trajectory=-0.28 structure=-0.50 zones_profile=-0.45 orderflow=-0.47 feasibility=-0.43",
+    "20:50:07 | NEAR | PREORDER BOOK | ask=0.650 bid=0.62 spread=0.030000000000000027 qty=0.53 source=REST",
+    "20:50:08 | NEAR | ENTRY REAL NO | fill=0.650 qty=0.53 cost≈$0.34 | order=1192ms total=1514ms",
+    "20:50:10 | STATUS | BTC:- 0.50 589s | XRP:- 0.51 589s | ZEC:- 0.54 589s | entries=1 PNL=$+0.00"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
