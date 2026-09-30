@@ -6,70 +6,65 @@
   "entry_dollars_min": 0.25,
   "max_entry_ask": 0.8,
   "session_realized_pnl": -1.43208,
-  "published_at": "2026-09-30T16:59:48+00:00",
+  "published_at": "2026-09-30T17:00:14+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 84284.57,
-      "market": "KXBTC15M-26SEP301300-00",
+      "spot": 84284.0,
+      "market": null,
       "cycle_id": "KXBTC15M-26SEP301300-00",
       "position_open": false
     },
     "ETH": {
-      "spot": 2693.26,
-      "market": "KXETH15M-26SEP301300-00",
+      "spot": 2693.31,
+      "market": null,
       "cycle_id": "KXETH15M-26SEP301300-00",
       "position_open": false
     },
     "SOL": {
-      "spot": 120.26,
-      "market": "KXSOL15M-26SEP301300-00",
+      "spot": 120.25,
+      "market": null,
       "cycle_id": "KXSOL15M-26SEP301300-00",
       "position_open": false
     },
     "HYPE": {
-      "spot": 90.2,
-      "market": "KXHYPE15M-26SEP301300-00",
+      "spot": 90.31,
+      "market": null,
       "cycle_id": "KXHYPE15M-26SEP301300-00",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.0952,
-      "market": "KXDOGE15M-26SEP301300-00",
+      "spot": 0.09516,
+      "market": null,
       "cycle_id": "KXDOGE15M-26SEP301300-00",
       "position_open": false
     },
     "BNB": {
-      "spot": 769.71,
-      "market": "KXBNB15M-26SEP301300-00",
+      "spot": 769.57,
+      "market": null,
       "cycle_id": "KXBNB15M-26SEP301300-00",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5113,
-      "market": "KXXRP15M-26SEP301300-00",
+      "spot": 1.5102,
+      "market": null,
       "cycle_id": "KXXRP15M-26SEP301300-00",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1467.95,
-      "market": "KXZEC15M-26SEP301300-00",
+      "spot": 1467.67,
+      "market": null,
       "cycle_id": "KXZEC15M-26SEP301300-00",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.4203,
-      "market": "KXNEAR15M-26SEP301300-00",
+      "spot": 5.4078,
+      "market": null,
       "cycle_id": "KXNEAR15M-26SEP301300-00",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "11:51:38 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=120.14 target=120.075 left=501s",
-    "11:51:39 | STATUS | BTC:- NO_CLEAR_OPPORTUNITY 501s | ETH:- NO_CLEAR_OPPORTUNITY 501s | SOL:- NO_CLEAR_OPPORTUNITY 501s | HYPE:YES CONTINUE_UP 501s* | XRP:- NO_CLEAR_OPPORTUNITY 501s | NEAR:- CONTINUE_NOT_SAFE_ENOUGH 501s | entries=3 PNL=$-0.72",
-    "11:51:39 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5106 target=1.511 left=501s",
-    "11:51:39 | DOGE | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=0.09522 target=0.09528 left=500s",
-    "11:51:40 | NEAR | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=5.475 target=5.4478 left=500s",
     "11:51:41 | ZEC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1473.57 target=1463.0949 left=499s",
     "11:51:41 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2690.57 target=2690.29 left=499s",
     "11:51:42 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=84313.93 target=84308.23 left=498s",
@@ -1064,7 +1059,12 @@
     "11:59:38 | HYPE | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=90.18 target=89.629 left=22s",
     "11:59:39 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1467.95 target=1463.0949 left=21s",
     "11:59:40 | STATUS |  | entries=5 PNL=$-1.43",
-    "11:59:45 | STATUS |  | entries=5 PNL=$-1.43"
+    "11:59:45 | STATUS |  | entries=5 PNL=$-1.43",
+    "11:59:50 | STATUS |  | entries=5 PNL=$-1.43",
+    "11:59:55 | STATUS |  | entries=5 PNL=$-1.43",
+    "12:00:00 | STATUS |  | entries=5 PNL=$-1.43",
+    "12:00:05 | STATUS |  | entries=5 PNL=$-1.43",
+    "12:00:10 | STATUS |  | entries=5 PNL=$-1.43"
   ],
   "trade_events": [
     "11:34:22 | SELFTEST | ENTRY AUDIT | ETH_LATERAL_MUST_BLOCK | side=YES setup=FOLD_UP lateral=True compressed=True micro_lateral=False micro_stepR=0.000 micro_spanR=0.000 micro_alts=0 lateral_reset=False breakout_dir=None overlap=0.720 eff=0.180 active_up=False active_dn=False buyer_stall=False seller_stall=False sweep_hi=False sweep_lo=False",
