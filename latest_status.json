@@ -6,70 +6,65 @@
   "entry_dollars_min": 0.2,
   "max_entry_ask": 0.8,
   "session_realized_pnl": 1.46729,
-  "published_at": "2026-09-30T12:29:40+00:00",
+  "published_at": "2026-09-30T12:30:07+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 83859.09,
-      "market": "KXBTC15M-26SEP300830-30",
+      "spot": 83860.96,
+      "market": null,
       "cycle_id": "KXBTC15M-26SEP300830-30",
       "position_open": false
     },
     "ETH": {
-      "spot": 2697.28,
-      "market": "KXETH15M-26SEP300830-30",
+      "spot": 2699.77,
+      "market": null,
       "cycle_id": "KXETH15M-26SEP300830-30",
       "position_open": false
     },
     "SOL": {
-      "spot": 119.64,
-      "market": "KXSOL15M-26SEP300830-30",
+      "spot": 119.62,
+      "market": null,
       "cycle_id": "KXSOL15M-26SEP300830-30",
       "position_open": false
     },
     "HYPE": {
-      "spot": 86.42,
-      "market": "KXHYPE15M-26SEP300830-30",
+      "spot": 86.49,
+      "market": null,
       "cycle_id": "KXHYPE15M-26SEP300830-30",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09559,
-      "market": "KXDOGE15M-26SEP300830-30",
+      "spot": 0.09558,
+      "market": null,
       "cycle_id": "KXDOGE15M-26SEP300830-30",
       "position_open": false
     },
     "BNB": {
-      "spot": 768.88,
-      "market": "KXBNB15M-26SEP300830-30",
+      "spot": 768.72,
+      "market": null,
       "cycle_id": "KXBNB15M-26SEP300830-30",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5105,
-      "market": "KXXRP15M-26SEP300830-30",
+      "spot": 1.5106,
+      "market": null,
       "cycle_id": "KXXRP15M-26SEP300830-30",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1427.08,
+      "spot": 1427.79,
       "market": "KXZEC15M-26SEP300830-30",
       "cycle_id": "KXZEC15M-26SEP300830-30",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.2862,
+      "spot": 5.274,
       "market": "KXNEAR15M-26SEP300830-30",
       "cycle_id": "KXNEAR15M-26SEP300830-30",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "07:24:51 | HYPE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=86.5 target=86.4611 left=309s",
-    "07:24:52 | ZEC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1428.86 target=1431.2271 left=308s",
-    "07:24:52 | STATUS | BTC:- CONTINUE_NOT_SAFE_ENOUGH 308s | ETH:- NO_CLEAR_OPPORTUNITY 308s | SOL:- NO_CLEAR_OPPORTUNITY 308s | HYPE:- CONTINUE_NOT_SAFE_ENOUGH 308s | XRP:- NO_CLEAR_OPPORTUNITY 308s | ZEC:- NO_CLEAR_OPPORTUNITY 308s | NEAR:- CONTINUE_NOT_SAFE_ENOUGH 308s | entries=34 PNL=$+1.47",
-    "07:24:52 | NEAR | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=5.2858 target=5.3167 left=308s",
-    "07:24:53 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=83860.81 target=83825.81 left=306s",
     "07:24:53 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2697.48 target=2697.15 left=306s",
     "07:24:53 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5109 target=1.5126 left=306s",
     "07:24:54 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=119.71 target=119.6553 left=306s",
@@ -564,7 +559,12 @@
     "07:29:37 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=119.64 target=119.6553 left=23s",
     "07:29:38 | STATUS | BTC:- NO_CLEAR_OPPORTUNITY 22s | ETH:- NO_CLEAR_OPPORTUNITY 22s | SOL:- NO_CLEAR_OPPORTUNITY 22s | XRP:- NO_CLEAR_OPPORTUNITY 22s | NEAR:- NO_CLEAR_OPPORTUNITY 22s | entries=34 PNL=$+1.47",
     "07:29:38 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5103 target=1.5126 left=22s",
-    "07:29:38 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=83854.62 target=83825.81 left=21s"
+    "07:29:38 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=83854.62 target=83825.81 left=21s",
+    "07:29:43 | STATUS |  | entries=34 PNL=$+1.47",
+    "07:29:48 | STATUS |  | entries=34 PNL=$+1.47",
+    "07:29:53 | STATUS |  | entries=34 PNL=$+1.47",
+    "07:29:58 | STATUS |  | entries=34 PNL=$+1.47",
+    "07:30:03 | STATUS |  | entries=34 PNL=$+1.47"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
