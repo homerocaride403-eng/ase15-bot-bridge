@@ -16,7 +16,7 @@
     "BTC": {
       "ticker": "KXBTC15M-26SEP301900-00",
       "target": 83762.43,
-      "rti": 83649.86,
+      "rti": 83642.55,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -25,7 +25,7 @@
     "ETH": {
       "ticker": "KXETH15M-26SEP301900-00",
       "target": 2690.1,
-      "rti": 2686.75,
+      "rti": 2686.69,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -34,7 +34,7 @@
     "SOL": {
       "ticker": "KXSOL15M-26SEP301900-00",
       "target": 118.382,
-      "rti": 118.14,
+      "rti": 118.11,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -43,7 +43,7 @@
     "HYPE": {
       "ticker": "KXHYPE15M-26SEP301900-00",
       "target": 91.445,
-      "rti": 91.4041,
+      "rti": 91.3283,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -52,7 +52,7 @@
     "DOGE": {
       "ticker": "KXDOGE15M-26SEP301900-00",
       "target": 0.094651,
-      "rti": 0.094501,
+      "rti": 0.094477,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -61,7 +61,7 @@
     "BNB": {
       "ticker": "KXBNB15M-26SEP301900-00",
       "target": 768.83,
-      "rti": 769.227,
+      "rti": 769.162,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -70,7 +70,7 @@
     "XRP": {
       "ticker": "KXXRP15M-26SEP301900-00",
       "target": 1.4928,
-      "rti": 1.48949,
+      "rti": 1.4889,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -79,7 +79,7 @@
     "ZEC": {
       "ticker": "KXZEC15M-26SEP301900-00",
       "target": 1435.6831,
-      "rti": 1435.732,
+      "rti": 1434.2048,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -88,7 +88,7 @@
     "NEAR": {
       "ticker": "KXNEAR15M-26SEP301900-00",
       "target": 5.3907,
-      "rti": 5.3516,
+      "rti": 5.3479,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -113,6 +113,6 @@
     "17:46:57 | PREFLIGHT | NEAR KXNEAR15M-26SEP301900-00 target=5.3907",
     "17:46:59 | CFB WS CONNECTED | 9 RTI | official final-minute average feed"
   ],
-  "published_at": "2026-09-30T22:57:57+00:00",
+  "published_at": "2026-09-30T22:58:17+00:00",
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
