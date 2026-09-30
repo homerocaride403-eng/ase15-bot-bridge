@@ -16,7 +16,7 @@
     "BTC": {
       "ticker": "KXBTC15M-26SEP301915-15",
       "target": 83642.7,
-      "rti": 83638.42,
+      "rti": 83640.27,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": {
@@ -41,7 +41,7 @@
     "ETH": {
       "ticker": "KXETH15M-26SEP301915-15",
       "target": 2686.4,
-      "rti": 2686.79,
+      "rti": 2687.08,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": {
@@ -91,7 +91,7 @@
     "HYPE": {
       "ticker": "KXHYPE15M-26SEP301915-15",
       "target": 91.3984,
-      "rti": 90.97,
+      "rti": 90.9801,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": {
@@ -116,7 +116,7 @@
     "DOGE": {
       "ticker": "KXDOGE15M-26SEP301915-15",
       "target": 0.094453,
-      "rti": 0.094423,
+      "rti": 0.094442,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": {
@@ -141,7 +141,7 @@
     "BNB": {
       "ticker": "KXBNB15M-26SEP301915-15",
       "target": 769.14,
-      "rti": 769.86,
+      "rti": 769.757,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": {
@@ -166,7 +166,7 @@
     "XRP": {
       "ticker": "KXXRP15M-26SEP301915-15",
       "target": 1.489,
-      "rti": 1.48814,
+      "rti": 1.48796,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": {
@@ -189,34 +189,18 @@
       "position_open": false
     },
     "ZEC": {
-      "ticker": "KXZEC15M-26SEP301915-15",
-      "target": 1432.6317,
-      "rti": 1440.2995,
+      "ticker": "KXZEC15M-26SEP301930-30",
+      "target": 1441.1664,
+      "rti": 1441.2339,
       "settle_avg": null,
       "window_size": 0,
-      "last_eval": {
-        "side": "YES",
-        "p": 0.9995,
-        "flip_z": Infinity,
-        "required_remaining_avg": 1432.6317,
-        "sigma": 0.12523552240171956,
-        "target": 1432.6317,
-        "rti": 1440.9914,
-        "avg": 1441.20358,
-        "n": 60,
-        "remaining_samples": 0,
-        "left": -0.30930423736572266,
-        "ticker": "KXZEC15M-26SEP301915-15",
-        "stage": "SETTLEMENT_MODEL",
-        "ask": null,
-        "edge": null
-      },
+      "last_eval": null,
       "position_open": false
     },
     "NEAR": {
       "ticker": "KXNEAR15M-26SEP301915-15",
       "target": 5.338,
-      "rti": 5.369,
+      "rti": 5.367,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": {
@@ -466,8 +450,9 @@
     "18:15:00 | BTC | WAIT TIME | n=52/60 left=-0.1s | allowed=2-16s",
     "18:15:00 | HYPE | WAIT TIME | n=53/60 left=-0.1s | allowed=2-16s",
     "18:15:00 | NEAR | WAIT TIME | n=53/60 left=-0.1s | allowed=2-16s",
-    "18:15:00 | SOL | WAIT TIME | n=53/60 left=-0.1s | allowed=2-16s"
+    "18:15:00 | SOL | WAIT TIME | n=53/60 left=-0.1s | allowed=2-16s",
+    "18:15:11 | ZEC | MARKET KXZEC15M-26SEP301930-30 | target=1441.1664 | left=889s"
   ],
-  "published_at": "2026-09-30T23:15:01+00:00",
+  "published_at": "2026-09-30T23:15:21+00:00",
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
