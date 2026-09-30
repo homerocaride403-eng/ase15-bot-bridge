@@ -16,7 +16,7 @@
     "BTC": {
       "ticker": "KXBTC15M-26SEP301930-30",
       "target": 83662.71,
-      "rti": 83640.36,
+      "rti": 83624.33,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -25,7 +25,7 @@
     "ETH": {
       "ticker": "KXETH15M-26SEP301930-30",
       "target": 2687.65,
-      "rti": 2687.46,
+      "rti": 2686.85,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -34,7 +34,7 @@
     "SOL": {
       "ticker": "KXSOL15M-26SEP301930-30",
       "target": 118.2433,
-      "rti": 118.19,
+      "rti": 118.13,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -43,7 +43,7 @@
     "HYPE": {
       "ticker": "KXHYPE15M-26SEP301930-30",
       "target": 91.0091,
-      "rti": 90.9715,
+      "rti": 90.9087,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -52,7 +52,7 @@
     "DOGE": {
       "ticker": "KXDOGE15M-26SEP301930-30",
       "target": 0.094499,
-      "rti": 0.094473,
+      "rti": 0.094431,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -61,7 +61,7 @@
     "BNB": {
       "ticker": "KXBNB15M-26SEP301930-30",
       "target": 770.11,
-      "rti": 769.867,
+      "rti": 769.812,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -70,7 +70,7 @@
     "XRP": {
       "ticker": "KXXRP15M-26SEP301930-30",
       "target": 1.4889,
-      "rti": 1.48814,
+      "rti": 1.4876,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -79,7 +79,7 @@
     "ZEC": {
       "ticker": "KXZEC15M-26SEP301930-30",
       "target": 1441.1664,
-      "rti": 1441.5106,
+      "rti": 1440.3745,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -88,7 +88,7 @@
     "NEAR": {
       "ticker": "KXNEAR15M-26SEP301930-30",
       "target": 5.3742,
-      "rti": 5.3723,
+      "rti": 5.3706,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -333,6 +333,6 @@
     "18:15:39 | SOL | MARKET KXSOL15M-26SEP301930-30 | target=118.2433 | left=861s",
     "18:15:39 | DOGE | MARKET KXDOGE15M-26SEP301930-30 | target=0.094499 | left=860s"
   ],
-  "published_at": "2026-09-30T23:15:41+00:00",
+  "published_at": "2026-09-30T23:16:00+00:00",
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
