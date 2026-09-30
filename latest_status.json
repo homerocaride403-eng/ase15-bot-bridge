@@ -6,70 +6,65 @@
   "entry_dollars_min": 0.25,
   "max_entry_ask": 0.8,
   "session_realized_pnl": -0.21119999999999978,
-  "published_at": "2026-09-30T16:44:51+00:00",
+  "published_at": "2026-09-30T16:45:19+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 84309.19,
-      "market": "KXBTC15M-26SEP301245-45",
+      "spot": 84298.24,
+      "market": null,
       "cycle_id": "KXBTC15M-26SEP301245-45",
       "position_open": false
     },
     "ETH": {
-      "spot": 2690.48,
-      "market": "KXETH15M-26SEP301245-45",
+      "spot": 2689.75,
+      "market": null,
       "cycle_id": "KXETH15M-26SEP301245-45",
       "position_open": false
     },
     "SOL": {
-      "spot": 120.09,
-      "market": "KXSOL15M-26SEP301245-45",
+      "spot": 120.07,
+      "market": null,
       "cycle_id": "KXSOL15M-26SEP301245-45",
       "position_open": false
     },
     "HYPE": {
-      "spot": 89.64,
-      "market": "KXHYPE15M-26SEP301245-45",
+      "spot": 89.68,
+      "market": null,
       "cycle_id": "KXHYPE15M-26SEP301245-45",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09523,
-      "market": "KXDOGE15M-26SEP301245-45",
+      "spot": 0.09526,
+      "market": null,
       "cycle_id": "KXDOGE15M-26SEP301245-45",
       "position_open": false
     },
     "BNB": {
-      "spot": 770.36,
-      "market": "KXBNB15M-26SEP301245-45",
+      "spot": 770.35,
+      "market": null,
       "cycle_id": "KXBNB15M-26SEP301245-45",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5111,
-      "market": "KXXRP15M-26SEP301245-45",
+      "spot": 1.5102,
+      "market": null,
       "cycle_id": "KXXRP15M-26SEP301245-45",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1463.28,
-      "market": "KXZEC15M-26SEP301245-45",
+      "spot": 1463.78,
+      "market": null,
       "cycle_id": "KXZEC15M-26SEP301245-45",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.4539,
-      "market": "KXNEAR15M-26SEP301245-45",
+      "spot": 5.4693,
+      "market": null,
       "cycle_id": "KXNEAR15M-26SEP301245-45",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "11:37:04 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=119.46 target=119.5987 left=475s",
-    "11:37:04 | XRP | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1.5056 target=1.5102 left=475s",
-    "11:37:05 | NEAR | NO TRADE | LATERAL_NO_INFORMATION | spot=5.404 target=5.4033 left=474s",
-    "11:37:06 | ETH | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=2682.74 target=2687.42 left=474s",
-    "11:37:06 | ZEC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1446.01 target=1450.0662 left=474s",
     "11:37:07 | BTC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=84195.34 target=84260.24 left=472s",
     "11:37:07 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=119.48 target=119.5987 left=472s",
     "11:37:07 | XRP | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1.5055 target=1.5102 left=472s",
@@ -1064,7 +1059,12 @@
     "11:44:39 | NEAR | NO TRADE VALUE | YES CONTINUE_UP | spot=5.4401 target=5.4033 left=22s",
     "11:44:39 | STATUS | BTC:YES CONTINUE_UP 20s | ETH:YES CONTINUE_UP 20s | SOL:YES CONTINUE_UP 20s | HYPE:YES CONTINUE_UP 20s | DOGE:- NO_CLEAR_OPPORTUNITY 20s | XRP:- CONTINUE_NOT_SAFE_ENOUGH 20s | ZEC:YES CONTINUE_UP 20s | NEAR:YES CONTINUE_UP 20s | entries=1 PNL=$-0.21",
     "11:44:44 | STATUS |  | entries=1 PNL=$-0.21",
-    "11:44:49 | STATUS |  | entries=1 PNL=$-0.21"
+    "11:44:49 | STATUS |  | entries=1 PNL=$-0.21",
+    "11:44:54 | STATUS |  | entries=1 PNL=$-0.21",
+    "11:44:59 | STATUS |  | entries=1 PNL=$-0.21",
+    "11:45:04 | STATUS |  | entries=1 PNL=$-0.21",
+    "11:45:09 | STATUS |  | entries=1 PNL=$-0.21",
+    "11:45:14 | STATUS |  | entries=1 PNL=$-0.21"
   ],
   "trade_events": [
     "11:34:22 | SELFTEST | ENTRY AUDIT | ETH_LATERAL_MUST_BLOCK | side=YES setup=FOLD_UP lateral=True compressed=True micro_lateral=False micro_stepR=0.000 micro_spanR=0.000 micro_alts=0 lateral_reset=False breakout_dir=None overlap=0.720 eff=0.180 active_up=False active_dn=False buyer_stall=False seller_stall=False sweep_hi=False sweep_lo=False",
