@@ -6,17 +6,17 @@
   "entry_dollars_min": 0.25,
   "max_entry_ask": 0.8,
   "session_realized_pnl": -2.4040800000000035,
-  "published_at": "2026-09-30T16:11:25+00:00",
+  "published_at": "2026-09-30T16:11:59+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 84259.2,
+      "spot": 84287.09,
       "market": "KXBTC15M-26SEP301215-15",
       "cycle_id": "KXBTC15M-26SEP301215-15",
       "position_open": false
     },
     "ETH": {
-      "spot": 2686.2,
+      "spot": 2686.68,
       "market": "KXETH15M-26SEP301215-15",
       "cycle_id": "KXETH15M-26SEP301215-15",
       "position_open": false
@@ -28,67 +28,43 @@
       "position_open": false
     },
     "HYPE": {
-      "spot": 88.12,
+      "spot": 88.13,
       "market": "KXHYPE15M-26SEP301215-15",
       "cycle_id": "KXHYPE15M-26SEP301215-15",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09562,
+      "spot": 0.09561,
       "market": "KXDOGE15M-26SEP301215-15",
       "cycle_id": "KXDOGE15M-26SEP301215-15",
       "position_open": false
     },
     "BNB": {
-      "spot": 769.55,
+      "spot": 769.66,
       "market": "KXBNB15M-26SEP301215-15",
       "cycle_id": "KXBNB15M-26SEP301215-15",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5113,
+      "spot": 1.5114,
       "market": "KXXRP15M-26SEP301215-15",
       "cycle_id": "KXXRP15M-26SEP301215-15",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1453.8,
+      "spot": 1451.97,
       "market": "KXZEC15M-26SEP301215-15",
       "cycle_id": "KXZEC15M-26SEP301215-15",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.338,
+      "spot": 5.3331,
       "market": "KXNEAR15M-26SEP301215-15",
       "cycle_id": "KXNEAR15M-26SEP301215-15",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "11:02:38 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=84164.86 target=84088.21 left=742s",
-    "11:02:38 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2683.06 target=2682.32 left=742s",
-    "11:02:38 | NEAR | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=5.3292 target=5.3039 left=741s",
-    "11:02:39 | BNB | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=769.68 target=769.38 left=741s",
-    "11:02:39 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5073 target=1.5044 left=741s",
-    "11:02:39 | ZEC | NO TRADE | LATERAL_NO_INFORMATION | spot=1445.18 target=1442.035 left=741s",
-    "11:02:39 | DOGE | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=0.0954 target=0.095346 left=740s",
-    "11:02:40 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=119.36 target=119.2547 left=740s",
-    "11:02:40 | HYPE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=87.87 target=87.6845 left=740s",
-    "11:02:40 | STATUS | BTC:- NO_CLEAR_OPPORTUNITY 739s | ETH:- NO_CLEAR_OPPORTUNITY 739s | SOL:- NO_CLEAR_OPPORTUNITY 739s | HYPE:- CONTINUE_NOT_SAFE_ENOUGH 739s | BNB:- NO_CLEAR_OPPORTUNITY 739s | XRP:- NO_CLEAR_OPPORTUNITY 739s | ZEC:- LATERAL_NO_INFORMATION 739s | entries=5 PNL=$-1.43",
-    "11:02:41 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=84175.35 target=84088.21 left=739s",
-    "11:02:41 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2683.62 target=2682.32 left=739s",
-    "11:02:41 | NEAR | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=5.3292 target=5.3039 left=738s",
-    "11:02:42 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5073 target=1.5044 left=738s",
-    "11:02:42 | ZEC | NO TRADE | LATERAL_NO_INFORMATION | spot=1445.49 target=1442.035 left=738s",
-    "11:02:42 | DOGE | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=0.09544 target=0.095346 left=737s",
-    "11:02:43 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=119.4 target=119.2547 left=737s",
-    "11:02:43 | HYPE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=87.9 target=87.6845 left=737s",
-    "11:02:44 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=84183.82 target=84088.21 left=736s",
-    "11:02:44 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2683.54 target=2682.32 left=736s",
-    "11:02:45 | XRP | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=1.5076 target=1.5044 left=735s",
-    "11:02:45 | ZEC | NO TRADE | LATERAL_NO_INFORMATION | spot=1445.47 target=1442.035 left=734s",
-    "11:02:45 | STATUS | BTC:- NO_CLEAR_OPPORTUNITY 734s | ETH:- NO_CLEAR_OPPORTUNITY 734s | SOL:- NO_CLEAR_OPPORTUNITY 734s | HYPE:- CONTINUE_NOT_SAFE_ENOUGH 734s | XRP:- NO_CLEAR_OPPORTUNITY 734s | ZEC:- LATERAL_NO_INFORMATION 734s | entries=5 PNL=$-1.43",
-    "11:02:46 | DOGE | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=0.09547 target=0.095346 left=734s",
     "11:02:46 | SOL | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=119.42 target=119.2547 left=734s",
     "11:02:46 | HYPE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=87.91 target=87.6845 left=733s",
     "11:02:47 | BTC | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=84203.53 target=84088.21 left=733s",
@@ -1064,7 +1040,31 @@
     "11:11:23 | HYPE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=True micro_lateral=False micro_stepR=0.714 micro_spanR=1.857 micro_alts=2 lateral_reset=False breakout_dir=None overlap=0.787 eff=0.421 active_up=True active_dn=True buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
     "11:11:23 | HYPE | ENTRY HARD BLOCK | INITIAL | COMPRESSED_NO_INFORMATION overlap=0.787 eff=0.421",
     "11:11:23 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
-    "11:11:25 | STATUS | BTC:YES CONTINUE_UP 214s | ETH:YES CONTINUE_UP 214s | SOL:YES CONTINUE_UP 214s | HYPE:YES CONTINUE_UP 214s | DOGE:YES CONTINUE_UP 214s | entries=7 PNL=$-2.40"
+    "11:11:25 | STATUS | BTC:YES CONTINUE_UP 214s | ETH:YES CONTINUE_UP 214s | SOL:YES CONTINUE_UP 214s | HYPE:YES CONTINUE_UP 214s | DOGE:YES CONTINUE_UP 214s | entries=7 PNL=$-2.40",
+    "11:11:26 | DOGE | NO TRADE VALUE | YES CONTINUE_UP | spot=0.09562 target=0.095346 left=216s",
+    "11:11:28 | ZEC | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.606 micro_spanR=3.967 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.532 eff=0.632 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:30 | STATUS | BTC:YES CONTINUE_UP 209s | ETH:YES CONTINUE_UP 209s | XRP:YES CONTINUE_UP 209s | ZEC:YES CONTINUE_UP 209s | entries=7 PNL=$-2.40",
+    "11:11:31 | ZEC | NO TRADE VALUE | YES CONTINUE_UP | spot=1453.48 target=1442.04 left=212s",
+    "11:11:31 | XRP | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.923 micro_spanR=4.462 micro_alts=1 lateral_reset=False breakout_dir=None overlap=0.580 eff=0.434 active_up=True active_dn=False buyer_stall=True seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:32 | XRP | NO TRADE VALUE | YES CONTINUE_UP | spot=1.511 target=1.5044 left=209s",
+    "11:11:32 | HYPE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.714 micro_spanR=2.786 micro_alts=2 lateral_reset=True breakout_dir=UP overlap=0.587 eff=0.450 active_up=True active_dn=True buyer_stall=False seller_stall=False sweep_hi=False sweep_lo=False",
+    "11:11:35 | HYPE | NO TRADE VALUE | YES CONTINUE_UP | spot=88.12 target=87.6845 left=207s",
+    "11:11:35 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:35 | STATUS | BTC:YES CONTINUE_UP 204s | ETH:YES CONTINUE_UP 204s | SOL:YES CONTINUE_UP 204s | DOGE:YES CONTINUE_UP 204s | XRP:YES CONTINUE_UP 204s | ZEC:YES CONTINUE_UP 204s | entries=7 PNL=$-2.40",
+    "11:11:37 | DOGE | NO TRADE VALUE | YES CONTINUE_UP | spot=0.09563 target=0.095346 left=205s",
+    "11:11:37 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.3362 target=5.3039 left=202s",
+    "11:11:40 | STATUS | BTC:YES CONTINUE_UP 199s | ETH:YES CONTINUE_UP 199s | SOL:YES CONTINUE_UP 199s | HYPE:YES CONTINUE_UP 199s | DOGE:YES CONTINUE_UP 199s | XRP:YES CONTINUE_UP 199s | ZEC:YES CONTINUE_UP 199s | NEAR:- NO_CLEAR_OPPORTUNITY 199s | entries=7 PNL=$-2.40",
+    "11:11:42 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.3334 target=5.3039 left=198s",
+    "11:11:44 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:45 | STATUS | BTC:YES CONTINUE_UP 194s | ETH:YES CONTINUE_UP 194s | SOL:YES CONTINUE_UP 194s | HYPE:YES CONTINUE_UP 194s | DOGE:YES CONTINUE_UP 194s | XRP:YES CONTINUE_UP 194s | ZEC:YES CONTINUE_UP 194s | NEAR:- NO_CLEAR_OPPORTUNITY 194s | entries=7 PNL=$-2.40",
+    "11:11:48 | DOGE | NO TRADE VALUE | YES CONTINUE_UP | spot=0.09562 target=0.095346 left=195s",
+    "11:11:50 | STATUS | BTC:YES CONTINUE_UP 189s | ETH:YES CONTINUE_UP 189s | SOL:YES CONTINUE_UP 189s | HYPE:YES CONTINUE_UP 189s | DOGE:YES CONTINUE_UP 189s | XRP:YES CONTINUE_UP 189s | ZEC:YES CONTINUE_UP 189s | entries=7 PNL=$-2.40",
+    "11:11:52 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.3285 target=5.3039 left=188s",
+    "11:11:53 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:55 | STATUS | BTC:YES CONTINUE_UP 184s | ETH:YES CONTINUE_UP 184s | SOL:YES CONTINUE_UP 184s | HYPE:YES CONTINUE_UP 184s | DOGE:YES CONTINUE_UP 184s | BNB:- NO_CLEAR_OPPORTUNITY 184s | XRP:YES CONTINUE_UP 184s | ZEC:YES CONTINUE_UP 184s | NEAR:- NO_CLEAR_OPPORTUNITY 184s | entries=7 PNL=$-2.40",
+    "11:11:56 | DOGE | NO TRADE VALUE | YES CONTINUE_UP | spot=0.09559 target=0.095346 left=186s",
+    "11:11:56 | BNB | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=769.66 target=769.38 left=183s",
+    "11:11:56 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.3331 target=5.3039 left=183s"
   ],
   "trade_events": [
     "10:29:39 | ETH | ENTRY AUDIT | INITIAL | side=NO setup=CONTINUE_DOWN lateral=False compressed=True micro_lateral=False micro_stepR=0.417 micro_spanR=2.613 micro_alts=1 lateral_reset=False breakout_dir=None overlap=0.611 eff=0.044 active_up=False active_dn=True buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
@@ -1487,7 +1487,13 @@
     "11:11:19 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
     "11:11:23 | HYPE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=True micro_lateral=False micro_stepR=0.714 micro_spanR=1.857 micro_alts=2 lateral_reset=False breakout_dir=None overlap=0.787 eff=0.421 active_up=True active_dn=True buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
     "11:11:23 | HYPE | ENTRY HARD BLOCK | INITIAL | COMPRESSED_NO_INFORMATION overlap=0.787 eff=0.421",
-    "11:11:23 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False"
+    "11:11:23 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:28 | ZEC | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.606 micro_spanR=3.967 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.532 eff=0.632 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:31 | XRP | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.923 micro_spanR=4.462 micro_alts=1 lateral_reset=False breakout_dir=None overlap=0.580 eff=0.434 active_up=True active_dn=False buyer_stall=True seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:32 | HYPE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.714 micro_spanR=2.786 micro_alts=2 lateral_reset=True breakout_dir=UP overlap=0.587 eff=0.450 active_up=True active_dn=True buyer_stall=False seller_stall=False sweep_hi=False sweep_lo=False",
+    "11:11:35 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:44 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False",
+    "11:11:53 | DOGE | ENTRY AUDIT | INITIAL | side=YES setup=CONTINUE_UP lateral=False compressed=False micro_lateral=False micro_stepR=0.625 micro_spanR=4.000 micro_alts=1 lateral_reset=True breakout_dir=UP overlap=0.608 eff=0.040 active_up=True active_dn=False buyer_stall=False seller_stall=True sweep_hi=False sweep_lo=False"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
