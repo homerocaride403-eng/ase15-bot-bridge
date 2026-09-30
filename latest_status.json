@@ -5,71 +5,89 @@
   "entry_dollars": 0.35,
   "max_entry_ask": 0.85,
   "session_realized_pnl": -0.33914999999999995,
-  "published_at": "2026-09-30T00:59:31+00:00",
+  "published_at": "2026-09-30T01:01:31+00:00",
   "open_positions": [
     {
       "asset": null,
-      "ticker": "KXETH15M-26SEP292100-00",
-      "side": "NO",
-      "entry": 0.7,
-      "qty": 0.5,
-      "entry_ts": 1790729731.9791608,
-      "close_ts": 1790730000.0
+      "ticker": "KXETH15M-26SEP292115-15",
+      "side": "YES",
+      "entry": 0.42000000000000004,
+      "qty": 0.83,
+      "entry_ts": 1790730072.5002213,
+      "close_ts": 1790730900.0
+    },
+    {
+      "asset": null,
+      "ticker": "KXBNB15M-26SEP292115-15",
+      "side": "YES",
+      "entry": 0.33999999999999997,
+      "qty": 1.02,
+      "entry_ts": 1790730019.9585636,
+      "close_ts": 1790730900.0
+    },
+    {
+      "asset": null,
+      "ticker": "KXZEC15M-26SEP292115-15",
+      "side": "YES",
+      "entry": 0.5,
+      "qty": 0.7,
+      "entry_ts": 1790730075.6785142,
+      "close_ts": 1790730900.0
     }
   ],
   "assets": {
     "BTC": {
-      "spot": 83336.45,
-      "market": "KXBTC15M-26SEP292100-00",
-      "cycle_id": "KXBTC15M-26SEP292100-00",
+      "spot": 83384.62,
+      "market": "KXBTC15M-26SEP292115-15",
+      "cycle_id": "KXBTC15M-26SEP292115-15",
       "position_open": false
     },
     "ETH": {
-      "spot": 2669.84,
-      "market": "KXETH15M-26SEP292100-00",
-      "cycle_id": "KXETH15M-26SEP292100-00",
+      "spot": 2672.03,
+      "market": "KXETH15M-26SEP292115-15",
+      "cycle_id": "KXETH15M-26SEP292115-15",
       "position_open": true
     },
     "SOL": {
-      "spot": 118.73,
-      "market": "KXSOL15M-26SEP292100-00",
-      "cycle_id": "KXSOL15M-26SEP292100-00",
+      "spot": 118.87,
+      "market": "KXSOL15M-26SEP292115-15",
+      "cycle_id": "KXSOL15M-26SEP292115-15",
       "position_open": false
     },
     "HYPE": {
-      "spot": 86.1,
-      "market": "KXHYPE15M-26SEP292100-00",
-      "cycle_id": "KXHYPE15M-26SEP292100-00",
+      "spot": 86.21,
+      "market": "KXHYPE15M-26SEP292115-15",
+      "cycle_id": "KXHYPE15M-26SEP292115-15",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09347,
-      "market": "KXDOGE15M-26SEP292100-00",
-      "cycle_id": "KXDOGE15M-26SEP292100-00",
+      "spot": 0.09355,
+      "market": "KXDOGE15M-26SEP292115-15",
+      "cycle_id": "KXDOGE15M-26SEP292115-15",
       "position_open": false
     },
     "BNB": {
-      "spot": 758.86,
-      "market": "KXBNB15M-26SEP292100-00",
-      "cycle_id": "KXBNB15M-26SEP292100-00",
-      "position_open": false
+      "spot": 759.42,
+      "market": "KXBNB15M-26SEP292115-15",
+      "cycle_id": "KXBNB15M-26SEP292115-15",
+      "position_open": true
     },
     "XRP": {
-      "spot": 1.4905,
-      "market": "KXXRP15M-26SEP292100-00",
-      "cycle_id": "KXXRP15M-26SEP292100-00",
+      "spot": 1.492,
+      "market": "KXXRP15M-26SEP292115-15",
+      "cycle_id": "KXXRP15M-26SEP292115-15",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1420.4,
-      "market": "KXZEC15M-26SEP292100-00",
-      "cycle_id": "KXZEC15M-26SEP292100-00",
-      "position_open": false
+      "spot": 1423.4,
+      "market": "KXZEC15M-26SEP292115-15",
+      "cycle_id": "KXZEC15M-26SEP292115-15",
+      "position_open": true
     },
     "NEAR": {
-      "spot": 4.9864,
-      "market": "KXNEAR15M-26SEP292100-00",
-      "cycle_id": "KXNEAR15M-26SEP292100-00",
+      "spot": 5.0005,
+      "market": "KXNEAR15M-26SEP292115-15",
+      "cycle_id": "KXNEAR15M-26SEP292115-15",
       "position_open": false
     }
   },
@@ -492,7 +510,54 @@
     "19:59:26 | KALSHI WS CONNECTED | 9 books",
     "19:59:28 | BTC | VALUE BLOCK NO | score=0.741 | NO_ASK",
     "19:59:30 | BTC | VALUE BLOCK NO | score=0.740 | NO_ASK",
-    "19:59:30 | STATUS | BTC:N 0.73 30s | ETH:- 0.56 30s* | SOL:- 0.59 30s | HYPE:- 0.62 30s | XRP:- 0.60 30s | ZEC:- 0.68 30s | entries=3 PNL=$-0.34"
+    "19:59:30 | STATUS | BTC:N 0.73 30s | ETH:- 0.56 30s* | SOL:- 0.59 30s | HYPE:- 0.62 30s | XRP:- 0.60 30s | ZEC:- 0.68 30s | entries=3 PNL=$-0.34",
+    "19:59:32 | BTC | VALUE BLOCK NO | score=0.738 | NO_ASK",
+    "19:59:34 | BTC | VALUE BLOCK NO | score=0.737 | NO_ASK",
+    "19:59:35 | BNB | VALUE BLOCK YES | score=0.748 | ASK_CAP 0.994",
+    "19:59:36 | STATUS | BTC:N 0.76 24s | ETH:- 0.50 24s* | SOL:- 0.54 24s | BNB:Y 0.75 24s | entries=3 PNL=$-0.34",
+    "19:59:36 | BTC | VALUE BLOCK NO | score=0.761 | NO_ASK",
+    "19:59:38 | BTC | VALUE BLOCK NO | score=0.764 | NO_ASK",
+    "19:59:41 | STATUS |  | entries=3 PNL=$-0.34",
+    "19:59:47 | STATUS |  | entries=3 PNL=$-0.34",
+    "19:59:52 | STATUS |  | entries=3 PNL=$-0.34",
+    "19:59:57 | STATUS |  | entries=3 PNL=$-0.34",
+    "20:00:02 | STATUS |  | entries=3 PNL=$-0.34",
+    "20:00:07 | ETH | RECONCILE FLAT | Kalshi confirma posición cerrada",
+    "20:00:07 | STATUS |  | entries=3 PNL=$-0.34",
+    "20:00:12 | STATUS |  | entries=3 PNL=$-0.34",
+    "20:00:14 | KALSHI WS CONNECTED | 4 books",
+    "20:00:15 | DOGE | NEW CYCLE | KXDOGE15M-26SEP292115-15 | left=884s",
+    "20:00:15 | BNB | NEW CYCLE | KXBNB15M-26SEP292115-15 | left=884s",
+    "20:00:16 | ZEC | NEW CYCLE | KXZEC15M-26SEP292115-15 | left=884s",
+    "20:00:18 | STATUS | DOGE:- 0.53 882s | BNB:Y 0.70 882s | ZEC:- 0.59 882s | entries=3 PNL=$-0.34",
+    "20:00:18 | BNB | ENTRY SIGNAL YES | score=0.704 evidence=4/6 | spot=759.08 open15=759.17 left=881.5s | SURVIVAL_RISK=0.28 reasons=CROSS_TIME=0.95 | SETTLE_PATH_RISK=0.00 opp_zone=760.24 route=2.230000000000018 | position=-0.17 trajectory=+0.23 structure=+1.00 zones_profile=+0.45 orderflow=+1.00 feasibility=-0.06",
+    "20:00:18 | BNB | PREORDER BOOK | ask=0.340 bid=0.33 spread=0.009999999999999953 qty=1.02 source=REST",
+    "20:00:19 | BNB | ENTRY REAL YES | fill=0.340 qty=1.02 cost≈$0.35 | order=917ms total=1210ms",
+    "20:00:23 | STATUS | DOGE:- 0.59 877s | ZEC:- 0.61 877s | entries=4 PNL=$-0.34",
+    "20:00:28 | STATUS | DOGE:- 0.56 872s | ZEC:- 0.55 872s | entries=4 PNL=$-0.34",
+    "20:00:29 | ETH | NEW CYCLE | KXETH15M-26SEP292115-15 | left=871s",
+    "20:00:29 | SOL | NEW CYCLE | KXSOL15M-26SEP292115-15 | left=870s",
+    "20:00:31 | XRP | NEW CYCLE | KXXRP15M-26SEP292115-15 | left=869s",
+    "20:00:32 | NEAR | NEW CYCLE | KXNEAR15M-26SEP292115-15 | left=868s",
+    "20:00:33 | STATUS | ETH:- 0.63 866s | XRP:- 0.51 866s | entries=4 PNL=$-0.34",
+    "20:00:38 | STATUS | ETH:- 0.65 861s | SOL:- 0.55 861s | BNB:- 0.58 861s* | XRP:- 0.60 861s | ZEC:- 0.60 861s | NEAR:- 0.50 861s | entries=4 PNL=$-0.34",
+    "20:00:44 | STATUS | ETH:- 0.67 856s | SOL:- 0.57 856s | XRP:- 0.60 856s | ZEC:- 0.63 856s | entries=4 PNL=$-0.34",
+    "20:00:44 | BTC | NEW CYCLE | KXBTC15M-26SEP292115-15 | left=855s",
+    "20:00:45 | HYPE | NEW CYCLE | KXHYPE15M-26SEP292115-15 | left=854s",
+    "20:00:49 | STATUS | BTC:- 0.54 851s | ETH:- 0.64 851s | SOL:- 0.60 851s | XRP:- 0.62 850s | ZEC:- 0.67 850s | entries=4 PNL=$-0.34",
+    "20:00:55 | STATUS | BTC:- 0.53 845s | SOL:- 0.60 845s | entries=4 PNL=$-0.34",
+    "20:01:00 | STATUS | BTC:- 0.62 840s | DOGE:- 0.52 840s | XRP:- 0.56 840s | ZEC:- 0.57 839s | entries=4 PNL=$-0.34",
+    "20:01:06 | STATUS | BTC:- 0.58 834s | XRP:- 0.63 834s | entries=4 PNL=$-0.34",
+    "20:01:10 | ETH | ENTRY SIGNAL YES | score=0.718 evidence=5/6 | spot=2672.32 open15=2671.24 left=830.2s | SURVIVAL_RISK=0.30 reasons=CROSS_TIME=0.82 | SETTLE_PATH_RISK=0.20 opp_zone=2674.98 route=6.400000000000091 | position=+0.55 trajectory=+0.19 structure=+1.00 zones_profile=+0.23 orderflow=+0.69 feasibility=-0.04",
+    "20:01:10 | ETH | PREORDER BOOK | ask=0.420 bid=0.41 spread=0.010000000000000064 qty=0.83 source=REST",
+    "20:01:11 | STATUS | BTC:- 0.57 829s | ETH:- 0.70 829s | SOL:- 0.62 829s | DOGE:- 0.55 829s | XRP:- 0.63 829s | ZEC:Y 0.70 829s | entries=4 PNL=$-0.34",
+    "20:01:12 | ETH | ENTRY REAL YES | fill=0.420 qty=0.83 cost≈$0.35 | order=1503ms total=2305ms",
+    "20:01:13 | ZEC | ENTRY SIGNAL YES | score=0.716 evidence=5/6 | spot=1423.4 open15=1422.91 left=827.3s | SURVIVAL_RISK=0.25 reasons=CROSS_TIME=0.94 | SETTLE_PATH_RISK=0.00 opp_zone=1433.39 route=20.470000000000027 | position=+0.18 trajectory=+0.38 structure=+1.00 zones_profile=+0.45 orderflow=+0.51 feasibility=+0.07",
+    "20:01:13 | ZEC | PREORDER BOOK | ask=0.500 bid=0.47 spread=0.030000000000000027 qty=0.70 source=REST",
+    "20:01:15 | ZEC | ENTRY REAL YES | fill=0.500 qty=0.70 cost≈$0.35 | order=1923ms total=2726ms",
+    "20:01:16 | STATUS | BTC:- 0.63 824s | ETH:- 0.63 824s* | SOL:- 0.55 824s | DOGE:- 0.54 824s | BNB:Y 0.73 824s* | XRP:- 0.59 824s | entries=6 PNL=$-0.34",
+    "20:01:21 | STATUS | BTC:- 0.60 819s | XRP:- 0.61 819s | entries=6 PNL=$-0.34",
+    "20:01:26 | STATUS | BTC:- 0.60 814s | ETH:- 0.63 814s* | SOL:- 0.56 814s | XRP:- 0.51 813s | NEAR:- 0.54 813s | entries=6 PNL=$-0.34"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
