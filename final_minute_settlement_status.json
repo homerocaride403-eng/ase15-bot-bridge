@@ -16,7 +16,7 @@
     "BTC": {
       "ticker": "KXBTC15M-26SEP301945-45",
       "target": 83622.59,
-      "rti": 83515.8,
+      "rti": 83546.28,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -25,7 +25,7 @@
     "ETH": {
       "ticker": "KXETH15M-26SEP301945-45",
       "target": 2688.22,
-      "rti": 2684.82,
+      "rti": 2685.43,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -34,7 +34,7 @@
     "SOL": {
       "ticker": "KXSOL15M-26SEP301945-45",
       "target": 118.1068,
-      "rti": 117.98,
+      "rti": 118.03,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -43,7 +43,7 @@
     "HYPE": {
       "ticker": "KXHYPE15M-26SEP301945-45",
       "target": 90.6099,
-      "rti": 90.5555,
+      "rti": 90.6111,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -52,7 +52,7 @@
     "DOGE": {
       "ticker": "KXDOGE15M-26SEP301945-45",
       "target": 0.094527,
-      "rti": 0.094367,
+      "rti": 0.09442,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -61,7 +61,7 @@
     "BNB": {
       "ticker": "KXBNB15M-26SEP301945-45",
       "target": 769.83,
-      "rti": 769.475,
+      "rti": 769.608,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -70,7 +70,7 @@
     "XRP": {
       "ticker": "KXXRP15M-26SEP301945-45",
       "target": 1.4876,
-      "rti": 1.486,
+      "rti": 1.48682,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -79,7 +79,7 @@
     "ZEC": {
       "ticker": "KXZEC15M-26SEP301945-45",
       "target": 1441.4564,
-      "rti": 1435.4481,
+      "rti": 1436.4026,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -88,7 +88,7 @@
     "NEAR": {
       "ticker": "KXNEAR15M-26SEP301945-45",
       "target": 5.3678,
-      "rti": 5.3561,
+      "rti": 5.3591,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -409,6 +409,6 @@
     "18:30:35 | ETH | MARKET KXETH15M-26SEP301945-45 | target=2688.22 | left=864s",
     "18:30:43 | HYPE | MARKET KXHYPE15M-26SEP301945-45 | target=90.6099 | left=857s"
   ],
-  "published_at": "2026-09-30T23:34:06+00:00",
+  "published_at": "2026-09-30T23:34:26+00:00",
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
