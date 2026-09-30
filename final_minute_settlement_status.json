@@ -16,18 +16,18 @@
     "BTC": {
       "ticker": "KXBTC15M-26SEP301900-00",
       "target": 83762.43,
-      "rti": 83641.75,
-      "settle_avg": 83644.71923077,
-      "window_size": 13,
+      "rti": 83645.6,
+      "settle_avg": 83644.88354839,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     },
     "ETH": {
       "ticker": "KXETH15M-26SEP301900-00",
       "target": 2690.1,
-      "rti": 2686.48,
-      "settle_avg": 2686.50230769,
-      "window_size": 13,
+      "rti": 2686.51,
+      "settle_avg": 2686.51709677,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     },
@@ -35,62 +35,62 @@
       "ticker": "KXSOL15M-26SEP301900-00",
       "target": 118.382,
       "rti": 118.1,
-      "settle_avg": 118.09461538,
-      "window_size": 13,
+      "settle_avg": 118.09677419,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     },
     "HYPE": {
       "ticker": "KXHYPE15M-26SEP301900-00",
       "target": 91.445,
-      "rti": 91.4205,
-      "settle_avg": 91.3973,
-      "window_size": 13,
+      "rti": 91.4069,
+      "settle_avg": 91.40924194,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     },
     "DOGE": {
       "ticker": "KXDOGE15M-26SEP301900-00",
       "target": 0.094651,
-      "rti": 0.094453,
-      "settle_avg": 0.09444954,
-      "window_size": 13,
+      "rti": 0.094459,
+      "settle_avg": 0.09445555,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     },
     "BNB": {
       "ticker": "KXBNB15M-26SEP301900-00",
       "target": 768.83,
-      "rti": 769.111,
-      "settle_avg": 769.10630769,
-      "window_size": 13,
+      "rti": 769.166,
+      "settle_avg": 769.12277419,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     },
     "XRP": {
       "ticker": "KXXRP15M-26SEP301900-00",
       "target": 1.4928,
-      "rti": 1.48903,
-      "settle_avg": 1.48902692,
-      "window_size": 13,
+      "rti": 1.48905,
+      "settle_avg": 1.48904258,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     },
     "ZEC": {
       "ticker": "KXZEC15M-26SEP301900-00",
       "target": 1435.6831,
-      "rti": 1432.8118,
-      "settle_avg": 1432.51526923,
-      "window_size": 13,
+      "rti": 1432.8067,
+      "settle_avg": 1432.61311613,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     },
     "NEAR": {
       "ticker": "KXNEAR15M-26SEP301900-00",
       "target": 5.3907,
-      "rti": 5.3381,
-      "settle_avg": 5.33764615,
-      "window_size": 13,
+      "rti": 5.3387,
+      "settle_avg": 5.33776774,
+      "window_size": 31,
       "last_eval": null,
       "position_open": false
     }
@@ -113,6 +113,6 @@
     "17:46:57 | PREFLIGHT | NEAR KXNEAR15M-26SEP301900-00 target=5.3907",
     "17:46:59 | CFB WS CONNECTED | 9 RTI | official final-minute average feed"
   ],
-  "published_at": "2026-09-30T22:59:13+00:00",
+  "published_at": "2026-09-30T22:59:31+00:00",
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
