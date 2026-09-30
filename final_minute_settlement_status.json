@@ -16,7 +16,7 @@
     "BTC": {
       "ticker": "KXBTC15M-26SEP301930-30",
       "target": 83662.71,
-      "rti": 83683.45,
+      "rti": 83702.35,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -25,7 +25,7 @@
     "ETH": {
       "ticker": "KXETH15M-26SEP301930-30",
       "target": 2687.65,
-      "rti": 2689.32,
+      "rti": 2690.03,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -34,7 +34,7 @@
     "SOL": {
       "ticker": "KXSOL15M-26SEP301930-30",
       "target": 118.2433,
-      "rti": 118.19,
+      "rti": 118.22,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -43,7 +43,7 @@
     "HYPE": {
       "ticker": "KXHYPE15M-26SEP301930-30",
       "target": 91.0091,
-      "rti": 91.2147,
+      "rti": 91.2186,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -52,7 +52,7 @@
     "DOGE": {
       "ticker": "KXDOGE15M-26SEP301930-30",
       "target": 0.094499,
-      "rti": 0.09459,
+      "rti": 0.094617,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -61,7 +61,7 @@
     "BNB": {
       "ticker": "KXBNB15M-26SEP301930-30",
       "target": 770.11,
-      "rti": 770.102,
+      "rti": 770.183,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -70,7 +70,7 @@
     "XRP": {
       "ticker": "KXXRP15M-26SEP301930-30",
       "target": 1.4889,
-      "rti": 1.48865,
+      "rti": 1.48856,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -79,7 +79,7 @@
     "ZEC": {
       "ticker": "KXZEC15M-26SEP301930-30",
       "target": 1441.1664,
-      "rti": 1444.9326,
+      "rti": 1444.5586,
       "settle_avg": null,
       "window_size": 0,
       "last_eval": null,
@@ -333,6 +333,6 @@
     "18:15:39 | SOL | MARKET KXSOL15M-26SEP301930-30 | target=118.2433 | left=861s",
     "18:15:39 | DOGE | MARKET KXDOGE15M-26SEP301930-30 | target=0.094499 | left=860s"
   ],
-  "published_at": "2026-09-30T23:23:25+00:00",
+  "published_at": "2026-09-30T23:23:45+00:00",
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
