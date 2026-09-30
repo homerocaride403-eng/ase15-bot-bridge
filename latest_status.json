@@ -5,85 +5,66 @@
   "entry_dollars_max": 1.25,
   "entry_dollars_min": 0.25,
   "max_entry_ask": 0.8,
-  "session_realized_pnl": -1.17744,
-  "published_at": "2026-09-30T12:59:50+00:00",
-  "open_positions": [
-    {
-      "asset": null,
-      "ticker": "KXXRP15M-26SEP300900-00",
-      "side": "NO",
-      "entry": 0.13,
-      "qty": 9.61,
-      "entry_ts": 1790772941.2381618,
-      "close_ts": 1790773200.0
-    }
-  ],
+  "session_realized_pnl": -2.42674,
+  "published_at": "2026-09-30T13:00:17+00:00",
+  "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 85269.15,
-      "market": "KXBTC15M-26SEP300900-00",
+      "spot": 85270.54,
+      "market": null,
       "cycle_id": "KXBTC15M-26SEP300900-00",
       "position_open": false
     },
     "ETH": {
-      "spot": 2730.84,
-      "market": "KXETH15M-26SEP300900-00",
+      "spot": 2729.48,
+      "market": null,
       "cycle_id": "KXETH15M-26SEP300900-00",
       "position_open": false
     },
     "SOL": {
-      "spot": 121.9,
-      "market": "KXSOL15M-26SEP300900-00",
+      "spot": 121.91,
+      "market": null,
       "cycle_id": "KXSOL15M-26SEP300900-00",
       "position_open": false
     },
     "HYPE": {
-      "spot": 87.25,
-      "market": "KXHYPE15M-26SEP300900-00",
+      "spot": 87.19,
+      "market": null,
       "cycle_id": "KXHYPE15M-26SEP300900-00",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.09732,
-      "market": "KXDOGE15M-26SEP300900-00",
+      "spot": 0.09735,
+      "market": null,
       "cycle_id": "KXDOGE15M-26SEP300900-00",
       "position_open": false
     },
     "BNB": {
-      "spot": 776.44,
-      "market": "KXBNB15M-26SEP300900-00",
+      "spot": 776.31,
+      "market": null,
       "cycle_id": "KXBNB15M-26SEP300900-00",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.5341,
-      "market": "KXXRP15M-26SEP300900-00",
+      "spot": 1.5337,
+      "market": null,
       "cycle_id": "KXXRP15M-26SEP300900-00",
-      "position_open": true
+      "position_open": false
     },
     "ZEC": {
-      "spot": 1458.75,
-      "market": "KXZEC15M-26SEP300900-00",
+      "spot": 1458.59,
+      "market": null,
       "cycle_id": "KXZEC15M-26SEP300900-00",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.3311,
-      "market": "KXNEAR15M-26SEP300900-00",
+      "spot": 5.3316,
+      "market": null,
       "cycle_id": "KXNEAR15M-26SEP300900-00",
       "position_open": false
     }
   },
   "recent_log_lines": [
-    "07:54:23 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=122.01 target=121.442 left=337s",
-    "07:54:23 | XRP | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1.5394 target=1.5348 left=336s",
-    "07:54:24 | HYPE | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=87.63 target=87.3231 left=336s",
-    "07:54:24 | STATUS | BTC:YES CONTINUE_UP 335s | ETH:- CONTINUE_NOT_SAFE_ENOUGH 335s | SOL:- CONTINUE_NOT_SAFE_ENOUGH 335s | HYPE:- CONTINUE_NOT_SAFE_ENOUGH 335s | DOGE:- CONTINUE_NOT_SAFE_ENOUGH 335s* | XRP:- CONTINUE_NOT_SAFE_ENOUGH 335s | NEAR:- NO_CLEAR_OPPORTUNITY 335s | entries=2 PNL=$+0.00",
-    "07:54:25 | ETH | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=2736.15 target=2728.2 left=334s",
-    "07:54:25 | NEAR | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=5.3573 target=5.3937 left=334s",
-    "07:54:25 | ZEC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1460.74 target=1455.6897 left=334s",
-    "07:54:26 | SOL | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=121.97 target=121.442 left=334s",
-    "07:54:27 | BNB | ENTRY BLOCK EXISTING POSITION | Kalshi=NO qty=3.04 ticker=KXBNB15M-26SEP300900-00",
     "07:54:27 | XRP | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1.5396 target=1.5348 left=333s",
     "07:54:29 | ETH | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=2736.46 target=2728.2 left=331s",
     "07:54:29 | ZEC | NO TRADE | CONTINUE_NOT_SAFE_ENOUGH | spot=1462.42 target=1455.6897 left=331s",
@@ -574,7 +555,16 @@
     "07:59:38 | HYPE | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=87.26 target=87.3231 left=21s",
     "07:59:39 | ETH | NO TRADE | NO_CLEAR_OPPORTUNITY | spot=2730.61 target=2728.2 left=20s",
     "07:59:41 | STATUS |  | entries=3 PNL=$-1.18",
-    "07:59:46 | STATUS |  | entries=3 PNL=$-1.18"
+    "07:59:46 | STATUS |  | entries=3 PNL=$-1.18",
+    "07:59:51 | KALSHI WS CONNECTED | 9 books",
+    "07:59:52 | STATUS |  | entries=3 PNL=$-1.18",
+    "07:59:57 | STATUS |  | entries=3 PNL=$-1.18",
+    "08:00:02 | STATUS |  | entries=3 PNL=$-1.18",
+    "08:00:07 | STATUS |  | entries=3 PNL=$-1.18",
+    "08:00:09 | XRP | RECONCILE FLAT | Kalshi confirma posición cerrada",
+    "08:00:09 | XRP | SETTLED NO -> YES | entry=0.130 qty=9.61 PNL=$-1.249",
+    "08:00:12 | STATUS |  | entries=3 PNL=$-2.43",
+    "08:00:17 | STATUS |  | entries=3 PNL=$-2.43"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
