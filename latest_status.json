@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010915-15",
     "target": 83729.78,
-    "seconds_left": 92.73558187484741,
-    "btc_price": 83500.01,
+    "seconds_left": 70.07599925994873,
+    "btc_price": 83487.16,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,20 +25,14 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-10-01T08:13:27-05:00",
-    "distance_to_target": -229.77000000000407,
+    "published_at_local": "2026-10-01T08:13:49-05:00",
+    "distance_to_target": -242.61999999999534,
     "net_realized_est": 0,
     "current_target_side": "NO",
     "minute_regime": null,
     "minute_regime_anchor": null
   },
   "recent_events": [
-    "2026-10-01 08:11:10.892 | LATENCY IMPULSE | DOWN | BTC1s=-7.62 | YESmid0=0.0065 | cb_ts=1790860270.857490",
-    "2026-10-01 08:11:11.949 | LATENCY IMPULSE | DOWN | BTC1s=-13.61 | YESmid0=0.0065 | cb_ts=1790860271.754624",
-    "2026-10-01 08:11:12.521 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
-    "2026-10-01 08:11:15.424 | LATENCY IMPULSE | UP | BTC1s=+6.52 | YESmid0=0.0065 | cb_ts=1790860275.360772",
-    "2026-10-01 08:11:16.456 | LATENCY IMPULSE | UP | BTC1s=+5.70 | YESmid0=0.0065 | cb_ts=1790860275.760362",
-    "2026-10-01 08:11:17.945 | LATENCY IMPULSE | UP | BTC1s=+13.99 | YESmid0=0.0065 | cb_ts=1790860277.658988",
     "2026-10-01 08:11:20.533 | LATENCY IMPULSE | UP | BTC1s=+16.31 | YESmid0=0.0065 | cb_ts=1790860280.360761",
     "2026-10-01 08:11:22.659 | LATENCY IMPULSE | DOWN | BTC1s=-14.04 | YESmid0=0.0065 | cb_ts=1790860282.566833",
     "2026-10-01 08:11:24.139 | LATENCY IMPULSE | DOWN | BTC1s=-14.04 | YESmid0=0.0055 | cb_ts=1790860282.566833",
@@ -112,7 +106,13 @@
     "2026-10-01 08:13:20.332 | STATE | btc=83508.23 target=83729.78 d=-221.55 | YESask=0.002 NOask=0.999 | pos=None qty=0.0 | flips=0 | left=99.9s",
     "2026-10-01 08:13:20.839 | LATENCY IMPULSE | DOWN | BTC1s=-9.14 | YESmid0=0.0015 | cb_ts=1790860400.567275",
     "2026-10-01 08:13:21.904 | LATENCY IMPULSE | DOWN | BTC1s=-10.43 | YESmid0=0.0015 | cb_ts=1790860400.869433",
-    "2026-10-01 08:13:23.027 | LATENCY IMPULSE | DOWN | BTC1s=-5.87 | YESmid0=0.0015 | cb_ts=1790860402.062635"
+    "2026-10-01 08:13:23.027 | LATENCY IMPULSE | DOWN | BTC1s=-5.87 | YESmid0=0.0015 | cb_ts=1790860402.062635",
+    "2026-10-01 08:13:28.486 | STATE | btc=83500.01 target=83729.78 d=-229.77 | YESask=0.001 NOask=None | pos=None qty=0.0 | flips=0 | left=91.8s",
+    "2026-10-01 08:13:28.659 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 08:13:34.403 | STATE | btc=83505.19 target=83729.78 d=-224.59 | YESask=0.001 NOask=None | pos=None qty=0.0 | flips=0 | left=85.8s",
+    "2026-10-01 08:13:38.564 | STATE | btc=83510.39 target=83729.78 d=-219.39 | YESask=0.001 NOask=None | pos=None qty=0.0 | flips=0 | left=82.0s",
+    "2026-10-01 08:13:40.499 | STATE | btc=83507.48 target=83729.78 d=-222.30 | YESask=0.001 NOask=None | pos=None qty=0.0 | flips=0 | left=79.9s",
+    "2026-10-01 08:13:44.300 | STATE | btc=83499.06 target=83729.78 d=-230.72 | YESask=0.001 NOask=None | pos=None qty=0.0 | flips=0 | left=75.9s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
