@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010900-00",
     "target": 83892.25,
-    "seconds_left": 513.8895924091339,
-    "btc_price": 83752.14,
+    "seconds_left": 491.9118227958679,
+    "btc_price": 83741.73,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,8 +25,8 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-10-01T07:51:26-05:00",
-    "distance_to_target": -140.11000000000058,
+    "published_at_local": "2026-10-01T07:51:48-05:00",
+    "distance_to_target": -150.52000000000407,
     "net_realized_est": 0,
     "current_target_side": "NO",
     "minute_regime": null,
@@ -59,7 +59,11 @@
     "2026-10-01 07:51:16.416 | STATE | btc=83754.11 target=83892.25 d=-138.14 | YESask=0.12 NOask=0.89 | pos=None qty=0.0 | flips=0 | left=523.9s",
     "2026-10-01 07:51:18.265 | STATE | btc=83745.55 target=83892.25 d=-146.70 | YESask=0.099 NOask=0.902 | pos=None qty=0.0 | flips=0 | left=522.0s",
     "2026-10-01 07:51:20.299 | STATE | btc=83745.55 target=83892.25 d=-146.70 | YESask=0.095 NOask=0.906 | pos=None qty=0.0 | flips=0 | left=520.0s",
-    "2026-10-01 07:51:22.403 | STATE | btc=83745.55 target=83892.25 d=-146.70 | YESask=0.1 NOask=0.901 | pos=None qty=0.0 | flips=0 | left=517.9s"
+    "2026-10-01 07:51:22.403 | STATE | btc=83745.55 target=83892.25 d=-146.70 | YESask=0.1 NOask=0.901 | pos=None qty=0.0 | flips=0 | left=517.9s",
+    "2026-10-01 07:51:26.394 | STATE | btc=83752.14 target=83892.25 d=-140.11 | YESask=0.11 NOask=0.9 | pos=None qty=0.0 | flips=0 | left=513.9s",
+    "2026-10-01 07:51:27.303 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 07:51:38.380 | STATE | btc=83750.44 target=83892.25 d=-141.81 | YESask=0.091 NOask=0.91 | pos=None qty=0.0 | flips=0 | left=501.9s",
+    "2026-10-01 07:51:44.418 | STATE | btc=83741.71 target=83892.25 d=-150.54 | YESask=0.086 NOask=0.915 | pos=None qty=0.0 | flips=0 | left=495.9s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
