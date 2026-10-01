@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010900-00",
     "target": 83892.25,
-    "seconds_left": 558.5282163619995,
-    "btc_price": 83745.54,
+    "seconds_left": 536.2325220108032,
+    "btc_price": 83754.94,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,8 +25,8 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-10-01T07:50:41-05:00",
-    "distance_to_target": -146.7100000000064,
+    "published_at_local": "2026-10-01T07:51:03-05:00",
+    "distance_to_target": -137.30999999999767,
     "net_realized_est": 0,
     "current_target_side": "NO",
     "minute_regime": null,
@@ -40,7 +40,17 @@
     "2026-10-01 07:50:38.600 | NUEVA RONDA | KXBTC15M-26OCT010900-00 | target=83892.25 | WAIT FIRST TARGET CROSS",
     "2026-10-01 07:50:38.600 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
     "2026-10-01 07:50:39.252 | FIRST CROSS ARMED | initial_side=NO | btc=83745.53 target=83892.25 | NO ENTRY",
-    "2026-10-01 07:50:39.252 | 1M REGIME RESET | minute=29847650 | btc=83745.53 target=83892.25"
+    "2026-10-01 07:50:39.252 | 1M REGIME RESET | minute=29847650 | btc=83745.53 target=83892.25",
+    "2026-10-01 07:50:42.855 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 07:50:44.384 | STATE | btc=83754.93 target=83892.25 d=-137.32 | YESask=0.15 NOask=0.86 | pos=None qty=0.0 | flips=0 | left=555.8s",
+    "2026-10-01 07:50:46.250 | STATE | btc=83754.93 target=83892.25 d=-137.32 | YESask=0.14 NOask=0.87 | pos=None qty=0.0 | flips=0 | left=553.9s",
+    "2026-10-01 07:50:50.250 | STATE | btc=83754.94 target=83892.25 d=-137.31 | YESask=0.13 NOask=0.88 | pos=None qty=0.0 | flips=0 | left=549.9s",
+    "2026-10-01 07:50:52.198 | STATE | btc=83754.94 target=83892.25 d=-137.31 | YESask=0.13 NOask=0.88 | pos=None qty=0.0 | flips=0 | left=548.0s",
+    "2026-10-01 07:50:56.405 | STATE | btc=83754.93 target=83892.25 d=-137.32 | YESask=0.12 NOask=0.89 | pos=None qty=0.0 | flips=0 | left=543.8s",
+    "2026-10-01 07:51:00.141 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
+    "2026-10-01 07:51:01.017 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
+    "2026-10-01 07:51:02.043 | 1M REGIME RESET | minute=29847651 | btc=83754.94 target=83892.25",
+    "2026-10-01 07:51:02.449 | STATE | btc=83754.94 target=83892.25 d=-137.31 | YESask=0.11 NOask=0.9 | pos=None qty=0.0 | flips=0 | left=538.0s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
