@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010115-15",
     "target": 84035.06,
-    "seconds_left": 475.9514374732971,
-    "btc_price": 84168.87,
+    "seconds_left": 453.3304374217987,
+    "btc_price": 84146.27,
     "feed_stale": false,
     "position": "YES",
     "qty": 1.0,
@@ -25,8 +25,8 @@
     "flips": 7,
     "trading_armed": true,
     "first_cross_side": "NO",
-    "published_at_local": "2026-10-01T00:07:04-05:00",
-    "distance_to_target": 133.80999999999767,
+    "published_at_local": "2026-10-01T00:07:26-05:00",
+    "distance_to_target": 111.2100000000064,
     "net_realized_est": -0.7000000000000002,
     "current_target_side": "YES",
     "last_action": "TARGET_HYST",
@@ -34,15 +34,6 @@
     "last_fill_price_est": 0.54
   },
   "recent_events": [
-    "2026-10-01 00:03:08.232 | ORDER SEND REAL | SELL YES | econ=0.4800 qty=1.00 | api_side=ask api_price=0.4800 | tif=immediate_or_cancel",
-    "2026-10-01 00:03:08.920 | EXIT REAL FILLED YES | filled=1.00 remaining=0.00 bid_est=0.4800 | realized_est=-0.3600",
-    "2026-10-01 00:03:09.179 | ORDER SEND REAL | BUY NO | econ=0.5200 qty=1.00 | api_side=ask api_price=0.4800 | tif=fill_or_kill",
-    "2026-10-01 00:03:09.887 | ENTRY REAL FILLED NO | qty=1 avg_ask_est=0.5200 limit=0.5200 cost_est=$0.5200 | TARGET_HYST | btc=84027.14 target=84035.06 left=711.99s",
-    "2026-10-01 00:03:12.022 | TARGET CROSS | NO->YES | btc=84038.01 target=84035.06",
-    "2026-10-01 00:03:12.241 | STATE | btc=84038.01 target=84035.06 d=+2.95 | YESask=0.52 NOask=0.49 | pos=NO qty=1.0 | flips=6 | left=708.0s",
-    "2026-10-01 00:03:13.291 | ORDER SEND REAL | SELL NO | econ=0.4800 qty=1.00 | api_side=bid api_price=0.5200 | tif=immediate_or_cancel",
-    "2026-10-01 00:03:13.946 | EXIT REAL FILLED NO | filled=1.00 remaining=0.00 bid_est=0.4800 | realized_est=-0.4000",
-    "2026-10-01 00:03:14.186 | ORDER SEND REAL | BUY YES | econ=0.5300 qty=1.00 | api_side=bid api_price=0.5300 | tif=fill_or_kill",
     "2026-10-01 00:03:14.786 | ENTRY REAL ERROR | YES limit=0.5300 | Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
     "2026-10-01 00:03:16.412 | STATE | btc=84044.67 target=84035.06 d=+9.61 | YESask=0.54 NOask=0.47 | pos=None qty=0.0 | flips=7 | left=703.8s",
     "2026-10-01 00:03:17.526 | ORDER SEND REAL | BUY YES | econ=0.5400 qty=1.00 | api_side=bid api_price=0.5400 | tif=fill_or_kill",
@@ -113,7 +104,16 @@
     "2026-10-01 00:06:46.411 | STATE | btc=84175.36 target=84035.06 d=+140.30 | YESask=0.88 NOask=0.13 | pos=YES qty=1.0 | flips=7 | left=493.8s",
     "2026-10-01 00:06:52.441 | STATE | btc=84189.75 target=84035.06 d=+154.69 | YESask=0.9 NOask=0.11 | pos=YES qty=1.0 | flips=7 | left=487.8s",
     "2026-10-01 00:06:56.305 | STATE | btc=84179.55 target=84035.06 d=+144.49 | YESask=0.907 NOask=0.094 | pos=YES qty=1.0 | flips=7 | left=483.9s",
-    "2026-10-01 00:06:58.385 | STATE | btc=84183.75 target=84035.06 d=+148.69 | YESask=0.901 NOask=0.1 | pos=YES qty=1.0 | flips=7 | left=481.9s"
+    "2026-10-01 00:06:58.385 | STATE | btc=84183.75 target=84035.06 d=+148.69 | YESask=0.901 NOask=0.1 | pos=YES qty=1.0 | flips=7 | left=481.9s",
+    "2026-10-01 00:07:04.273 | STATE | btc=84168.87 target=84035.06 d=+133.81 | YESask=0.89 NOask=0.12 | pos=YES qty=1.0 | flips=7 | left=476.0s",
+    "2026-10-01 00:07:05.373 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 00:07:06.273 | STATE | btc=84168.87 target=84035.06 d=+133.81 | YESask=0.87 NOask=0.14 | pos=YES qty=1.0 | flips=7 | left=474.0s",
+    "2026-10-01 00:07:08.370 | STATE | btc=84146.31 target=84035.06 d=+111.25 | YESask=0.85 NOask=0.16 | pos=YES qty=1.0 | flips=7 | left=471.9s",
+    "2026-10-01 00:07:10.350 | STATE | btc=84146.30 target=84035.06 d=+111.24 | YESask=0.85 NOask=0.16 | pos=YES qty=1.0 | flips=7 | left=469.9s",
+    "2026-10-01 00:07:12.450 | STATE | btc=84146.30 target=84035.06 d=+111.24 | YESask=0.86 NOask=0.15 | pos=YES qty=1.0 | flips=7 | left=467.9s",
+    "2026-10-01 00:07:16.419 | STATE | btc=84146.30 target=84035.06 d=+111.24 | YESask=0.84 NOask=0.17 | pos=YES qty=1.0 | flips=7 | left=463.8s",
+    "2026-10-01 00:07:18.429 | STATE | btc=84134.05 target=84035.06 d=+98.99 | YESask=0.84 NOask=0.17 | pos=YES qty=1.0 | flips=7 | left=461.8s",
+    "2026-10-01 00:07:20.368 | STATE | btc=84134.05 target=84035.06 d=+98.99 | YESask=0.85 NOask=0.16 | pos=YES qty=1.0 | flips=7 | left=459.9s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
