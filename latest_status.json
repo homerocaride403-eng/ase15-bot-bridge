@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010900-00",
     "target": 83892.25,
-    "seconds_left": 426.2697584629059,
-    "btc_price": 83779.33,
+    "seconds_left": 404.8717565536499,
+    "btc_price": 83744.59,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,8 +25,8 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-10-01T07:52:53-05:00",
-    "distance_to_target": -112.91999999999825,
+    "published_at_local": "2026-10-01T07:53:15-05:00",
+    "distance_to_target": -147.6600000000035,
     "net_realized_est": 0,
     "current_target_side": "NO",
     "minute_regime": null,
@@ -86,7 +86,14 @@
     "2026-10-01 07:52:44.385 | STATE | btc=83782.07 target=83892.25 d=-110.18 | YESask=0.13 NOask=0.88 | pos=None qty=0.0 | flips=0 | left=435.8s",
     "2026-10-01 07:52:48.297 | STATE | btc=83779.34 target=83892.25 d=-112.91 | YESask=0.13 NOask=0.88 | pos=None qty=0.0 | flips=0 | left=431.9s",
     "2026-10-01 07:52:50.361 | STATE | btc=83779.33 target=83892.25 d=-112.92 | YESask=0.13 NOask=0.88 | pos=None qty=0.0 | flips=0 | left=429.9s",
-    "2026-10-01 07:52:52.427 | STATE | btc=83779.34 target=83892.25 d=-112.91 | YESask=0.13 NOask=0.88 | pos=None qty=0.0 | flips=0 | left=427.8s"
+    "2026-10-01 07:52:52.427 | STATE | btc=83779.34 target=83892.25 d=-112.91 | YESask=0.13 NOask=0.88 | pos=None qty=0.0 | flips=0 | left=427.8s",
+    "2026-10-01 07:52:54.394 | STATE | btc=83779.33 target=83892.25 d=-112.92 | YESask=0.12 NOask=0.89 | pos=None qty=0.0 | flips=0 | left=425.9s",
+    "2026-10-01 07:52:54.929 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 07:52:56.411 | STATE | btc=83763.32 target=83892.25 d=-128.93 | YESask=0.11 NOask=0.9 | pos=None qty=0.0 | flips=0 | left=423.8s",
+    "2026-10-01 07:52:58.792 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
+    "2026-10-01 07:52:59.497 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
+    "2026-10-01 07:53:01.970 | 1M REGIME RESET | minute=29847653 | btc=83747.64 target=83892.25",
+    "2026-10-01 07:53:08.441 | STATE | btc=83745.54 target=83892.25 d=-146.71 | YESask=0.058 NOask=0.943 | pos=None qty=0.0 | flips=0 | left=411.9s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
