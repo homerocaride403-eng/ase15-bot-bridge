@@ -13,8 +13,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010030-30",
     "target": 83860.66,
-    "seconds_left": 166.54628157615662,
-    "btc_price": 83761.21,
+    "seconds_left": 143.95917773246765,
+    "btc_price": 83785.16,
     "feed_stale": false,
     "position": "NO",
     "qty": 1,
@@ -22,22 +22,14 @@
     "realized_pnl": -0.19,
     "fees": 0.1,
     "flips": 2,
-    "published_at_local": "2026-09-30T23:27:13-05:00",
-    "distance_to_target": -99.44999999999709,
+    "published_at_local": "2026-09-30T23:27:36-05:00",
+    "distance_to_target": -75.5,
     "net_realized": -0.29000000000000004,
     "last_action": "TARGET_HYST",
     "last_fill_side": "NO",
     "last_fill_price": 0.55
   },
   "recent_events": [
-    "2026-09-30 23:23:08.375 | STATE | btc=83753.13 target=83860.66 d=-107.53 | YESask=0.11 NOask=0.9 | pos=NO qty=1 | flips=2 | left=411.9s",
-    "2026-09-30 23:23:10.421 | STATE | btc=83753.13 target=83860.66 d=-107.53 | YESask=0.11 NOask=0.9 | pos=NO qty=1 | flips=2 | left=409.9s",
-    "2026-09-30 23:23:12.427 | STATE | btc=83753.13 target=83860.66 d=-107.53 | YESask=0.11 NOask=0.9 | pos=NO qty=1 | flips=2 | left=407.8s",
-    "2026-09-30 23:23:15.914 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
-    "2026-09-30 23:23:24.256 | STATE | btc=83759.37 target=83860.66 d=-101.29 | YESask=0.11 NOask=0.9 | pos=NO qty=1 | flips=2 | left=396.0s",
-    "2026-09-30 23:23:28.406 | STATE | btc=83765.82 target=83860.66 d=-94.84 | YESask=0.13 NOask=0.88 | pos=NO qty=1 | flips=2 | left=391.9s",
-    "2026-09-30 23:23:38.329 | STATE | btc=83762.58 target=83860.66 d=-98.08 | YESask=0.097 NOask=0.904 | pos=NO qty=1 | flips=2 | left=381.9s",
-    "2026-09-30 23:23:38.788 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
     "2026-09-30 23:23:40.272 | STATE | btc=83762.59 target=83860.66 d=-98.07 | YESask=0.1 NOask=0.901 | pos=NO qty=1 | flips=2 | left=380.0s",
     "2026-09-30 23:23:44.284 | STATE | btc=83762.58 target=83860.66 d=-98.08 | YESask=0.099 NOask=0.902 | pos=NO qty=1 | flips=2 | left=376.0s",
     "2026-09-30 23:23:48.217 | STATE | btc=83754.79 target=83860.66 d=-105.87 | YESask=0.085 NOask=0.916 | pos=NO qty=1 | flips=2 | left=372.0s",
@@ -109,7 +101,15 @@
     "2026-09-30 23:26:57.046 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
     "2026-09-30 23:27:00.348 | STATE | btc=83744.87 target=83860.66 d=-115.79 | YESask=0.017 NOask=0.984 | pos=NO qty=1 | flips=2 | left=179.9s",
     "2026-09-30 23:27:02.322 | STATE | btc=83744.87 target=83860.66 d=-115.79 | YESask=0.019 NOask=0.982 | pos=NO qty=1 | flips=2 | left=177.9s",
-    "2026-09-30 23:27:12.219 | STATE | btc=83761.21 target=83860.66 d=-99.45 | YESask=0.023 NOask=0.978 | pos=NO qty=1 | flips=2 | left=167.9s"
+    "2026-09-30 23:27:12.219 | STATE | btc=83761.21 target=83860.66 d=-99.45 | YESask=0.023 NOask=0.978 | pos=NO qty=1 | flips=2 | left=167.9s",
+    "2026-09-30 23:27:15.076 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-09-30 23:27:16.380 | STATE | btc=83761.21 target=83860.66 d=-99.45 | YESask=0.022 NOask=0.98 | pos=NO qty=1 | flips=2 | left=163.9s",
+    "2026-09-30 23:27:20.369 | STATE | btc=83754.62 target=83860.66 d=-106.04 | YESask=0.015 NOask=0.986 | pos=NO qty=1 | flips=2 | left=159.9s",
+    "2026-09-30 23:27:22.435 | STATE | btc=83777.12 target=83860.66 d=-83.54 | YESask=0.039 NOask=0.962 | pos=NO qty=1 | flips=2 | left=157.9s",
+    "2026-09-30 23:27:28.321 | STATE | btc=83781.04 target=83860.66 d=-79.62 | YESask=0.036 NOask=0.965 | pos=NO qty=1 | flips=2 | left=151.9s",
+    "2026-09-30 23:27:30.280 | STATE | btc=83781.04 target=83860.66 d=-79.62 | YESask=0.034 NOask=0.967 | pos=NO qty=1 | flips=2 | left=150.0s",
+    "2026-09-30 23:27:32.447 | STATE | btc=83779.31 target=83860.66 d=-81.35 | YESask=0.032 NOask=0.969 | pos=NO qty=1 | flips=2 | left=147.9s",
+    "2026-09-30 23:27:36.281 | STATE | btc=83785.16 target=83860.66 d=-75.50 | YESask=0.038 NOask=0.963 | pos=NO qty=1 | flips=2 | left=144.0s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
