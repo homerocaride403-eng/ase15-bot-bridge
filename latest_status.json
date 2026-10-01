@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010900-00",
     "target": 83892.25,
-    "seconds_left": 491.9118227958679,
-    "btc_price": 83741.73,
+    "seconds_left": 469.7732880115509,
+    "btc_price": 83724.75,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,8 +25,8 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-10-01T07:51:48-05:00",
-    "distance_to_target": -150.52000000000407,
+    "published_at_local": "2026-10-01T07:52:10-05:00",
+    "distance_to_target": -167.5,
     "net_realized_est": 0,
     "current_target_side": "NO",
     "minute_regime": null,
@@ -63,7 +63,15 @@
     "2026-10-01 07:51:26.394 | STATE | btc=83752.14 target=83892.25 d=-140.11 | YESask=0.11 NOask=0.9 | pos=None qty=0.0 | flips=0 | left=513.9s",
     "2026-10-01 07:51:27.303 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
     "2026-10-01 07:51:38.380 | STATE | btc=83750.44 target=83892.25 d=-141.81 | YESask=0.091 NOask=0.91 | pos=None qty=0.0 | flips=0 | left=501.9s",
-    "2026-10-01 07:51:44.418 | STATE | btc=83741.71 target=83892.25 d=-150.54 | YESask=0.086 NOask=0.915 | pos=None qty=0.0 | flips=0 | left=495.9s"
+    "2026-10-01 07:51:44.418 | STATE | btc=83741.71 target=83892.25 d=-150.54 | YESask=0.086 NOask=0.915 | pos=None qty=0.0 | flips=0 | left=495.9s",
+    "2026-10-01 07:51:48.315 | STATE | btc=83741.73 target=83892.25 d=-150.52 | YESask=0.084 NOask=0.917 | pos=None qty=0.0 | flips=0 | left=491.9s",
+    "2026-10-01 07:51:49.613 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 07:51:50.363 | STATE | btc=83741.73 target=83892.25 d=-150.52 | YESask=0.081 NOask=0.92 | pos=None qty=0.0 | flips=0 | left=489.9s",
+    "2026-10-01 07:51:54.258 | STATE | btc=83740.05 target=83892.25 d=-152.20 | YESask=0.073 NOask=0.928 | pos=None qty=0.0 | flips=0 | left=486.0s",
+    "2026-10-01 07:52:00.285 | STATE | btc=83728.37 target=83892.25 d=-163.88 | YESask=0.062 NOask=0.939 | pos=None qty=0.0 | flips=0 | left=480.0s",
+    "2026-10-01 07:52:00.757 | 1M REGIME RESET | minute=29847652 | btc=83728.04 target=83892.25",
+    "2026-10-01 07:52:02.424 | STATE | btc=83728.05 target=83892.25 d=-164.20 | YESask=0.06 NOask=0.941 | pos=None qty=0.0 | flips=0 | left=477.9s",
+    "2026-10-01 07:52:09.512 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
