@@ -13,8 +13,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010045-45",
     "target": 83805.54,
-    "seconds_left": 585.6172118186951,
-    "btc_price": 83763.59,
+    "seconds_left": 563.2154977321625,
+    "btc_price": 83755.63,
     "feed_stale": false,
     "position": "NO",
     "qty": 1,
@@ -22,21 +22,14 @@
     "realized_pnl": -0.10999999999999999,
     "fees": 0.06,
     "flips": 1,
-    "published_at_local": "2026-09-30T23:35:14-05:00",
-    "distance_to_target": -41.94999999999709,
+    "published_at_local": "2026-09-30T23:35:36-05:00",
+    "distance_to_target": -49.90999999998894,
     "net_realized": -0.16999999999999998,
     "last_action": "TARGET_HYST",
     "last_fill_side": "NO",
     "last_fill_price": 0.51
   },
   "recent_events": [
-    "2026-09-30 23:30:54.980 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
-    "2026-09-30 23:30:56.350 | STATE | btc=83819.95 target=83805.54 d=+14.41 | YESask=0.55 NOask=0.46 | pos=YES qty=1 | flips=0 | left=843.9s",
-    "2026-09-30 23:31:00.304 | STATE | btc=83819.95 target=83805.54 d=+14.41 | YESask=0.55 NOask=0.46 | pos=YES qty=1 | flips=0 | left=839.9s",
-    "2026-09-30 23:31:04.281 | STATE | btc=83819.95 target=83805.54 d=+14.41 | YESask=0.56 NOask=0.45 | pos=YES qty=1 | flips=0 | left=836.0s",
-    "2026-09-30 23:31:12.276 | STATE | btc=83819.95 target=83805.54 d=+14.41 | YESask=0.56 NOask=0.45 | pos=YES qty=1 | flips=0 | left=828.0s",
-    "2026-09-30 23:31:14.424 | STATE | btc=83821.65 target=83805.54 d=+16.11 | YESask=0.57 NOask=0.44 | pos=YES qty=1 | flips=0 | left=825.9s",
-    "2026-09-30 23:31:16.832 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
     "2026-09-30 23:31:18.523 | STATE | btc=83821.65 target=83805.54 d=+16.11 | YESask=0.56 NOask=0.45 | pos=YES qty=1 | flips=0 | left=821.8s",
     "2026-09-30 23:31:26.383 | STATE | btc=83812.17 target=83805.54 d=+6.63 | YESask=0.54 NOask=0.47 | pos=YES qty=1 | flips=0 | left=813.9s",
     "2026-09-30 23:31:32.282 | STATE | btc=83805.76 target=83805.54 d=+0.22 | YESask=0.51 NOask=0.5 | pos=YES qty=1 | flips=0 | left=808.0s",
@@ -109,7 +102,14 @@
     "2026-09-30 23:34:56.705 | STATE | btc=83756.15 target=83805.54 d=-49.39 | YESask=0.33 NOask=0.68 | pos=NO qty=1 | flips=1 | left=603.8s",
     "2026-09-30 23:34:58.419 | STATE | btc=83756.15 target=83805.54 d=-49.39 | YESask=0.33 NOask=0.68 | pos=NO qty=1 | flips=1 | left=601.9s",
     "2026-09-30 23:35:06.278 | STATE | btc=83763.59 target=83805.54 d=-41.95 | YESask=0.35 NOask=0.66 | pos=NO qty=1 | flips=1 | left=594.0s",
-    "2026-09-30 23:35:10.529 | STATE | btc=83763.59 target=83805.54 d=-41.95 | YESask=0.34 NOask=0.67 | pos=NO qty=1 | flips=1 | left=589.8s"
+    "2026-09-30 23:35:10.529 | STATE | btc=83763.59 target=83805.54 d=-41.95 | YESask=0.34 NOask=0.67 | pos=NO qty=1 | flips=1 | left=589.8s",
+    "2026-09-30 23:35:15.861 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-09-30 23:35:20.838 | STATE | btc=83766.63 target=83805.54 d=-38.91 | YESask=0.35 NOask=0.66 | pos=NO qty=1 | flips=1 | left=580.0s",
+    "2026-09-30 23:35:22.545 | STATE | btc=83766.63 target=83805.54 d=-38.91 | YESask=0.35 NOask=0.66 | pos=NO qty=1 | flips=1 | left=577.8s",
+    "2026-09-30 23:35:26.454 | STATE | btc=83766.63 target=83805.54 d=-38.91 | YESask=0.35 NOask=0.66 | pos=NO qty=1 | flips=1 | left=573.8s",
+    "2026-09-30 23:35:28.290 | STATE | btc=83766.63 target=83805.54 d=-38.91 | YESask=0.35 NOask=0.66 | pos=NO qty=1 | flips=1 | left=571.9s",
+    "2026-09-30 23:35:32.533 | STATE | btc=83766.64 target=83805.54 d=-38.90 | YESask=0.34 NOask=0.67 | pos=NO qty=1 | flips=1 | left=568.0s",
+    "2026-09-30 23:35:34.350 | STATE | btc=83754.43 target=83805.54 d=-51.11 | YESask=0.29 NOask=0.72 | pos=NO qty=1 | flips=1 | left=565.9s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
