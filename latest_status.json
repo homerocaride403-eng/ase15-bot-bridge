@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010900-00",
     "target": 83892.25,
-    "seconds_left": 298.4549629688263,
-    "btc_price": 83701.46,
+    "seconds_left": 275.8485245704651,
+    "btc_price": 83735.12,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,18 +25,14 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-10-01T07:55:01-05:00",
-    "distance_to_target": -190.7899999999936,
+    "published_at_local": "2026-10-01T07:55:24-05:00",
+    "distance_to_target": -157.13000000000466,
     "net_realized_est": 0,
     "current_target_side": "NO",
     "minute_regime": null,
     "minute_regime_anchor": null
   },
   "recent_events": [
-    "2026-10-01 07:50:56.405 | STATE | btc=83754.93 target=83892.25 d=-137.32 | YESask=0.12 NOask=0.89 | pos=None qty=0.0 | flips=0 | left=543.8s",
-    "2026-10-01 07:51:00.141 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
-    "2026-10-01 07:51:01.017 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
-    "2026-10-01 07:51:02.043 | 1M REGIME RESET | minute=29847651 | btc=83754.94 target=83892.25",
     "2026-10-01 07:51:02.449 | STATE | btc=83754.94 target=83892.25 d=-137.31 | YESask=0.11 NOask=0.9 | pos=None qty=0.0 | flips=0 | left=538.0s",
     "2026-10-01 07:51:04.859 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
     "2026-10-01 07:51:06.227 | STATE | btc=83755.71 target=83892.25 d=-136.54 | YESask=0.11 NOask=0.9 | pos=None qty=0.0 | flips=0 | left=534.0s",
@@ -112,7 +108,11 @@
     "2026-10-01 07:54:54.280 | STATE | btc=83693.45 target=83892.25 d=-198.80 | YESask=0.026 NOask=0.975 | pos=None qty=0.0 | flips=0 | left=306.0s",
     "2026-10-01 07:54:58.414 | STATE | btc=83692.93 target=83892.25 d=-199.32 | YESask=0.023 NOask=0.979 | pos=None qty=0.0 | flips=0 | left=301.9s",
     "2026-10-01 07:55:00.299 | STATE | btc=83697.64 target=83892.25 d=-194.61 | YESask=0.027 NOask=0.974 | pos=None qty=0.0 | flips=0 | left=299.9s",
-    "2026-10-01 07:55:00.713 | 1M REGIME RESET | minute=29847655 | btc=83699.73 target=83892.25"
+    "2026-10-01 07:55:00.713 | 1M REGIME RESET | minute=29847655 | btc=83699.73 target=83892.25",
+    "2026-10-01 07:55:03.044 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 07:55:04.559 | STATE | btc=83699.37 target=83892.25 d=-192.88 | YESask=0.018 NOask=0.983 | pos=None qty=0.0 | flips=0 | left=295.8s",
+    "2026-10-01 07:55:06.255 | STATE | btc=83707.81 target=83892.25 d=-184.44 | YESask=0.023 NOask=0.978 | pos=None qty=0.0 | flips=0 | left=294.0s",
+    "2026-10-01 07:55:10.322 | STATE | btc=83704.74 target=83892.25 d=-187.51 | YESask=0.017 NOask=0.984 | pos=None qty=0.0 | flips=0 | left=289.9s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
