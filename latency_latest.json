@@ -1,0 +1,13 @@
+{
+  "bot": "ASE15_BTC_TARGET_CROSS_V13_7_PAPER_LATENCY_GITHUB",
+  "paper_only": true,
+  "generated_at_local": "2026-10-01T08:21:14.469-05:00",
+  "sample_interval_s": 0.25,
+  "impulse_usd_1s": 5.0,
+  "max_wait_s": 5.0,
+  "pending_events": [],
+  "files": {
+    "samples": "ase15_latency_samples.csv",
+    "events": "ase15_latency_events.csv"
+  }
+}
