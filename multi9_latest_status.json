@@ -37,10 +37,10 @@
   "pending_settlements": 0,
   "assets": {
     "BTC": {
-      "price": 84265.22,
+      "price": 84254.66,
       "ticker": "KXBTC15M-26OCT011230-30",
       "target": 84227.21,
-      "seconds_left": 402.9230444431305,
+      "seconds_left": 373.8189625740051,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -53,14 +53,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.76,
-      "no_ask": 0.25
+      "yes_ask": 0.68,
+      "no_ask": 0.33
     },
     "ETH": {
-      "price": 2681.89,
+      "price": 2681.83,
       "ticker": "KXETH15M-26OCT011230-30",
       "target": 2683.93,
-      "seconds_left": 402.92285680770874,
+      "seconds_left": 373.81892681121826,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -73,14 +73,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.41,
-      "no_ask": 0.6
+      "yes_ask": 0.29,
+      "no_ask": 0.72
     },
     "SOL": {
-      "price": 117.27,
+      "price": 117.26,
       "ticker": "KXSOL15M-26OCT011230-30",
       "target": 117.3368,
-      "seconds_left": 402.9228370189667,
+      "seconds_left": 373.8189091682434,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -93,14 +93,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.57,
-      "no_ask": 0.44
+      "yes_ask": 0.34,
+      "no_ask": 0.67
     },
     "HYPE": {
-      "price": 87.16,
+      "price": 87.18,
       "ticker": "KXHYPE15M-26OCT011230-30",
       "target": 87.6099,
-      "seconds_left": 402.92282009124756,
+      "seconds_left": 373.81889128685,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -113,14 +113,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.084,
-      "no_ask": 0.932
+      "yes_ask": 0.03,
+      "no_ask": 0.971
     },
     "DOGE": {
-      "price": 0.09407,
+      "price": 0.09406,
       "ticker": "KXDOGE15M-26OCT011230-30",
       "target": 0.094112,
-      "seconds_left": 402.92280292510986,
+      "seconds_left": 373.81887459754944,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -133,14 +133,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.57,
-      "no_ask": 0.44
+      "yes_ask": 0.47,
+      "no_ask": 0.55
     },
     "BNB": {
-      "price": 766.29,
+      "price": 766.11,
       "ticker": "KXBNB15M-26OCT011230-30",
       "target": 766.71,
-      "seconds_left": 402.92278265953064,
+      "seconds_left": 373.81885743141174,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -153,14 +153,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.43,
-      "no_ask": 0.58
+      "yes_ask": 0.3,
+      "no_ask": 0.71
     },
     "XRP": {
-      "price": 1.4854,
+      "price": 1.4845,
       "ticker": "KXXRP15M-26OCT011230-30",
       "target": 1.4866,
-      "seconds_left": 402.92276549339294,
+      "seconds_left": 373.8188405036926,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -173,14 +173,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.47,
-      "no_ask": 0.54
+      "yes_ask": 0.33,
+      "no_ask": 0.68
     },
     "ZEC": {
-      "price": 1370.17,
+      "price": 1366.72,
       "ticker": "KXZEC15M-26OCT011230-30",
       "target": 1375.8849,
-      "seconds_left": 402.92274951934814,
+      "seconds_left": 373.81882309913635,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -193,14 +193,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.18,
-      "no_ask": 0.84
+      "yes_ask": 0.11,
+      "no_ask": 0.906
     },
     "NEAR": {
-      "price": 4.8911,
+      "price": 4.8871,
       "ticker": "KXNEAR15M-26OCT011230-30",
       "target": 4.9229,
-      "seconds_left": 402.9227316379547,
+      "seconds_left": 373.818806886673,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -213,8 +213,8 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.08,
-      "no_ask": 0.921
+      "yes_ask": 0.082,
+      "no_ask": 0.947
     }
   },
   "recent_events": [
@@ -817,6 +817,166 @@
       "side": "NO",
       "reason": "FIRST_CROSS_ENTRY",
       "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:17.944-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:18.815-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:19.713-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:20.529-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:21.397-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:22.202-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:23.053-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:23.857-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:24.725-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:25.514-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:26.321-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:27.094-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:27.896-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:28.681-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:29.527-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    },
+    {
+      "local_ts": "2026-10-01T11:23:30.301-05:00",
+      "kind": "order_failed",
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT011230-30",
+      "action": "ENTRY",
+      "side": "NO",
+      "reason": "FIRST_CROSS_ENTRY",
+      "error": "Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
     }
   ],
   "recent_log_lines": [
@@ -988,8 +1148,46 @@
     "11:23:15.532 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
     "11:23:16.295 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
     "11:23:16.413 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
-    "11:23:17.062 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}"
+    "11:23:17.062 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:17.188 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:17.936 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:17.954 | STATUS | armed=2/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "11:23:18.061 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:18.810 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:18.928 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:19.708 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:19.825 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:20.523 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:20.650 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:21.382 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:21.525 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:22.197 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:22.325 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:23.034 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:23.065 | STATUS | armed=2/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "11:23:23.174 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:23.851 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:23.972 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:24.703 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:24.845 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:25.508 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:25.634 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:26.315 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:26.431 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:27.088 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:27.209 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:27.892 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:28.013 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:28.677 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:28.693 | STATUS | armed=2/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "11:23:28.799 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:29.522 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:29.639 | ORDER SEND REAL | BUY NO | econ=0.440 qty=1 | tif=fill_or_kill",
+    "11:23:30.295 | SOL | LIVE ENTRY FAILED NO @0.440 | RuntimeError: Kalshi HTTP 409: {\"error\":{\"code\":\"fill_or_kill_insufficient_resting_volume\",\"message\":\"fill or kill insufficient resting volume\"}}",
+    "11:23:33.709 | STATUS | armed=2/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "11:23:38.732 | STATUS | armed=2/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "11:23:43.737 | STATUS | armed=2/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000"
   ],
-  "published_at": "2026-10-01T16:23:17+00:00",
+  "published_at": "2026-10-01T16:23:46+00:00",
   "privacy": "sanitized PAPER telemetry only; no credentials, tokens, keys or source code"
 }
