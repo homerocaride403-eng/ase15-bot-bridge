@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010200-00",
     "target": 84177.38,
-    "seconds_left": 650.8762986660004,
-    "btc_price": 84201.85,
+    "seconds_left": 629.3169224262238,
+    "btc_price": 84201.71,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,8 +25,8 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-10-01T00:49:09-05:00",
-    "distance_to_target": 24.470000000001164,
+    "published_at_local": "2026-10-01T00:49:30-05:00",
+    "distance_to_target": 24.330000000001746,
     "net_realized_est": 0,
     "current_target_side": "YES",
     "last_action": "TARGET_HYST",
@@ -34,10 +34,6 @@
     "last_fill_price_est": 0.5
   },
   "recent_events": [
-    "2026-10-01 00:45:13.283 | SIN MERCADO KXBTC15M ABIERTO",
-    "2026-10-01 00:45:14.573 | SIN MERCADO KXBTC15M ABIERTO",
-    "2026-10-01 00:45:15.824 | SIN MERCADO KXBTC15M ABIERTO",
-    "2026-10-01 00:45:17.084 | SIN MERCADO KXBTC15M ABIERTO",
     "2026-10-01 00:45:18.372 | SIN MERCADO KXBTC15M ABIERTO",
     "2026-10-01 00:45:19.629 | SIN MERCADO KXBTC15M ABIERTO",
     "2026-10-01 00:45:20.907 | SIN MERCADO KXBTC15M ABIERTO",
@@ -113,7 +109,11 @@
     "2026-10-01 00:48:52.263 | STATE | btc=84201.85 target=84177.38 d=+24.47 | YESask=0.64 NOask=0.37 | pos=None qty=0.0 | flips=0 | left=667.9s",
     "2026-10-01 00:48:54.354 | STATE | btc=84201.85 target=84177.38 d=+24.47 | YESask=0.64 NOask=0.37 | pos=None qty=0.0 | flips=0 | left=665.9s",
     "2026-10-01 00:49:00.310 | STATE | btc=84201.85 target=84177.38 d=+24.47 | YESask=0.63 NOask=0.38 | pos=None qty=0.0 | flips=0 | left=659.9s",
-    "2026-10-01 00:49:02.392 | STATE | btc=84201.85 target=84177.38 d=+24.47 | YESask=0.63 NOask=0.38 | pos=None qty=0.0 | flips=0 | left=657.9s"
+    "2026-10-01 00:49:02.392 | STATE | btc=84201.85 target=84177.38 d=+24.47 | YESask=0.63 NOask=0.38 | pos=None qty=0.0 | flips=0 | left=657.9s",
+    "2026-10-01 00:49:10.276 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 00:49:16.416 | STATE | btc=84191.35 target=84177.38 d=+13.97 | YESask=0.58 NOask=0.43 | pos=None qty=0.0 | flips=0 | left=643.8s",
+    "2026-10-01 00:49:24.327 | STATE | btc=84191.35 target=84177.38 d=+13.97 | YESask=0.61 NOask=0.4 | pos=None qty=0.0 | flips=0 | left=636.0s",
+    "2026-10-01 00:49:28.361 | STATE | btc=84195.13 target=84177.38 d=+17.75 | YESask=0.65 NOask=0.36 | pos=None qty=0.0 | flips=0 | left=631.9s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
