@@ -1,7 +1,7 @@
 {
   "bot": "ASE15_BTC_TARGET_CROSS_V13_10_PAPER_TRADE_LEDGER",
   "paper_only": true,
-  "generated_at_local": "2026-10-01T09:33:09.134-05:00",
+  "generated_at_local": "2026-10-01T09:34:06.051-05:00",
   "sample_interval_s": 0.25,
   "impulse_usd_1s": 5.0,
   "max_wait_s": 5.0,
@@ -15,14 +15,17 @@
     "ticker": "KXBTC15M-26OCT011045-45",
     "target": 84108.68,
     "side": -1,
-    "move": -7.129999999990105,
-    "base_mid": 0.535,
-    "btc": 84120.77,
-    "coinbase_tick_ts": 1790865187.6645937,
-    "seen_wall": 1790865187.751886,
-    "tick_age_ms": 87.29219436645508,
-    "book_rtt_ms": 407.4929167982191,
-    "hits": {}
+    "move": -13.269999999989523,
+    "base_mid": 0.46499999999999997,
+    "btc": 84078.99,
+    "coinbase_tick_ts": 1790865242.4471688,
+    "seen_wall": 1790865242.637939,
+    "tick_age_ms": 190.77014923095703,
+    "book_rtt_ms": 297.12770809419453,
+    "hits": {
+      "0.01": 1074.1924478206784,
+      "0.02": 2365.8526558429003
+    }
   },
   "files": {
     "samples": "ase15_latency_clean_samples.csv",
