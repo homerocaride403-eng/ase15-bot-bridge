@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010100-00",
     "target": 83864.14,
-    "seconds_left": 94.13645625114441,
-    "btc_price": 83982.06,
+    "seconds_left": 71.16365599632263,
+    "btc_price": 83984.2,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,20 +25,12 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-09-30T23:58:25-05:00",
-    "distance_to_target": 117.91999999999825,
+    "published_at_local": "2026-09-30T23:58:48-05:00",
+    "distance_to_target": 120.05999999999767,
     "net_realized_est": 0,
     "current_target_side": "YES"
   },
   "recent_events": [
-    "2026-09-30 23:54:15.480 | BRIDGE GITHUB | repo=homerocaride403-eng/ase15-bot-bridge | path=latest_status.json | every=15s | ASYNC",
-    "2026-09-30 23:54:15.656 | NUEVA RONDA | KXBTC15M-26OCT010100-00 | target=83864.14 | WAIT FIRST TARGET CROSS",
-    "2026-09-30 23:54:15.656 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
-    "2026-09-30 23:54:16.433 | FIRST CROSS ARMED | initial_side=YES | btc=84039.13 target=83864.14 | NO ENTRY",
-    "2026-09-30 23:54:18.951 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
-    "2026-09-30 23:54:24.679 | STATE | btc=84059.94 target=83864.14 d=+195.80 | YESask=0.98 NOask=0.021 | pos=None qty=0.0 | flips=0 | left=335.9s",
-    "2026-09-30 23:54:28.314 | STATE | btc=84059.94 target=83864.14 d=+195.80 | YESask=0.98 NOask=0.021 | pos=None qty=0.0 | flips=0 | left=331.9s",
-    "2026-09-30 23:54:30.220 | STATE | btc=84061.61 target=83864.14 d=+197.47 | YESask=0.982 NOask=0.019 | pos=None qty=0.0 | flips=0 | left=330.0s",
     "2026-09-30 23:54:32.239 | STATE | btc=84068.15 target=83864.14 d=+204.01 | YESask=0.982 NOask=0.019 | pos=None qty=0.0 | flips=0 | left=328.0s",
     "2026-09-30 23:54:34.450 | STATE | btc=84068.16 target=83864.14 d=+204.02 | YESask=0.983 NOask=0.018 | pos=None qty=0.0 | flips=0 | left=325.9s",
     "2026-09-30 23:54:36.625 | STATE | btc=84068.15 target=83864.14 d=+204.01 | YESask=0.985 NOask=0.016 | pos=None qty=0.0 | flips=0 | left=323.8s",
@@ -110,7 +102,15 @@
     "2026-09-30 23:58:14.359 | STATE | btc=83957.58 target=83864.14 d=+93.44 | YESask=0.992 NOask=0.009 | pos=None qty=0.0 | flips=0 | left=105.9s",
     "2026-09-30 23:58:16.349 | STATE | btc=83970.25 target=83864.14 d=+106.11 | YESask=0.994 NOask=0.007 | pos=None qty=0.0 | flips=0 | left=103.9s",
     "2026-09-30 23:58:18.249 | STATE | btc=83973.15 target=83864.14 d=+109.01 | YESask=0.995 NOask=0.006 | pos=None qty=0.0 | flips=0 | left=102.0s",
-    "2026-09-30 23:58:24.437 | STATE | btc=83982.06 target=83864.14 d=+117.92 | YESask=0.996 NOask=0.005 | pos=None qty=0.0 | flips=0 | left=95.8s"
+    "2026-09-30 23:58:24.437 | STATE | btc=83982.06 target=83864.14 d=+117.92 | YESask=0.996 NOask=0.005 | pos=None qty=0.0 | flips=0 | left=95.8s",
+    "2026-09-30 23:58:27.470 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-09-30 23:58:28.320 | STATE | btc=83975.24 target=83864.14 d=+111.10 | YESask=0.997 NOask=0.004 | pos=None qty=0.0 | flips=0 | left=91.9s",
+    "2026-09-30 23:58:30.322 | STATE | btc=83964.10 target=83864.14 d=+99.96 | YESask=0.998 NOask=0.003 | pos=None qty=0.0 | flips=0 | left=90.0s",
+    "2026-09-30 23:58:32.371 | STATE | btc=83964.11 target=83864.14 d=+99.97 | YESask=0.998 NOask=0.003 | pos=None qty=0.0 | flips=0 | left=87.9s",
+    "2026-09-30 23:58:36.318 | STATE | btc=83961.01 target=83864.14 d=+96.87 | YESask=0.999 NOask=0.002 | pos=None qty=0.0 | flips=0 | left=83.9s",
+    "2026-09-30 23:58:38.432 | STATE | btc=83957.60 target=83864.14 d=+93.46 | YESask=0.999 NOask=0.002 | pos=None qty=0.0 | flips=0 | left=81.9s",
+    "2026-09-30 23:58:44.314 | STATE | btc=83955.28 target=83864.14 d=+91.14 | YESask=None NOask=0.001 | pos=None qty=0.0 | flips=0 | left=76.0s",
+    "2026-09-30 23:58:46.272 | STATE | btc=83975.68 target=83864.14 d=+111.54 | YESask=None NOask=0.001 | pos=None qty=0.0 | flips=0 | left=74.0s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
