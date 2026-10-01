@@ -37,10 +37,10 @@
   "pending_settlements": 0,
   "assets": {
     "BTC": {
-      "price": 84388.35,
+      "price": 84396.58,
       "ticker": "KXBTC15M-26OCT011315-15",
       "target": 84142.82,
-      "seconds_left": 424.87981486320496,
+      "seconds_left": 384.45071816444397,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -53,14 +53,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.961,
-      "no_ask": 0.04
+      "yes_ask": 0.96,
+      "no_ask": 0.041
     },
     "ETH": {
-      "price": 2688.33,
+      "price": 2688.09,
       "ticker": "KXETH15M-26OCT011315-15",
       "target": 2678.37,
-      "seconds_left": 424.87979102134705,
+      "seconds_left": 384.45068740844727,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -73,14 +73,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.978,
-      "no_ask": 0.023
+      "yes_ask": 0.977,
+      "no_ask": 0.024
     },
     "SOL": {
-      "price": 117.49,
+      "price": 117.52,
       "ticker": "KXSOL15M-26OCT011315-15",
       "target": 117.0692,
-      "seconds_left": 424.87977480888367,
+      "seconds_left": 384.4506719112396,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -93,14 +93,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.972,
-      "no_ask": 0.035
+      "yes_ask": 0.967,
+      "no_ask": 0.037
     },
     "HYPE": {
-      "price": 87.33,
+      "price": 87.38,
       "ticker": "KXHYPE15M-26OCT011315-15",
       "target": 86.8168,
-      "seconds_left": 424.8797583580017,
+      "seconds_left": 384.45065546035767,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -113,14 +113,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.98,
+      "yes_ask": 0.984,
       "no_ask": 0.021
     },
     "DOGE": {
-      "price": 0.09426,
+      "price": 0.09417,
       "ticker": "KXDOGE15M-26OCT011315-15",
       "target": 0.093729,
-      "seconds_left": 424.8797438144684,
+      "seconds_left": 384.45059967041016,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -133,14 +133,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.968,
-      "no_ask": 0.033
+      "yes_ask": 0.971,
+      "no_ask": 0.03
     },
     "BNB": {
-      "price": 769.01,
+      "price": 768.82,
       "ticker": "KXBNB15M-26OCT011315-15",
       "target": 766.36,
-      "seconds_left": 424.87972831726074,
+      "seconds_left": 384.4505808353424,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -153,14 +153,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.99,
-      "no_ask": 0.019
+      "yes_ask": 0.988,
+      "no_ask": 0.021
     },
     "XRP": {
-      "price": 1.4879,
+      "price": 1.4881,
       "ticker": "KXXRP15M-26OCT011315-15",
       "target": 1.4816,
-      "seconds_left": 424.8797137737274,
+      "seconds_left": 384.4505648612976,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -173,14 +173,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.952,
-      "no_ask": 0.049
+      "yes_ask": 0.948,
+      "no_ask": 0.053
     },
     "ZEC": {
-      "price": 1346.77,
+      "price": 1346.88,
       "ticker": "KXZEC15M-26OCT011315-15",
       "target": 1342.0935,
-      "seconds_left": 424.8796970844269,
+      "seconds_left": 384.4505479335785,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -193,14 +193,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.918,
-      "no_ask": 0.11
+      "yes_ask": 0.86,
+      "no_ask": 0.17
     },
     "NEAR": {
-      "price": 4.8601,
+      "price": 4.8566,
       "ticker": "KXNEAR15M-26OCT011315-15",
       "target": 4.828,
-      "seconds_left": 424.879682302475,
+      "seconds_left": 384.45053362846375,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -213,8 +213,8 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.978,
-      "no_ask": 0.029
+      "yes_ask": 0.954,
+      "no_ask": 0.097
     }
   },
   "recent_events": [],
@@ -289,8 +289,16 @@
     "12:07:38.643 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
     "12:07:43.775 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
     "12:07:48.833 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
-    "12:07:53.891 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000"
+    "12:07:53.891 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "12:07:58.922 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "12:08:03.935 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "12:08:08.945 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "12:08:14.011 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "12:08:19.046 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "12:08:24.089 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "12:08:29.133 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "12:08:34.145 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000"
   ],
-  "published_at": "2026-10-01T17:07:55+00:00",
+  "published_at": "2026-10-01T17:08:35+00:00",
   "privacy": "sanitized PAPER telemetry only; no credentials, tokens, keys or source code"
 }
