@@ -1,18 +1,36 @@
 {
   "bot": "ASE15_BTC_TARGET_CROSS_V13_7_PAPER_LATENCY_GITHUB",
   "paper_only": true,
-  "generated_at_local": "2026-10-01T08:42:02.344-05:00",
+  "generated_at_local": "2026-10-01T08:42:51.382-05:00",
   "sample_interval_s": 0.25,
   "impulse_usd_1s": 5.0,
   "max_wait_s": 5.0,
   "pending_events": [
     {
-      "start": 1790862121.2820935,
-      "seen": 1790862121.4347985,
-      "side": 1,
-      "move": 16.820000000006985,
+      "start": 1790862167.016176,
+      "seen": 1790862167.31415,
+      "side": -1,
+      "move": -10.619999999995343,
       "base_mid": 0.9975,
-      "btc": 83838.05,
+      "btc": 83766.38,
+      "hits": {}
+    },
+    {
+      "start": 1790862168.2790835,
+      "seen": 1790862168.3633075,
+      "side": 1,
+      "move": 16.139999999999418,
+      "base_mid": 0.9975,
+      "btc": 83782.52,
+      "hits": {}
+    },
+    {
+      "start": 1790862169.4742188,
+      "seen": 1790862169.8644514,
+      "side": -1,
+      "move": -9.110000000000582,
+      "base_mid": 0.9975,
+      "btc": 83773.41,
       "hits": {}
     }
   ],
