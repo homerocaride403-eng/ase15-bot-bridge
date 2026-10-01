@@ -37,10 +37,10 @@
   "pending_settlements": 0,
   "assets": {
     "BTC": {
-      "price": 84922.97,
+      "price": 84921.79,
       "ticker": "KXBTC15M-26OCT011415-15",
       "target": 84838.39,
-      "seconds_left": 154.44447135925293,
+      "seconds_left": 123.95644664764404,
       "position": null,
       "entry": 0.0,
       "realized_gross": -0.010000000000000009,
@@ -53,14 +53,14 @@
       "round_entries": 1,
       "round_exits": 1,
       "round_defenses": 1,
-      "yes_ask": 0.84,
-      "no_ask": 0.17
+      "yes_ask": 0.9,
+      "no_ask": 0.11
     },
     "ETH": {
-      "price": 2700.85,
+      "price": 2700.89,
       "ticker": "KXETH15M-26OCT011415-15",
       "target": 2698.66,
-      "seconds_left": 154.44438552856445,
+      "seconds_left": 123.9564139842987,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.09999999999999998,
@@ -73,14 +73,14 @@
       "round_entries": 1,
       "round_exits": 1,
       "round_defenses": 1,
-      "yes_ask": 0.65,
-      "no_ask": 0.36
+      "yes_ask": 0.84,
+      "no_ask": 0.17
     },
     "SOL": {
-      "price": 118.48,
+      "price": 118.47,
       "ticker": "KXSOL15M-26OCT011415-15",
       "target": 118.247,
-      "seconds_left": 154.44434094429016,
+      "seconds_left": 123.9563946723938,
       "position": null,
       "entry": 0.0,
       "realized_gross": -0.009999999999999953,
@@ -93,14 +93,14 @@
       "round_entries": 1,
       "round_exits": 1,
       "round_defenses": 1,
-      "yes_ask": 0.87,
-      "no_ask": 0.14
+      "yes_ask": 0.979,
+      "no_ask": 0.029
     },
     "HYPE": {
-      "price": 87.92,
+      "price": 87.86,
       "ticker": "KXHYPE15M-26OCT011415-15",
       "target": 87.6231,
-      "seconds_left": 154.44429540634155,
+      "seconds_left": 123.95637464523315,
       "position": null,
       "entry": 0.0,
       "realized_gross": -0.010000000000000009,
@@ -113,14 +113,14 @@
       "round_entries": 1,
       "round_exits": 1,
       "round_defenses": 1,
-      "yes_ask": 0.928,
-      "no_ask": 0.073
+      "yes_ask": 0.997,
+      "no_ask": 0.007
     },
     "DOGE": {
-      "price": 0.09505,
+      "price": 0.0951,
       "ticker": "KXDOGE15M-26OCT011415-15",
       "target": 0.094824,
-      "seconds_left": 154.444251537323,
+      "seconds_left": 123.95635628700256,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.08000000000000002,
@@ -133,14 +133,14 @@
       "round_entries": 1,
       "round_exits": 1,
       "round_defenses": 1,
-      "yes_ask": 0.906,
-      "no_ask": 0.095
+      "yes_ask": 0.979,
+      "no_ask": 0.024
     },
     "BNB": {
-      "price": 771.46,
+      "price": 771.27,
       "ticker": "KXBNB15M-26OCT011415-15",
       "target": 772.42,
-      "seconds_left": 154.44403052330017,
+      "seconds_left": 123.95633840560913,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -153,14 +153,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.027,
-      "no_ask": 0.982
+      "yes_ask": 0.041,
+      "no_ask": 0.971
     },
     "XRP": {
-      "price": 1.5018,
+      "price": 1.5013,
       "ticker": "KXXRP15M-26OCT011415-15",
       "target": 1.4987,
-      "seconds_left": 154.44398045539856,
+      "seconds_left": 123.95632076263428,
       "position": null,
       "entry": 0.0,
       "realized_gross": -0.010000000000000009,
@@ -173,14 +173,14 @@
       "round_entries": 1,
       "round_exits": 1,
       "round_defenses": 1,
-      "yes_ask": 0.946,
-      "no_ask": 0.061
+      "yes_ask": 0.983,
+      "no_ask": 0.022
     },
     "ZEC": {
-      "price": 1350.72,
+      "price": 1350.02,
       "ticker": "KXZEC15M-26OCT011415-15",
       "target": 1356.1137,
-      "seconds_left": 154.44393372535706,
+      "seconds_left": 123.95630192756653,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -193,14 +193,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.023,
-      "no_ask": 0.985
+      "yes_ask": 0.01,
+      "no_ask": 0.994
     },
     "NEAR": {
-      "price": 4.922,
+      "price": 4.9212,
       "ticker": "KXNEAR15M-26OCT011415-15",
       "target": 4.8963,
-      "seconds_left": 154.44389009475708,
+      "seconds_left": 123.95628547668457,
       "position": null,
       "entry": 0.0,
       "realized_gross": -0.020000000000000018,
@@ -213,8 +213,8 @@
       "round_entries": 1,
       "round_exits": 1,
       "round_defenses": 1,
-      "yes_ask": 0.956,
-      "no_ask": 0.049
+      "yes_ask": 0.99,
+      "no_ask": 0.013
     }
   },
   "recent_events": [
@@ -640,22 +640,6 @@
     }
   ],
   "recent_log_lines": [
-    "13:04:25.003 | XRP | TARGET CROSS | NO->YES | d=+0.667bp",
-    "13:04:26.338 | XRP | TARGET CROSS | YES->NO | d=-1.334bp",
-    "13:04:26.791 | XRP | TARGET CROSS | NO->YES | d=+0.000bp",
-    "13:04:28.752 | STATUS | armed=6/9 open_pos=1 recovery_blocks=5 | settled=9 net=$+0.570 fees=$0.140",
-    "13:04:29.295 | XRP | TARGET CROSS | YES->NO | d=-1.334bp",
-    "13:04:32.060 | DOGE | TARGET CROSS | YES->NO | d=-1.476bp",
-    "13:04:33.782 | STATUS | armed=6/9 open_pos=1 recovery_blocks=5 | settled=9 net=$+0.570 fees=$0.140",
-    "13:04:33.879 | NEAR | RECOVERY CANDIDATE NO START | d=-13.888bp imp1s=-4.293bp",
-    "13:04:38.785 | STATUS | armed=6/9 open_pos=1 recovery_blocks=5 | settled=9 net=$+0.570 fees=$0.140",
-    "13:04:39.043 | NEAR | RECOVERY CANDIDATE NO START | d=-17.156bp imp1s=-3.272bp",
-    "13:04:43.293 | NEAR | RECOVERY CANDIDATE NO START | d=-19.811bp imp1s=-2.660bp",
-    "13:04:43.793 | STATUS | armed=6/9 open_pos=1 recovery_blocks=5 | settled=9 net=$+0.570 fees=$0.140",
-    "13:04:48.802 | STATUS | armed=6/9 open_pos=1 recovery_blocks=5 | settled=9 net=$+0.570 fees=$0.140",
-    "13:04:51.900 | NEAR | RECOVERY CANDIDATE NO START | d=-24.713bp imp1s=-4.707bp",
-    "13:04:53.828 | STATUS | armed=6/9 open_pos=1 recovery_blocks=5 | settled=9 net=$+0.570 fees=$0.140",
-    "13:04:54.675 | NEAR | RECOVERY CANDIDATE NO START | d=-20.424bp imp1s=-7.362bp",
     "13:04:58.862 | STATUS | armed=6/9 open_pos=1 recovery_blocks=5 | settled=9 net=$+0.570 fees=$0.140",
     "13:05:03.868 | STATUS | armed=6/9 open_pos=1 recovery_blocks=5 | settled=9 net=$+0.570 fees=$0.140",
     "13:05:08.843 | NEAR | RECOVERY CANDIDATE NO START | d=-10.825bp imp1s=-6.538bp",
@@ -889,8 +873,24 @@
     "13:12:20.152 | STATUS | armed=7/9 open_pos=0 recovery_blocks=7 | settled=9 net=$+0.570 fees=$0.140",
     "13:12:20.572 | XRP | RECOVERY CANDIDATE YES START | d=+20.685bp imp1s=+1.332bp",
     "13:12:25.167 | STATUS | armed=7/9 open_pos=0 recovery_blocks=7 | settled=9 net=$+0.570 fees=$0.140",
-    "13:12:25.211 | XRP | RECOVERY CANDIDATE YES START | d=+20.685bp imp1s=+1.332bp"
+    "13:12:25.211 | XRP | RECOVERY CANDIDATE YES START | d=+20.685bp imp1s=+1.332bp",
+    "13:12:26.439 | SOL | RECOVERY CANDIDATE YES START | d=+21.396bp imp1s=+1.688bp",
+    "13:12:28.790 | XRP | RECOVERY CANDIDATE YES START | d=+21.352bp imp1s=+1.332bp",
+    "13:12:30.178 | STATUS | armed=7/9 open_pos=0 recovery_blocks=7 | settled=9 net=$+0.570 fees=$0.140",
+    "13:12:35.183 | STATUS | armed=7/9 open_pos=0 recovery_blocks=7 | settled=9 net=$+0.570 fees=$0.140",
+    "13:12:39.660 | SOL | RECOVERY CANDIDATE YES START | d=+21.396bp imp1s=+1.688bp",
+    "13:12:40.188 | STATUS | armed=7/9 open_pos=0 recovery_blocks=7 | settled=9 net=$+0.570 fees=$0.140",
+    "13:12:42.104 | SOL | RECOVERY CANDIDATE YES START | d=+20.550bp imp1s=+1.688bp",
+    "13:12:43.675 | XRP | RECOVERY CANDIDATE YES START | d=+19.350bp imp1s=+2.665bp",
+    "13:12:45.201 | STATUS | armed=7/9 open_pos=0 recovery_blocks=7 | settled=9 net=$+0.570 fees=$0.140",
+    "13:12:46.378 | DOGE | RECOVERY CANDIDATE YES START | d=+29.107bp imp1s=+4.208bp",
+    "13:12:47.312 | XRP | RECOVERY CANDIDATE YES START | d=+19.350bp imp1s=+1.998bp",
+    "13:12:49.515 | XRP | RECOVERY CANDIDATE YES START | d=+20.685bp imp1s=+1.332bp",
+    "13:12:50.234 | STATUS | armed=7/9 open_pos=0 recovery_blocks=7 | settled=9 net=$+0.570 fees=$0.140",
+    "13:12:50.493 | SOL | RECOVERY CANDIDATE YES START | d=+21.396bp imp1s=+2.532bp",
+    "13:12:52.885 | XRP | RECOVERY CANDIDATE YES START | d=+20.685bp imp1s=+1.332bp",
+    "13:12:55.241 | STATUS | armed=7/9 open_pos=0 recovery_blocks=7 | settled=9 net=$+0.570 fees=$0.140"
   ],
-  "published_at": "2026-10-01T18:12:25+00:00",
+  "published_at": "2026-10-01T18:12:56+00:00",
   "privacy": "sanitized PAPER telemetry only; no credentials, tokens, keys or source code"
 }
