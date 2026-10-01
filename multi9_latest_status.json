@@ -37,10 +37,10 @@
   "pending_settlements": 0,
   "assets": {
     "BTC": {
-      "price": 84904.87,
+      "price": 84943.05,
       "ticker": "KXBTC15M-26OCT011445-45",
       "target": 84777.35,
-      "seconds_left": 48.003562211990356,
+      "seconds_left": 11.517152309417725,
       "position": "YES",
       "entry": 0.53,
       "realized_gross": -0.010000000000000009,
@@ -53,14 +53,14 @@
       "round_entries": 2,
       "round_exits": 1,
       "round_defenses": 1,
-      "yes_ask": 0.998,
-      "no_ask": 0.003
+      "yes_ask": 1.0,
+      "no_ask": 0.001
     },
     "ETH": {
-      "price": 2704.0,
+      "price": 2705.1,
       "ticker": "KXETH15M-26OCT011445-45",
       "target": 2699.84,
-      "seconds_left": 48.00352358818054,
+      "seconds_left": 11.517121076583862,
       "position": "YES",
       "entry": 0.55,
       "realized_gross": -0.010000000000000009,
@@ -77,10 +77,10 @@
       "no_ask": 0.002
     },
     "SOL": {
-      "price": 118.6,
+      "price": 118.68,
       "ticker": "KXSOL15M-26OCT011445-45",
       "target": 118.3522,
-      "seconds_left": 48.00350379943848,
+      "seconds_left": 11.517099380493164,
       "position": "YES",
       "entry": 0.41,
       "realized_gross": 0.0,
@@ -93,14 +93,14 @@
       "round_entries": 1,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.997,
-      "no_ask": 0.004
+      "yes_ask": 1.0,
+      "no_ask": 0.001
     },
     "HYPE": {
-      "price": 88.11,
+      "price": 88.05,
       "ticker": "KXHYPE15M-26OCT011445-45",
       "target": 87.9413,
-      "seconds_left": 48.00348234176636,
+      "seconds_left": 11.51707911491394,
       "position": "YES",
       "entry": 0.42,
       "realized_gross": 0.0,
@@ -113,14 +113,14 @@
       "round_entries": 1,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.996,
-      "no_ask": 0.01
+      "yes_ask": 1.0,
+      "no_ask": 0.001
     },
     "DOGE": {
-      "price": 0.095,
+      "price": 0.09507,
       "ticker": "KXDOGE15M-26OCT011445-45",
       "target": 0.094965,
-      "seconds_left": 48.003461837768555,
+      "seconds_left": 11.517060279846191,
       "position": "YES",
       "entry": 0.5,
       "realized_gross": 0.02999999999999997,
@@ -133,14 +133,14 @@
       "round_entries": 3,
       "round_exits": 2,
       "round_defenses": 2,
-      "yes_ask": 0.947,
-      "no_ask": 0.054
+      "yes_ask": 0.999,
+      "no_ask": 0.002
     },
     "BNB": {
-      "price": 770.38,
+      "price": 770.4,
       "ticker": "KXBNB15M-26OCT011445-45",
       "target": 770.73,
-      "seconds_left": 48.00344371795654,
+      "seconds_left": 11.517039060592651,
       "position": "NO",
       "entry": 0.44,
       "realized_gross": 0.6799999999999999,
@@ -153,14 +153,14 @@
       "round_entries": 5,
       "round_exits": 4,
       "round_defenses": 4,
-      "yes_ask": 0.66,
-      "no_ask": 0.44
+      "yes_ask": 0.005,
+      "no_ask": 0.998
     },
     "XRP": {
-      "price": 1.5035,
+      "price": 1.5045,
       "ticker": "KXXRP15M-26OCT011445-45",
       "target": 1.5006,
-      "seconds_left": 48.00342273712158,
+      "seconds_left": 11.51701807975769,
       "position": "YES",
       "entry": 0.57,
       "realized_gross": 0.030000000000000027,
@@ -173,14 +173,14 @@
       "round_entries": 3,
       "round_exits": 2,
       "round_defenses": 2,
-      "yes_ask": 0.996,
-      "no_ask": 0.005
+      "yes_ask": 1.0,
+      "no_ask": 0.001
     },
     "ZEC": {
-      "price": 1345.71,
+      "price": 1348.29,
       "ticker": "KXZEC15M-26OCT011445-45",
       "target": 1343.0775,
-      "seconds_left": 48.003403186798096,
+      "seconds_left": 11.51699686050415,
       "position": "YES",
       "entry": 0.58,
       "realized_gross": -0.03999999999999987,
@@ -193,14 +193,14 @@
       "round_entries": 5,
       "round_exits": 4,
       "round_defenses": 4,
-      "yes_ask": 0.993,
-      "no_ask": 0.021
+      "yes_ask": 1.0,
+      "no_ask": 0.001
     },
     "NEAR": {
-      "price": 4.911,
+      "price": 4.9169,
       "ticker": "KXNEAR15M-26OCT011445-45",
       "target": 4.909,
-      "seconds_left": 48.00338578224182,
+      "seconds_left": 11.516976594924927,
       "position": "YES",
       "entry": 0.53,
       "realized_gross": -0.050000000000000155,
@@ -213,8 +213,8 @@
       "round_entries": 8,
       "round_exits": 7,
       "round_defenses": 7,
-      "yes_ask": 0.98,
-      "no_ask": 0.022
+      "yes_ask": 1.0,
+      "no_ask": 0.002
     }
   },
   "recent_events": [
@@ -1219,15 +1219,6 @@
     }
   ],
   "recent_log_lines": [
-    "13:33:06.549 | NEAR | ADVANTAGE PROTECTED | from=YES best_bid=0.600 | WAIT NEW SUSTAINED DIRECTION",
-    "13:33:07.167 | DOGE | PAPER EXIT YES @0.540 | COINBASE_TARGET_BREAK_DEFENSE | gross=-0.010",
-    "13:33:07.170 | DOGE | RECOVERY GATE ARMED from=YES",
-    "13:33:09.081 | ZEC | TARGET CROSS | YES->NO | d=-2.066bp",
-    "13:33:09.107 | ZEC | DEFENSE CANDIDATE NO START | d=-2.066bp imp1s=-7.144bp",
-    "13:33:09.216 | NEAR | NEW DIRECTION CANDIDATE NO START | d=-6.111bp imp1s=-5.093bp",
-    "13:33:09.656 | SOL | TARGET CROSS | YES->NO | d=-0.186bp",
-    "13:33:09.771 | XRP | TARGET CROSS | YES->NO | d=-0.666bp",
-    "13:33:09.804 | XRP | PAPER EXIT YES @0.560 | ADVANTAGE_PROTECTION_TARGET_BREAK | gross=+0.060",
     "13:33:09.807 | XRP | ADVANTAGE PROTECTED | from=YES best_bid=0.560 | WAIT NEW SUSTAINED DIRECTION",
     "13:33:09.812 | ZEC | TARGET CROSS | NO->YES | d=+0.689bp",
     "13:33:10.261 | DOGE | NEW DIRECTION CANDIDATE NO START | d=-5.792bp imp1s=-3.160bp",
@@ -1468,8 +1459,17 @@
     "13:43:52.272 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
     "13:43:57.354 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
     "13:44:02.378 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
-    "13:44:07.386 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120"
+    "13:44:07.386 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
+    "13:44:12.415 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
+    "13:44:16.245 | BNB | ADVANTAGE LOCK ARMED | entry=0.440 best_bid=0.880 max_edge=+0.440",
+    "13:44:17.442 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
+    "13:44:22.451 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
+    "13:44:27.462 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
+    "13:44:32.492 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
+    "13:44:37.516 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
+    "13:44:42.528 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120",
+    "13:44:47.567 | STATUS | armed=9/9 open_pos=9 recovery_blocks=0 | settled=9 net=$+0.930 fees=$0.120"
   ],
-  "published_at": "2026-10-01T18:44:11+00:00",
+  "published_at": "2026-10-01T18:44:48+00:00",
   "privacy": "sanitized PAPER telemetry only; no credentials, tokens, keys or source code"
 }
