@@ -1,7 +1,7 @@
 {
   "bot": "ASE15_BTC_TARGET_CROSS_V13_9_PAPER_TARGET_BREAK_DEFENSE",
   "paper_only": true,
-  "generated_at_local": "2026-10-01T09:06:32.750-05:00",
+  "generated_at_local": "2026-10-01T09:07:20.870-05:00",
   "sample_interval_s": 0.25,
   "impulse_usd_1s": 5.0,
   "max_wait_s": 5.0,
@@ -15,14 +15,16 @@
     "ticker": "KXBTC15M-26OCT011015-15",
     "target": 83888.9,
     "side": -1,
-    "move": -9.020000000004075,
-    "base_mid": 0.195,
-    "btc": 83725.28,
-    "coinbase_tick_ts": 1790863592.5542898,
-    "seen_wall": 1790863592.5881603,
-    "tick_age_ms": 33.87045860290527,
-    "book_rtt_ms": 259.4181769527495,
-    "hits": {}
+    "move": -9.869999999995343,
+    "base_mid": 0.345,
+    "btc": 83827.81,
+    "coinbase_tick_ts": 1790863636.958547,
+    "seen_wall": 1790863637.1052585,
+    "tick_age_ms": 146.7113494873047,
+    "book_rtt_ms": 271.8922400381416,
+    "hits": {
+      "0.01": 568.5783331282437
+    }
   },
   "files": {
     "samples": "ase15_latency_clean_samples.csv",
