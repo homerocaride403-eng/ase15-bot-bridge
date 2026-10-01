@@ -14,8 +14,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010900-00",
     "target": 83892.25,
-    "seconds_left": 469.7732880115509,
-    "btc_price": 83724.75,
+    "seconds_left": 447.9071867465973,
+    "btc_price": 83783.36,
     "feed_stale": false,
     "position": null,
     "qty": 0.0,
@@ -25,8 +25,8 @@
     "flips": 0,
     "trading_armed": false,
     "first_cross_side": null,
-    "published_at_local": "2026-10-01T07:52:10-05:00",
-    "distance_to_target": -167.5,
+    "published_at_local": "2026-10-01T07:52:32-05:00",
+    "distance_to_target": -108.88999999999942,
     "net_realized_est": 0,
     "current_target_side": "NO",
     "minute_regime": null,
@@ -71,7 +71,13 @@
     "2026-10-01 07:52:00.285 | STATE | btc=83728.37 target=83892.25 d=-163.88 | YESask=0.062 NOask=0.939 | pos=None qty=0.0 | flips=0 | left=480.0s",
     "2026-10-01 07:52:00.757 | 1M REGIME RESET | minute=29847652 | btc=83728.04 target=83892.25",
     "2026-10-01 07:52:02.424 | STATE | btc=83728.05 target=83892.25 d=-164.20 | YESask=0.06 NOask=0.941 | pos=None qty=0.0 | flips=0 | left=477.9s",
-    "2026-10-01 07:52:09.512 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD"
+    "2026-10-01 07:52:09.512 | BTC FEED STALE/ESPERANDO COINBASE BTC-USD",
+    "2026-10-01 07:52:11.703 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-10-01 07:52:14.472 | STATE | btc=83728.05 target=83892.25 d=-164.20 | YESask=0.06 NOask=0.941 | pos=None qty=0.0 | flips=0 | left=465.8s",
+    "2026-10-01 07:52:20.268 | STATE | btc=83742.23 target=83892.25 d=-150.02 | YESask=0.065 NOask=0.936 | pos=None qty=0.0 | flips=0 | left=460.0s",
+    "2026-10-01 07:52:22.383 | STATE | btc=83742.09 target=83892.25 d=-150.16 | YESask=0.065 NOask=0.936 | pos=None qty=0.0 | flips=0 | left=457.9s",
+    "2026-10-01 07:52:26.333 | STATE | btc=83753.69 target=83892.25 d=-138.56 | YESask=0.083 NOask=0.918 | pos=None qty=0.0 | flips=0 | left=453.9s",
+    "2026-10-01 07:52:28.432 | STATE | btc=83753.67 target=83892.25 d=-138.58 | YESask=0.081 NOask=0.92 | pos=None qty=0.0 | flips=0 | left=451.8s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
