@@ -25,7 +25,7 @@
     "min_entry_seconds_left": 30.0
   },
   "totals": {
-    "settled_rounds": 0,
+    "settled_rounds": 2,
     "wins": 0,
     "losses": 0,
     "gross": 0.0,
@@ -38,10 +38,10 @@
   "pending_settlements": 0,
   "assets": {
     "BTC": {
-      "price": 84563.92,
-      "ticker": "KXBTC15M-26OCT011530-30",
-      "target": 84776.11,
-      "seconds_left": 12.180436372756958,
+      "price": 84568.02,
+      "ticker": "KXBTC15M-26OCT011545-45",
+      "target": 84589.89,
+      "seconds_left": 883.2279081344604,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -58,14 +58,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.001,
-      "no_ask": 1.0
+      "yes_ask": 0.5,
+      "no_ask": 0.51
     },
     "ETH": {
-      "price": 2691.84,
-      "ticker": "KXETH15M-26OCT011530-30",
-      "target": 2701.67,
-      "seconds_left": 12.180391788482666,
+      "price": 2691.94,
+      "ticker": "KXETH15M-26OCT011545-45",
+      "target": 2693.2,
+      "seconds_left": 883.2278518676758,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -75,21 +75,21 @@
       "profit_floor_bid": 0.0,
       "fees": 0.0,
       "net_realized": 0.0,
-      "trading_armed": false,
-      "minute_regime": null,
+      "trading_armed": true,
+      "minute_regime": "NO",
       "recovery_block": false,
       "recovery_from_side": null,
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.001,
-      "no_ask": 1.0
+      "yes_ask": 0.47,
+      "no_ask": 0.54
     },
     "SOL": {
-      "price": 117.53,
+      "price": 117.61,
       "ticker": "KXSOL15M-26OCT011530-30",
       "target": 118.4605,
-      "seconds_left": 12.180366277694702,
+      "seconds_left": 0.0,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -110,10 +110,10 @@
       "no_ask": 1.0
     },
     "HYPE": {
-      "price": 87.24,
+      "price": 87.28,
       "ticker": "KXHYPE15M-26OCT011530-30",
       "target": 87.7919,
-      "seconds_left": 12.180341958999634,
+      "seconds_left": 0.0,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -134,10 +134,10 @@
       "no_ask": 1.0
     },
     "DOGE": {
-      "price": 0.09436,
+      "price": 0.09435,
       "ticker": "KXDOGE15M-26OCT011530-30",
       "target": 0.094945,
-      "seconds_left": 12.180317878723145,
+      "seconds_left": 0.0,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -158,10 +158,10 @@
       "no_ask": 0.999
     },
     "BNB": {
-      "price": 767.93,
+      "price": 767.98,
       "ticker": "KXBNB15M-26OCT011530-30",
       "target": 770.05,
-      "seconds_left": 12.180294513702393,
+      "seconds_left": 0.0,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -185,7 +185,7 @@
       "price": 1.4928,
       "ticker": "KXXRP15M-26OCT011530-30",
       "target": 1.5021,
-      "seconds_left": 12.18026876449585,
+      "seconds_left": 0.0,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -206,10 +206,10 @@
       "no_ask": 1.0
     },
     "ZEC": {
-      "price": 1306.6,
+      "price": 1306.07,
       "ticker": "KXZEC15M-26OCT011530-30",
       "target": 1327.8584,
-      "seconds_left": 12.18024468421936,
+      "seconds_left": 0.0,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -230,10 +230,10 @@
       "no_ask": 1.0
     },
     "NEAR": {
-      "price": 4.7796,
+      "price": 4.7903,
       "ticker": "KXNEAR15M-26OCT011530-30",
       "target": 4.8904,
-      "seconds_left": 12.180217266082764,
+      "seconds_left": 0.0,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -254,7 +254,26 @@
       "no_ask": 1.0
     }
   },
-  "recent_events": [],
+  "recent_events": [
+    {
+      "local_ts": "2026-10-01T14:30:06.285-05:00",
+      "kind": "round_complete",
+      "asset": "ETH",
+      "ticker": "KXETH15M-26OCT011530-30",
+      "gross": 0.0,
+      "fees": 0.0,
+      "net": 0.0
+    },
+    {
+      "local_ts": "2026-10-01T14:30:15.062-05:00",
+      "kind": "round_complete",
+      "asset": "BTC",
+      "ticker": "KXBTC15M-26OCT011530-30",
+      "gross": 0.0,
+      "fees": 0.0,
+      "net": 0.0
+    }
+  ],
   "recent_log_lines": [
     "14:23:25.065 | PREFLIGHT OK | functions + signatures + bps math",
     "14:23:25.131 | SMOKE TEST OK | past_price + bps + half-edge lock + arity + defense + new-direction persistence",
@@ -352,8 +371,18 @@
     "14:29:32.365 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
     "14:29:37.405 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
     "14:29:42.467 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
-    "14:29:47.524 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000"
+    "14:29:47.524 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:29:52.571 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:29:57.576 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:30:02.580 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:30:06.285 | ETH | NEW ROUND | KXETH15M-26OCT011545-45 | target=2693.2 | WAIT FIRST TARGET CROSS",
+    "14:30:06.968 | ETH | TARGET CROSS | YES->NO | d=-0.928bp",
+    "14:30:07.594 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=1 net=$+0.000 fees=$0.000",
+    "14:30:08.979 | ETH | 1M REGIME CONFIRMED NO | hold=2.01s d=-1.522bp",
+    "14:30:09.223 | ETH | LIVE BOOK SKIP NO | executable=0.540 > $0.50 TOTAL cap/entry gate",
+    "14:30:12.667 | STATUS | armed=1/9 open_pos=0 recovery_blocks=0 | settled=1 net=$+0.000 fees=$0.000",
+    "14:30:15.062 | BTC | NEW ROUND | KXBTC15M-26OCT011545-45 | target=84589.89 | WAIT FIRST TARGET CROSS"
   ],
-  "published_at": "2026-10-01T19:29:47+00:00",
+  "published_at": "2026-10-01T19:30:16+00:00",
   "privacy": "sanitized PAPER telemetry only; no credentials, tokens, keys or source code"
 }
