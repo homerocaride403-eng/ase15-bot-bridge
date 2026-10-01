@@ -38,10 +38,10 @@
   "pending_settlements": 0,
   "assets": {
     "BTC": {
-      "price": 84664.96,
+      "price": 84655.78,
       "ticker": "KXBTC15M-26OCT011530-30",
       "target": 84776.11,
-      "seconds_left": 265.7858085632324,
+      "seconds_left": 221.93015933036804,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -58,14 +58,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.01,
-      "no_ask": 0.991
+      "yes_ask": 0.066,
+      "no_ask": 0.935
     },
     "ETH": {
-      "price": 2697.61,
+      "price": 2697.73,
       "ticker": "KXETH15M-26OCT011530-30",
       "target": 2701.67,
-      "seconds_left": 265.7857699394226,
+      "seconds_left": 221.9301197528839,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -82,14 +82,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.024,
-      "no_ask": 0.977
+      "yes_ask": 0.047,
+      "no_ask": 0.954
     },
     "SOL": {
-      "price": 118.11,
+      "price": 118.13,
       "ticker": "KXSOL15M-26OCT011530-30",
       "target": 118.4605,
-      "seconds_left": 265.7857494354248,
+      "seconds_left": 221.93009757995605,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -106,14 +106,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.014,
-      "no_ask": 0.987
+      "yes_ask": 0.022,
+      "no_ask": 0.979
     },
     "HYPE": {
-      "price": 87.52,
+      "price": 87.54,
       "ticker": "KXHYPE15M-26OCT011530-30",
       "target": 87.7919,
-      "seconds_left": 265.78572487831116,
+      "seconds_left": 221.93007564544678,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -130,14 +130,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.014,
-      "no_ask": 0.987
+      "yes_ask": 0.03,
+      "no_ask": 0.98
     },
     "DOGE": {
-      "price": 0.09455,
+      "price": 0.09456,
       "ticker": "KXDOGE15M-26OCT011530-30",
       "target": 0.094945,
-      "seconds_left": 265.78570318222046,
+      "seconds_left": 221.93005418777466,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -154,14 +154,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.02,
-      "no_ask": 0.982
+      "yes_ask": 0.026,
+      "no_ask": 0.977
     },
     "BNB": {
-      "price": 768.82,
+      "price": 768.75,
       "ticker": "KXBNB15M-26OCT011530-30",
       "target": 770.05,
-      "seconds_left": 265.7856812477112,
+      "seconds_left": 221.9300320148468,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -179,13 +179,13 @@
       "round_exits": 0,
       "round_defenses": 0,
       "yes_ask": 0.029,
-      "no_ask": 0.984
+      "no_ask": 0.974
     },
     "XRP": {
       "price": 1.4974,
       "ticker": "KXXRP15M-26OCT011530-30",
       "target": 1.5021,
-      "seconds_left": 265.78565764427185,
+      "seconds_left": 221.93000984191895,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -202,14 +202,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.017,
-      "no_ask": 0.984
+      "yes_ask": 0.027,
+      "no_ask": 0.979
     },
     "ZEC": {
-      "price": 1310.46,
+      "price": 1310.41,
       "ticker": "KXZEC15M-26OCT011530-30",
       "target": 1327.8584,
-      "seconds_left": 265.7855920791626,
+      "seconds_left": 221.92998671531677,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -226,14 +226,14 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.006,
+      "yes_ask": 0.007,
       "no_ask": 0.998
     },
     "NEAR": {
-      "price": 4.8313,
+      "price": 4.8399,
       "ticker": "KXNEAR15M-26OCT011530-30",
       "target": 4.8904,
-      "seconds_left": 265.7855648994446,
+      "seconds_left": 221.9299612045288,
       "position": null,
       "entry": 0.0,
       "realized_gross": 0.0,
@@ -250,8 +250,8 @@
       "round_entries": 0,
       "round_exits": 0,
       "round_defenses": 0,
-      "yes_ask": 0.017,
-      "no_ask": 0.984
+      "yes_ask": 0.013,
+      "no_ask": 0.989
     }
   },
   "recent_events": [],
@@ -301,8 +301,17 @@
     "14:25:15.994 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
     "14:25:21.007 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
     "14:25:26.043 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
-    "14:25:31.067 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000"
+    "14:25:31.067 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:25:36.075 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:25:41.105 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:25:46.113 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:25:51.153 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:25:56.194 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:26:01.214 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:26:06.235 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:26:11.256 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000",
+    "14:26:16.275 | STATUS | armed=0/9 open_pos=0 recovery_blocks=0 | settled=0 net=$+0.000 fees=$0.000"
   ],
-  "published_at": "2026-10-01T19:25:34+00:00",
+  "published_at": "2026-10-01T19:26:18+00:00",
   "privacy": "sanitized PAPER telemetry only; no credentials, tokens, keys or source code"
 }
