@@ -13,8 +13,8 @@
   "state": {
     "ticker": "KXBTC15M-26OCT010045-45",
     "target": 83805.54,
-    "seconds_left": 630.1701312065125,
-    "btc_price": 83753.98,
+    "seconds_left": 607.9015908241272,
+    "btc_price": 83753.99,
     "feed_stale": false,
     "position": "NO",
     "qty": 1,
@@ -22,22 +22,14 @@
     "realized_pnl": -0.10999999999999999,
     "fees": 0.06,
     "flips": 1,
-    "published_at_local": "2026-09-30T23:34:29-05:00",
-    "distance_to_target": -51.55999999999767,
+    "published_at_local": "2026-09-30T23:34:52-05:00",
+    "distance_to_target": -51.54999999998836,
     "net_realized": -0.16999999999999998,
     "last_action": "TARGET_HYST",
     "last_fill_side": "NO",
     "last_fill_price": 0.51
   },
   "recent_events": [
-    "2026-09-30 23:30:15.757 | SIN MERCADO KXBTC15M ABIERTO",
-    "2026-09-30 23:30:17.057 | RONDA CAMBIO | anterior=KXBTC15M-26OCT010030-30 | pos_final=NO qty=1 | realized=-0.1900 fees=0.1000 flips=2",
-    "2026-09-30 23:30:17.058 | NUEVA RONDA | KXBTC15M-26OCT010045-45 | target=83805.54",
-    "2026-09-30 23:30:17.353 | BLOCK BUY YES | reason=TARGET_HYST | best_ask=0.64 | cap=0.60 | btc=83843.82 target=83805.54 left=882.94s",
-    "2026-09-30 23:30:17.987 | BLOCK BUY YES | reason=TARGET_HYST | best_ask=0.64 | cap=0.60 | btc=83843.82 target=83805.54 left=882.23s",
-    "2026-09-30 23:30:18.609 | BLOCK BUY YES | reason=TARGET_HYST | best_ask=0.64 | cap=0.60 | btc=83843.82 target=83805.54 left=881.60s",
-    "2026-09-30 23:30:20.439 | PAPER BUY FILLED YES | qty=1 avg_ask=0.6000 cost=$0.6000 levels=[(0.6, 1.0)] | TARGET_HYST | btc=83837.89 target=83805.54 left=880.36s",
-    "2026-09-30 23:30:24.304 | STATE | btc=83837.89 target=83805.54 d=+32.35 | YESask=0.61 NOask=0.4 | pos=YES qty=1 | flips=0 | left=875.9s",
     "2026-09-30 23:30:26.363 | STATE | btc=83823.78 target=83805.54 d=+18.24 | YESask=0.59 NOask=0.42 | pos=YES qty=1 | flips=0 | left=873.9s",
     "2026-09-30 23:30:30.354 | STATE | btc=83840.81 target=83805.54 d=+35.27 | YESask=0.62 NOask=0.39 | pos=YES qty=1 | flips=0 | left=869.9s",
     "2026-09-30 23:30:33.234 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
@@ -109,7 +101,15 @@
     "2026-09-30 23:34:10.423 | STATE | btc=83756.12 target=83805.54 d=-49.42 | YESask=0.31 NOask=0.7 | pos=NO qty=1 | flips=1 | left=649.8s",
     "2026-09-30 23:34:14.305 | STATE | btc=83753.99 target=83805.54 d=-51.55 | YESask=0.32 NOask=0.69 | pos=NO qty=1 | flips=1 | left=646.0s",
     "2026-09-30 23:34:22.321 | STATE | btc=83753.98 target=83805.54 d=-51.56 | YESask=0.33 NOask=0.68 | pos=NO qty=1 | flips=1 | left=638.0s",
-    "2026-09-30 23:34:28.412 | STATE | btc=83753.98 target=83805.54 d=-51.56 | YESask=0.31 NOask=0.7 | pos=NO qty=1 | flips=1 | left=631.9s"
+    "2026-09-30 23:34:28.412 | STATE | btc=83753.98 target=83805.54 d=-51.56 | YESask=0.31 NOask=0.7 | pos=NO qty=1 | flips=1 | left=631.9s",
+    "2026-09-30 23:34:30.971 | BRIDGE OK | homerocaride403-eng/ase15-bot-bridge -> latest_status.json",
+    "2026-09-30 23:34:32.298 | STATE | btc=83753.98 target=83805.54 d=-51.56 | YESask=0.28 NOask=0.73 | pos=NO qty=1 | flips=1 | left=628.0s",
+    "2026-09-30 23:34:34.271 | STATE | btc=83753.98 target=83805.54 d=-51.56 | YESask=0.28 NOask=0.73 | pos=NO qty=1 | flips=1 | left=626.0s",
+    "2026-09-30 23:34:36.445 | STATE | btc=83750.43 target=83805.54 d=-55.11 | YESask=0.28 NOask=0.73 | pos=NO qty=1 | flips=1 | left=623.9s",
+    "2026-09-30 23:34:42.371 | STATE | btc=83748.76 target=83805.54 d=-56.78 | YESask=0.27 NOask=0.74 | pos=NO qty=1 | flips=1 | left=617.9s",
+    "2026-09-30 23:34:46.397 | STATE | btc=83749.41 target=83805.54 d=-56.13 | YESask=0.27 NOask=0.74 | pos=NO qty=1 | flips=1 | left=613.9s",
+    "2026-09-30 23:34:48.235 | STATE | btc=83750.38 target=83805.54 d=-55.16 | YESask=0.27 NOask=0.74 | pos=NO qty=1 | flips=1 | left=612.0s",
+    "2026-09-30 23:34:50.436 | STATE | btc=83750.39 target=83805.54 d=-55.15 | YESask=0.3 NOask=0.71 | pos=NO qty=1 | flips=1 | left=609.8s"
   ],
   "privacy": "sanitized telemetry only; no credentials, balances, private keys, tokens or source code"
 }
