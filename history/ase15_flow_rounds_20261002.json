@@ -24714,7 +24714,18 @@
           }
         }
       ],
-      "settlement": null
+      "settlement": {
+        "round_id": "ETH:KXETH15M-26OCT021200-00",
+        "asset": "ETH",
+        "ticker": "KXETH15M-26OCT021200-00",
+        "side": "NO",
+        "result": "NO",
+        "settlement_gross": 0.41999999999999993,
+        "round_gross": 0.41999999999999993,
+        "fees": 0.0171,
+        "net": 0.4028999999999999,
+        "settled_at": "2026-10-02T16:05:33+00:00"
+      }
     },
     {
       "round_id": "NEAR:KXNEAR15M-26OCT021200-00",
@@ -25559,5 +25570,5 @@
     }
   ],
   "orphan_settlements": [],
-  "updated_at": "2026-10-02T16:02:24+00:00"
+  "updated_at": "2026-10-02T16:06:54+00:00"
 }
