@@ -33,7 +33,7 @@
   "pending_settlements": 0,
   "assets": {
     "BTC": {
-      "price": 85362.95,
+      "price": 85383.99,
       "ticker": "KXBTC15M-26OCT041300-00",
       "target": 85331.76,
       "seconds_left": 0.0,
@@ -155,7 +155,7 @@
       "last_action": "WAIT_SETTLEMENT_Y2/5_N2/5_VY2/5_VN3/5"
     },
     "ETH": {
-      "price": 2702.66,
+      "price": 2703.13,
       "ticker": "KXETH15M-26OCT041300-00",
       "target": 2703.83,
       "seconds_left": 0.0,
@@ -277,7 +277,7 @@
       "last_action": "ENTRY_CONFIRM_NO_1.7/2.0s"
     },
     "SOL": {
-      "price": 121.72,
+      "price": 121.74,
       "ticker": "KXSOL15M-26OCT041300-00",
       "target": 121.6707,
       "seconds_left": 0.0,
@@ -399,7 +399,7 @@
       "last_action": "WAIT_FLOW15_N_10"
     },
     "HYPE": {
-      "price": 90.09,
+      "price": 90.11,
       "ticker": "KXHYPE15M-26OCT041300-00",
       "target": 89.9942,
       "seconds_left": 0.0,
@@ -521,7 +521,7 @@
       "last_action": "WAIT_FLOW15_N_2"
     },
     "DOGE": {
-      "price": 0.09459,
+      "price": 0.09461,
       "ticker": "KXDOGE15M-26OCT041300-00",
       "target": 0.094443,
       "seconds_left": 0.0,
@@ -765,7 +765,7 @@
       "last_action": "WAIT_FLOW15_N_0"
     },
     "XRP": {
-      "price": 1.5032,
+      "price": 1.5038,
       "ticker": "KXXRP15M-26OCT041300-00",
       "target": 1.5038,
       "seconds_left": 0.0,
@@ -887,7 +887,7 @@
       "last_action": "WAIT_FLOW15_N_9"
     },
     "ZEC": {
-      "price": 1341.54,
+      "price": 1339.18,
       "ticker": "KXZEC15M-26OCT041300-00",
       "target": 1334.377,
       "seconds_left": 0.0,
@@ -1009,7 +1009,7 @@
       "last_action": "WAIT_FLOW15_N_7"
     },
     "NEAR": {
-      "price": 4.9606,
+      "price": 4.9615,
       "ticker": "KXNEAR15M-26OCT041300-00",
       "target": 4.9171,
       "seconds_left": 0.0,
@@ -1133,20 +1133,6 @@
   },
   "recent_events": [],
   "recent_log_lines": [
-    "11:59:00.972 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
-    "11:59:00.996 | TARGETS | BTC: px=85365.61 tgt=85331.76 d=+3.97bp left=59s VY=2/5 VN=3/5 || ETH: px=2703.32 tgt=2703.83 d=-1.89bp left=59s VY=3/5 VN=3/5 || SOL: px=121.79 tgt=121.6707 d=+9.81bp left=59s VY=5/5 VN=2/5 || HYPE: px=90.07 tgt=89.9942 d=+8.42bp left=59s VY=3/5 VN=2/5 || DOGE: px=0.09459 tgt=0.094443 d=+15.56bp left=59s VY=3/5 VN=2/5 || BNB: px=788.7 tgt=789.38 d=-8.61bp left=59s VY=2/5 VN=3/5 || XRP: px=1.5038 tgt=1.5038 d=+0.00bp left=59s VY=3/5 VN=3/5 || ZEC: px=1339.17 tgt=1334.377 d=+35.92bp left=59s VY=4/5 VN=2/5 || NEAR: px=4.9632 tgt=4.9171 d=+93.75bp left=59s VY=3/5 VN=3/5",
-    "11:59:01.012 | TARGET+ZONE+TIME VETO | NEAR | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=4.9998 target=4.9171 zoneSide=ABOVE_TARGET gap=+168.19bp eta=183s left=59s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:01.200 | TARGET+ZONE+TIME VETO | BTC | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=85433.5 target=85331.76 zoneSide=ABOVE_TARGET gap=+11.92bp eta=259s left=59s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:01.313 | TARGET+ZONE+TIME VETO | ETH | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=2706.76 target=2703.83 zoneSide=ABOVE_TARGET gap=+10.84bp eta=180s left=59s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:01.380 | TARGET+ZONE+TIME VETO | SOL | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=121.9 target=121.6707 zoneSide=ABOVE_TARGET gap=+18.85bp eta=165s left=59s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:01.531 | TARGET+ZONE+TIME VETO | NEAR | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=4.9998 target=4.9171 zoneSide=ABOVE_TARGET gap=+168.19bp eta=183s left=59s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:01.839 | TARGET+ZONE+TIME VETO | BTC | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=85433.5 target=85331.76 zoneSide=ABOVE_TARGET gap=+11.92bp eta=259s left=58s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:01.942 | TARGET+ZONE+TIME VETO | ETH | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=2706.76 target=2703.83 zoneSide=ABOVE_TARGET gap=+10.84bp eta=180s left=58s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:01.985 | TARGET+ZONE+TIME VETO | SOL | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=121.9 target=121.6707 zoneSide=ABOVE_TARGET gap=+18.85bp eta=165s left=58s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:02.094 | TARGET+ZONE+TIME VETO | NEAR | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=4.9998 target=4.9171 zoneSide=ABOVE_TARGET gap=+168.19bp eta=183s left=58s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:02.252 | TARGET+ZONE+TIME VETO | BTC | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=85433.5 target=85331.76 zoneSide=ABOVE_TARGET gap=+11.92bp eta=259s left=58s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:02.337 | TARGET+ZONE+TIME VETO | ETH | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=2706.76 target=2703.83 zoneSide=ABOVE_TARGET gap=+10.84bp eta=156s left=58s reserve=12s wrongZone=0 tooLate=1 veto=1",
-    "11:59:02.412 | TARGET+ZONE+TIME VETO | SOL | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=121.9 target=121.6707 zoneSide=ABOVE_TARGET gap=+18.85bp eta=200s left=58s reserve=12s wrongZone=0 tooLate=1 veto=1",
     "11:59:02.583 | TARGET+ZONE+TIME VETO | ZEC | candidate=NO | TARGET_ZONE_TIME prior=YES candidate=NO support20=1333 target=1334.377 zoneSide=BELOW_TARGET gap=-10.32bp eta=133s left=57s reserve=12s wrongZone=0 tooLate=1 veto=1",
     "11:59:02.654 | TARGET+ZONE+TIME VETO | NEAR | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=4.9998 target=4.9171 zoneSide=ABOVE_TARGET gap=+168.19bp eta=183s left=57s reserve=12s wrongZone=0 tooLate=1 veto=1",
     "11:59:02.853 | TARGET+ZONE+TIME VETO | BTC | candidate=YES | TARGET_ZONE_TIME prior=NO candidate=YES resistance20=85433.5 target=85331.76 zoneSide=ABOVE_TARGET gap=+11.92bp eta=259s left=57s reserve=12s wrongZone=0 tooLate=1 veto=1",
@@ -1382,8 +1368,22 @@
     "12:00:36.936 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
     "12:00:36.941 | TARGETS | BTC: px=85362.94 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2702.39 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.69 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.09 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09458 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.503 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1340.99 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9569 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5",
     "12:00:41.967 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
-    "12:00:41.996 | TARGETS | BTC: px=85362.94 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2702.52 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.72 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.09 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09455 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.503 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1341.15 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9604 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5"
+    "12:00:41.996 | TARGETS | BTC: px=85362.94 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2702.52 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.72 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.09 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09455 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.503 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1341.15 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9604 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5",
+    "12:00:47.001 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
+    "12:00:47.007 | TARGETS | BTC: px=85362.95 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2702.81 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.72 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.07 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09462 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.5034 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1341.6 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9695 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5",
+    "12:00:52.012 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
+    "12:00:52.021 | TARGETS | BTC: px=85362.95 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2702.78 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.73 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.07 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09461 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.5034 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1341.6 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9742 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5",
+    "12:00:57.024 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
+    "12:00:57.034 | TARGETS | BTC: px=85368.41 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2702.78 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.74 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.07 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09461 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.5034 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1341.6 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9662 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5",
+    "12:01:02.036 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
+    "12:01:02.047 | TARGETS | BTC: px=85368.41 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2702.78 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.71 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.1 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09462 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.5034 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1341.82 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9703 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5",
+    "12:01:07.067 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
+    "12:01:07.071 | TARGETS | BTC: px=85368.41 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2702.96 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.73 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.1 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09462 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.5034 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1339.68 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9639 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5",
+    "12:01:12.072 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
+    "12:01:12.099 | TARGETS | BTC: px=85368.41 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2703.07 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.74 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.1 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09463 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.5035 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1339.2 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9639 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5",
+    "12:01:17.101 | STATUS | ready=9/9 open_pos=0 | settled=0 session_net=$+0.000 fees=$0.000",
+    "12:01:17.105 | TARGETS | BTC: px=85383.99 tgt=85331.76 d=+3.11bp left=0s VY=2/5 VN=2/5 || ETH: px=2703.13 tgt=2703.83 d=-3.14bp left=0s VY=2/5 VN=2/5 || SOL: px=121.74 tgt=121.6707 d=+4.05bp left=0s VY=2/5 VN=2/5 || HYPE: px=90.11 tgt=89.9942 d=+7.31bp left=0s VY=3/5 VN=2/5 || DOGE: px=0.09461 tgt=0.094443 d=+10.27bp left=0s VY=3/5 VN=2/5 || BNB: px=788.69 tgt=789.38 d=-11.27bp left=0s VY=2/5 VN=5/5 || XRP: px=1.5038 tgt=1.5038 d=-1.99bp left=0s VY=3/5 VN=3/5 || ZEC: px=1339.18 tgt=1334.377 d=+34.65bp left=0s VY=3/5 VN=2/5 || NEAR: px=4.9615 tgt=4.9171 d=+75.25bp left=0s VY=2/5 VN=2/5"
   ],
-  "published_at": "2026-10-04T17:00:44+00:00",
+  "published_at": "2026-10-04T17:01:18+00:00",
   "privacy": "sanitized LIVE telemetry only"
 }
