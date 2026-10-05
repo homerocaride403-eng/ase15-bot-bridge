@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_99_DYNAMIC_CONTRACT_TRAJECTORY_LIVE_1USD",
+  "bot": "ASE15_FLOW_V4_1_100_MOVE_PROJECTION_AUTHORITY_LIVE_1USD",
   "date_utc": "20261005",
   "events": [
     {
@@ -9290,7 +9290,61 @@
       "video_no": 2,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=2692.61 | H=2692.62 | L=2688.63 | C=2689.01 | SUPPLY=2696.54-2699.07 || 3M_REACTION | 3M=NO 3/3 | O=2690.53 | H=2690.54 | L=2688.63 | C=2689.01 | SUPPLY=2696.25-2697.75 || NEAREST_ZONE=SUPPLY_3M 2696.25-2697.75 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | BULL=2686.05-2686.18 | NEAR=BULL 2686.05-2686.18 || 3M_FVG | BULL=2685-2686.01 | BEAR=2686-2694.42 | NEAR=BEAR 2686-2694.42",
       "event_id": "KXETH15M-26OCT051245-45:ETH:YES:PRIOR_IMPULSE_REVERSAL:1791218669672:124"
+    },
+    {
+      "ts": "2026-10-05T16:47:56.512+00:00",
+      "epoch": 1791218876.5122542,
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT051300-00",
+      "side": "YES",
+      "stage": "EARLY_ALIGNMENT",
+      "reason": "EARLY_ALIGNMENT WAIT tier=EARLY_12_15M_EXCEPTIONAL side=YES left=724s P=0.862 req=0.781 settle=4/5 opp=0/5 3M=YES3/3 5M=NO3/3 path=YES5/5 accept=YES_ACCEPTED mq=TREND regime=RANGE/RANGE_UPPER/IN_DEMAND/UNCERTAIN state=RANGE/UNCERTAIN1/5 cvd=BUY dist=+14.78bp",
+      "ask": 0.83,
+      "underlying": 119.43,
+      "target": 119.2538,
+      "distance_bps": 14.775210517401423,
+      "left_s": 723.4876232147217,
+      "prob": 0.8621766254021477,
+      "settlement_score": 4,
+      "opposite_score": 0,
+      "projected_bps": 17.514839427678837,
+      "risk_bps": 15.296568816701386,
+      "entry_required_prob": 0.7808,
+      "entry_window_edge": 0.08137662540214763,
+      "market_quality": "TREND",
+      "flow_gate": "YES 1/3 NO 0/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 1,
+      "mtf_context": "15M_MAP | SUPPLY=119.34-119.52 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=119.39 | H=119.39 | L=119.2 | C=119.26 | DEMAND=119.2-119.5 | SUPPLY=119.64-119.75 || 3M_REACTION | 3M=YES 3/3 | O=119.25 | H=119.43 | L=119.22 | C=119.43 | DEMAND=119.21-119.34 | SUPPLY=119.41-119.52 || NEAREST_ZONE=SUPPLY_15M 119.34-119.52 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | NONE || 3M_FVG | NONE",
+      "event_id": "KXSOL15M-26OCT051300-00:SOL:YES:EARLY_ALIGNMENT:1791218876512:1"
+    },
+    {
+      "ts": "2026-10-05T16:48:12.269+00:00",
+      "epoch": 1791218892.269545,
+      "asset": "ZEC",
+      "ticker": "KXZEC15M-26OCT051300-00",
+      "side": "YES",
+      "stage": "EARLY_ALIGNMENT",
+      "reason": "EARLY_ALIGNMENT WAIT tier=EARLY_10_12M_STRONG side=YES left=708s P=0.905 req=0.776 settle=4/5 opp=0/5 3M=YES3/3 5M=NO3/3 path=YES2/5 accept=YES_ACCEPTED mq=TREND regime=RANGE/RANGE_UPPER/MID_RANGE/UNCERTAIN state=RANGE/UNCERTAIN1/5 cvd=BUY dist=+31.94bp",
+      "ask": 0.83,
+      "underlying": 1293.2,
+      "target": 1289.0832,
+      "distance_bps": 31.935875046699945,
+      "left_s": 707.7303302288055,
+      "prob": 0.9050709569210816,
+      "settlement_score": 4,
+      "opposite_score": 0,
+      "projected_bps": 29.72372490666533,
+      "risk_bps": 32.65015125937087,
+      "entry_required_prob": 0.775727629968038,
+      "entry_window_edge": 0.12934332695304362,
+      "market_quality": "TREND",
+      "flow_gate": "YES 1/3 NO 1/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 2,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=1291.27 | H=1291.68 | L=1287.44 | C=1290.32 | DEMAND=1284.74-1286.6 || 3M_REACTION | 3M=YES 3/3 | O=1289.4 | H=1295.28 | L=1289.26 | C=1294.39 | SUPPLY=1296.68-1299.6 || NEAREST_ZONE=SUPPLY_3M 1296.68-1299.6 || FVG_CONTEXT=15M_FVG | BEAR=1293.42-1293.77 | NEAR=BEAR 1293.42-1293.77 || 5M_FVG | BEAR=1302.48-1305.85 | NEAR=BEAR 1302.48-1305.85 || 3M_FVG | BEAR=1293.42-1295.56 | NEAR=BEAR 1293.42-1295.56",
+      "event_id": "KXZEC15M-26OCT051300-00:ZEC:YES:EARLY_ALIGNMENT:1791218892269:2"
     }
   ],
-  "updated_at": "2026-10-05T16:45:21+00:00"
+  "updated_at": "2026-10-05T16:48:48+00:00"
 }
