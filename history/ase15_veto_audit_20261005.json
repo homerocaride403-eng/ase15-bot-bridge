@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_80_CVD_KALSHI_OBSERVER_LIVE_1USD",
+  "bot": "ASE15_FLOW_V4_1_81_TARGET_PRESSURE_OBSERVER_LIVE_1USD",
   "date_utc": "20261005",
   "events": [
     {
@@ -11207,7 +11207,34 @@
       "video_no": 5,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=86436.92 | H=86494.95 | L=86372 | C=86373.19 | DEMAND=86294.01-86355.84 | SUPPLY=86575.82-86792.81 || 3M_REACTION | 3M=YES 2/3 | O=86442.67 | H=86498.45 | L=86368.94 | C=86442.84 | DEMAND=86275-86341.82 | SUPPLY=86487.75-86525.4 || NEAREST_ZONE=DEMAND_5M 86294.01-86355.84 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | BEAR=86548.44-86575.82 | NEAR=BEAR 86548.44-86575.82 || 3M_FVG | BEAR=86526.55-86582.2 | NEAR=BEAR 86526.55-86582.2",
       "event_id": "KXBTC15M-26OCT042015-15:BTC:NO:FLOW15_VIOLENT_CONTRADICTION:1791159199673:21"
+    },
+    {
+      "ts": "2026-10-05T00:24:22.789+00:00",
+      "epoch": 1791159862.7890956,
+      "asset": "XRP",
+      "ticker": "KXXRP15M-26OCT042030-30",
+      "side": "NO",
+      "stage": "PERSISTENCE_CONFIRM",
+      "reason": "held=0.00s need=2.00s",
+      "ask": 0.59,
+      "underlying": 1.5163,
+      "target": 1.5183,
+      "distance_bps": -13.17262728051111,
+      "left_s": 337.21085238456726,
+      "prob": 0.9233474767795641,
+      "settlement_score": 4,
+      "opposite_score": 0,
+      "projected_bps": -16.985946008369133,
+      "risk_bps": 9.838853916314235,
+      "entry_required_prob": 0.7801636363636364,
+      "entry_window_edge": 0.1431838404159277,
+      "market_quality": "TREND",
+      "flow_gate": "YES 0/3 NO 3/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 0,
+      "video_no": 5,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 2/3 | O=1.5196 | H=1.5199 | L=1.5173 | C=1.5177 | DEMAND=1.5177-1.5192 | SUPPLY=1.5198-1.5205 || 3M_REACTION | 3M=NO 3/3 | O=1.5197 | H=1.5198 | L=1.5173 | C=1.5177 | SUPPLY=1.5201-1.5204 || NEAREST_ZONE=DEMAND_5M 1.5177-1.5192 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | NONE || 3M_FVG | NONE",
+      "event_id": "KXXRP15M-26OCT042030-30:XRP:NO:PERSISTENCE_CONFIRM:1791159862789:1"
     }
   ],
-  "updated_at": "2026-10-05T00:14:01+00:00"
+  "updated_at": "2026-10-05T00:24:35+00:00"
 }
