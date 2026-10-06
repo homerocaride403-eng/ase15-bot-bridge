@@ -10586,7 +10586,34 @@
       "video_no": 1,
       "mtf_context": "15M_MAP | DEMAND=91.44-91.55 || 5M_DEVELOPMENT | 5M=UNCERTAIN 2/3 | O=91.95 | H=91.99 | L=91.91 | C=91.96 | DEMAND=91.6-91.83 | SUPPLY=91.8-91.89 || 3M_REACTION | 3M=YES 2/3 | O=91.94 | H=91.99 | L=91.91 | C=91.96 | DEMAND=91.68-91.69 | SUPPLY=91.9-91.98 || NEAREST_ZONE=SUPPLY_3M 91.9-91.98 || FVG_CONTEXT=15M_FVG | BULL=91.7-91.81 | BEAR=91.98-92.07 | NEAR=BEAR 91.98-92.07 || 5M_FVG | BULL=91.59-91.71 | BEAR=91.85-92.08 | NEAR=BEAR 91.85-92.08 || 3M_FVG | BULL=91.53-91.68 | BEAR=92-92.08 | NEAR=BEAR 92-92.08",
       "event_id": "KXHYPE15M-26OCT061430-30:HYPE:YES:ASK_RANGE:1791310808167:1"
+    },
+    {
+      "ts": "2026-10-06T18:25:49.094+00:00",
+      "epoch": 1791311149.0939488,
+      "asset": "HYPE",
+      "ticker": "KXHYPE15M-26OCT061430-30",
+      "side": "YES",
+      "stage": "DEPTH_ASK_RANGE",
+      "reason": "worst_ask=0.5400 allowed=0.05-0.50",
+      "ask": 0.25,
+      "underlying": 92.0,
+      "target": 91.9556,
+      "distance_bps": 4.828417192644711,
+      "left_s": 250.90586948394775,
+      "prob": 0.8255894280955312,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": 24.187291878681215,
+      "risk_bps": 7.906607520637141,
+      "entry_required_prob": 0.5,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 2/3 NO 0/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 2,
+      "mtf_context": "15M_MAP | DEMAND=91.44-91.55 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=91.98 | H=91.98 | L=91.8 | C=91.94 | DEMAND=91.6-91.83 | SUPPLY=91.8-91.89 || 3M_REACTION | 3M=NO 2/3 | O=91.94 | H=91.98 | L=91.8 | C=91.94 | DEMAND=91.68-91.69 | SUPPLY=91.78-91.89 || NEAREST_ZONE=SUPPLY_5M 91.8-91.89 || FVG_CONTEXT=15M_FVG | BULL=91.7-91.81 | BEAR=91.98-92.07 | NEAR=BEAR 91.98-92.07 || 5M_FVG | BULL=91.59-91.71 | BEAR=91.85-92.08 | NEAR=BEAR 91.85-92.08 || 3M_FVG | BULL=91.53-91.68 | BEAR=92-92.08 | NEAR=BEAR 92-92.08",
+      "event_id": "KXHYPE15M-26OCT061430-30:HYPE:YES:DEPTH_ASK_RANGE:1791311149093:2"
     }
   ],
-  "updated_at": "2026-10-06T18:20:29+00:00"
+  "updated_at": "2026-10-06T18:27:10+00:00"
 }
