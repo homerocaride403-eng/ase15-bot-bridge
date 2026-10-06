@@ -10235,7 +10235,34 @@
       "video_no": 5,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 3/3 | O=2694.4 | H=2698.57 | L=2694.4 | C=2698.23 | DEMAND=2694.14-2695.37 || 3M_REACTION | 3M=NO 2/3 | O=2696.94 | H=2698.57 | L=2695.72 | C=2695.79 | SUPPLY=2698.33-2700.23 || NEAREST_ZONE=DEMAND_5M 2694.14-2695.37 || FVG_CONTEXT=15M_FVG | BEAR=2705.43-2712.01 | NEAR=BEAR 2705.43-2712.01 || 5M_FVG | BEAR=2703.51-2703.56 | NEAR=BEAR 2703.51-2703.56 || 3M_FVG | BEAR=2699.69-2701.21 | NEAR=BEAR 2699.69-2701.21",
       "event_id": "KXETH15M-26OCT061315-15:ETH:NO:ASK_RANGE:1791306752277:10"
+    },
+    {
+      "ts": "2026-10-06T17:15:59.817+00:00",
+      "epoch": 1791306959.8174589,
+      "asset": "HYPE",
+      "ticker": "KXHYPE15M-26OCT061330-30",
+      "side": "NO",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.5800 allowed=0.05-0.50",
+      "ask": 0.44,
+      "underlying": 91.43,
+      "target": 91.5333,
+      "distance_bps": -11.28551030062176,
+      "left_s": 840.1824429035187,
+      "prob": 0.9467636829594394,
+      "settlement_score": 5,
+      "opposite_score": 0,
+      "projected_bps": -47.57235085403901,
+      "risk_bps": 20.604409029519307,
+      "entry_required_prob": 0.5,
+      "entry_window_edge": null,
+      "market_quality": "TREND",
+      "flow_gate": "YES 0/3 NO 3/3 | SELL_PRESSURE | ABSORPTION=VETO_ONLY",
+      "video_yes": 0,
+      "video_no": 5,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=91.82 | H=91.82 | L=91.48 | C=91.56 | DEMAND=91.6-91.83 | SUPPLY=91.8-91.89 || 3M_REACTION | 3M=YES 2/3 | O=91.54 | H=91.58 | L=91.48 | C=91.56 | DEMAND=91.6-91.74 | SUPPLY=91.78-91.89 || NEAREST_ZONE=DEMAND_3M 91.6-91.74 || FVG_CONTEXT=15M_FVG | BEAR=91.98-92.07 | NEAR=BEAR 91.98-92.07 || 5M_FVG | BEAR=91.85-92.08 | NEAR=BEAR 91.85-92.08 || 3M_FVG | BEAR=91.58-91.71 | NEAR=BEAR 91.58-91.71",
+      "event_id": "KXHYPE15M-26OCT061330-30:HYPE:NO:ASK_RANGE:1791306959817:11"
     }
   ],
-  "updated_at": "2026-10-06T17:13:59+00:00"
+  "updated_at": "2026-10-06T17:17:34+00:00"
 }
