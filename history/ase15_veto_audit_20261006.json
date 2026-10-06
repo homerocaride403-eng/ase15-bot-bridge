@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112I_PARTIAL_DEPTH_CAP50_2USD_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112K_SAME_LOGIC_TEST_CAP65_2USD_LIVE",
   "date_utc": "20261006",
   "events": [
     {
@@ -11261,7 +11261,34 @@
       "video_no": 4,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=120.84 | H=120.87 | L=120.73 | C=120.82 | DEMAND=120.38-120.46 | SUPPLY=120.91-121.05 || 3M_REACTION | 3M=YES 3/3 | O=120.75 | H=120.89 | L=120.74 | C=120.88 | DEMAND=120.73-120.84 | SUPPLY=120.83-121.04 || NEAREST_ZONE=DEMAND_3M 120.73-120.84 || FVG_CONTEXT=15M_FVG | BULL=120.63-120.85 | NEAR=BULL 120.63-120.85 || 5M_FVG | BULL=120.49-120.73 | BEAR=120.95-121.1 | NEAR=BULL 120.49-120.73 || 3M_FVG | BULL=120.53-120.77 | BEAR=121.01-121.1 | NEAR=BULL 120.53-120.77",
       "event_id": "KXSOL15M-26OCT061515-15:SOL:NO:ASK_RANGE:1791313631931:15"
+    },
+    {
+      "ts": "2026-10-06T20:07:54.569+00:00",
+      "epoch": 1791317274.5698931,
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT061615-15",
+      "side": "YES",
+      "stage": "FRESH_BOOK_EDGE_LOST",
+      "reason": "P=0.625 reqFresh=0.630 edge=-0.005",
+      "ask": 0.59,
+      "underlying": 120.84,
+      "target": 120.8295,
+      "distance_bps": 0.8689930852984994,
+      "left_s": 425.4299862384796,
+      "prob": 0.6252472919282136,
+      "settlement_score": 4,
+      "opposite_score": 0,
+      "projected_bps": 8.994893455480083,
+      "risk_bps": 9.732889343871634,
+      "entry_required_prob": 0.6200000000000001,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 2/3 NO 0/3 | BUY_ABSORPTION | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 2,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=120.8 | H=120.86 | L=120.67 | C=120.73 | SUPPLY=120.91-121.05 || 3M_REACTION | 3M=YES 2/3 | O=120.77 | H=120.84 | L=120.67 | C=120.82 | DEMAND=120.73-120.84 | SUPPLY=120.75-120.89 || NEAREST_ZONE=SUPPLY_3M 120.75-120.89 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | BEAR=120.95-121.1 | NEAR=BEAR 120.95-121.1 || 3M_FVG | BEAR=121.01-121.1 | NEAR=BEAR 121.01-121.1",
+      "event_id": "KXSOL15M-26OCT061615-15:SOL:YES:FRESH_BOOK_EDGE_LOST:1791317274569:1"
     }
   ],
-  "updated_at": "2026-10-06T19:09:10+00:00"
+  "updated_at": "2026-10-06T20:10:17+00:00"
 }
