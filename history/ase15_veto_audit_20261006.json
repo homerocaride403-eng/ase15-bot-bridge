@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112V_FIX3_FULL2_BALANCE_PREFLIGHT_CAP65_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112V_FIX4_FIX3_FULL2_BALANCE_PREFLIGHT_CAP65_LIVE",
   "date_utc": "20261006",
   "events": [
     {
@@ -11720,7 +11720,34 @@
       "video_no": 5,
       "mtf_context": "15M_MAP | DEMAND=120.86-121.15 || 5M_DEVELOPMENT | 5M=NO 2/3 | O=120.8 | H=120.83 | L=120.77 | C=120.78 | SUPPLY=121.12-121.19 || 3M_REACTION | 3M=NO 3/3 | O=120.81 | H=120.81 | L=120.77 | C=120.78 | SUPPLY=121.15-121.18 || NEAREST_ZONE=DEMAND_15M 120.86-121.15 || FVG_CONTEXT=15M_FVG | BEAR=120.89-121.02 | NEAR=BEAR 120.89-121.02 || 5M_FVG | BEAR=120.91-121.03 | NEAR=BEAR 120.91-121.03 || 3M_FVG | BEAR=120.89-121.02 | NEAR=BEAR 120.89-121.02",
       "event_id": "KXSOL15M-26OCT061930-30:SOL:NO:FRESH_BOOK_EDGE_LOST:1791328532092:1"
+    },
+    {
+      "ts": "2026-10-06T23:28:04.535+00:00",
+      "epoch": 1791329284.5353787,
+      "asset": "BNB",
+      "ticker": "KXBNB15M-26OCT061930-30",
+      "side": "NO",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.7400 allowed=0.05-0.65",
+      "ask": 0.43,
+      "underlying": 779.22,
+      "target": 779.47,
+      "distance_bps": -3.2073075294751563,
+      "left_s": 115.46443819999695,
+      "prob": 0.9704018958208609,
+      "settlement_score": 2,
+      "opposite_score": 0,
+      "projected_bps": -3.2073075294751563,
+      "risk_bps": 1.2051525914783265,
+      "entry_required_prob": 0.43,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 0/3 NO 1/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 2,
+      "video_no": 3,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=779.24 | H=779.3 | L=778.83 | C=779.17 | DEMAND=779.14-779.54 | SUPPLY=779.44-779.63 || 3M_REACTION | 3M=YES 2/3 | O=779.31 | H=779.31 | L=779.16 | C=779.22 | DEMAND=779.99-780.15 | SUPPLY=779.17-779.44 || NEAREST_ZONE=SUPPLY_3M 779.17-779.44 || FVG_CONTEXT=15M_FVG | BEAR=779.78-780.65 | NEAR=BEAR 779.78-780.65 || 5M_FVG | BEAR=779.3-779.42 | NEAR=BEAR 779.3-779.42 || 3M_FVG | BEAR=779.25-779.36 | NEAR=BEAR 779.25-779.36",
+      "event_id": "KXBNB15M-26OCT061930-30:BNB:NO:ASK_RANGE:1791329284535:1"
     }
   ],
-  "updated_at": "2026-10-06T23:17:16+00:00"
+  "updated_at": "2026-10-06T23:29:07+00:00"
 }
