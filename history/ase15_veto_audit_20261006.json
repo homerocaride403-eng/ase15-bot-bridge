@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112C_NO_STOPS_2USD_CAP50_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112D_NO_STOPS_2USD_CAP50_LIVE",
   "date_utc": "20261006",
   "events": [
     {
@@ -9965,7 +9965,61 @@
       "video_no": 5,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 2/3 | O=120.29 | H=120.41 | L=120.21 | C=120.38 | DEMAND=120.48-120.75 | SUPPLY=121.02-121.17 || 3M_REACTION | 3M=NO 2/3 | O=120.29 | H=120.41 | L=120.25 | C=120.27 | DEMAND=120.29-120.38 | SUPPLY=120.77-120.9 || NEAREST_ZONE=DEMAND_3M 120.29-120.38 || FVG_CONTEXT=15M_FVG | BEAR=120.59-120.64 | NEAR=BEAR 120.59-120.64 || 5M_FVG | BEAR=120.59-120.64 | NEAR=BEAR 120.59-120.64 || 3M_FVG | BEAR=120.36-120.42 | NEAR=BEAR 120.36-120.42",
       "event_id": "KXSOL15M-26OCT061315-15:SOL:NO:ASK_RANGE:1791306297125:1"
+    },
+    {
+      "ts": "2026-10-06T17:10:45.818+00:00",
+      "epoch": 1791306645.818053,
+      "asset": "DOGE",
+      "ticker": "KXDOGE15M-26OCT061315-15",
+      "side": "NO",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.8400 allowed=0.05-0.50",
+      "ask": 0.5,
+      "underlying": 0.09498,
+      "target": 0.09514,
+      "distance_bps": -16.817321841497513,
+      "left_s": 254.1818027496338,
+      "prob": 0.9369181761344855,
+      "settlement_score": 5,
+      "opposite_score": 0,
+      "projected_bps": -36.57338352719451,
+      "risk_bps": 12.011015951973782,
+      "entry_required_prob": 0.54,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 0/3 NO 3/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 2,
+      "video_no": 5,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 3/3 | O=0.09503 | H=0.09511 | L=0.09497 | C=0.0951 | DEMAND=0.09492-0.09507 | SUPPLY=0.09524-0.09541 || 3M_REACTION | 3M=NO 3/3 | O=0.09507 | H=0.09511 | L=0.095 | C=0.095 | SUPPLY=0.09528-0.09541 || NEAREST_ZONE=DEMAND_5M 0.09492-0.09507 || FVG_CONTEXT=15M_FVG | BEAR=0.09565-0.0958 | NEAR=BEAR 0.09565-0.0958 || 5M_FVG | BEAR=0.09514-0.0952 | NEAR=BEAR 0.09514-0.0952 || 3M_FVG | BEAR=0.09514-0.09524 | NEAR=BEAR 0.09514-0.09524",
+      "event_id": "KXDOGE15M-26OCT061315-15:DOGE:NO:ASK_RANGE:1791306645818:1"
+    },
+    {
+      "ts": "2026-10-06T17:11:09.212+00:00",
+      "epoch": 1791306669.212906,
+      "asset": "XRP",
+      "ticker": "KXXRP15M-26OCT061315-15",
+      "side": "NO",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.6100 allowed=0.05-0.50",
+      "ask": 0.43,
+      "underlying": 1.5015,
+      "target": 1.5023,
+      "distance_bps": -5.3251680756168005,
+      "left_s": 230.78698205947876,
+      "prob": 0.8162760348036916,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": -26.98458566901342,
+      "risk_bps": 8.557903881610827,
+      "entry_required_prob": 0.5,
+      "entry_window_edge": null,
+      "market_quality": "CHOP",
+      "flow_gate": "YES 1/3 NO 1/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 2,
+      "video_no": 4,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 3/3 | O=1.5014 | H=1.5036 | L=1.5014 | C=1.5035 | DEMAND=1.5004-1.5018 || 3M_REACTION | 3M=NO 3/3 | O=1.5023 | H=1.5035 | L=1.5017 | C=1.5017 || NEAREST_ZONE=DEMAND_5M 1.5004-1.5018 || FVG_CONTEXT=15M_FVG | BEAR=1.506-1.513 | NEAR=BEAR 1.506-1.513 || 5M_FVG | BULL=1.4994-1.5011 | BEAR=1.5062-1.5089 | NEAR=BULL 1.4994-1.5011 || 3M_FVG | BULL=1.4999-1.5011 | BEAR=1.5048-1.5065 | NEAR=BULL 1.4999-1.5011",
+      "event_id": "KXXRP15M-26OCT061315-15:XRP:NO:ASK_RANGE:1791306669212:2"
     }
   ],
-  "updated_at": "2026-10-06T17:06:30+00:00"
+  "updated_at": "2026-10-06T17:11:56+00:00"
 }
