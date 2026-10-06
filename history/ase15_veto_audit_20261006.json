@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112H_EARLY_EDGE_FORMATION_2USD_CAP50_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112I_PARTIAL_DEPTH_CAP50_2USD_LIVE",
   "date_utc": "20261006",
   "events": [
     {
@@ -10721,7 +10721,34 @@
       "video_no": 1,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 3/3 | O=5.0509 | H=5.0686 | L=5.0405 | C=5.0575 | DEMAND=5.0348-5.0509 | SUPPLY=5.1007-5.1095 || 3M_REACTION | 3M=YES 3/3 | O=5.0471 | H=5.0686 | L=5.0439 | C=5.0575 | DEMAND=5.0405-5.0509 | SUPPLY=5.0428-5.0569 || NEAREST_ZONE=SUPPLY_3M 5.0428-5.0569 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | NONE || 3M_FVG | BEAR=5.0908-5.092 | NEAR=BEAR 5.0908-5.092",
       "event_id": "KXNEAR15M-26OCT061445-45:NEAR:YES:ASK_RANGE:1791311705706:6"
+    },
+    {
+      "ts": "2026-10-06T18:38:57.994+00:00",
+      "epoch": 1791311937.9948165,
+      "asset": "ZEC",
+      "ticker": "KXZEC15M-26OCT061445-45",
+      "side": "YES",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.5100 allowed=0.05-0.50",
+      "ask": 0.49,
+      "underlying": 1360.08,
+      "target": 1359.7719,
+      "distance_bps": 2.2658212013350743,
+      "left_s": 362.00502252578735,
+      "prob": 0.7739136779085292,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": 14.833427496442438,
+      "risk_bps": 15.741649514195096,
+      "entry_required_prob": 0.53,
+      "entry_window_edge": null,
+      "market_quality": "CHOP",
+      "flow_gate": "YES 2/3 NO 0/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 1,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=1359.44 | H=1359.71 | L=1357.51 | C=1357.63 | DEMAND=1343.63-1346.74 || 3M_REACTION | 3M=YES 3/3 | O=1358.62 | H=1359.66 | L=1356.83 | C=1359.26 | DEMAND=1343.63-1346.74 | SUPPLY=1369.86-1373.66 || NEAREST_ZONE=SUPPLY_3M 1369.86-1373.66 || FVG_CONTEXT=15M_FVG | BULL=1354.11-1362.85 | NEAR=BULL 1354.11-1362.85 || 5M_FVG | BULL=1353.45-1363.04 | BEAR=1360.29-1366.02 | NEAR=BULL 1353.45-1363.04 || 3M_FVG | BULL=1353.45-1357.03 | BEAR=1360.22-1362.41 | NEAR=BEAR 1360.22-1362.41",
+      "event_id": "KXZEC15M-26OCT061445-45:ZEC:YES:ASK_RANGE:1791311937994:1"
     }
   ],
-  "updated_at": "2026-10-06T18:35:26+00:00"
+  "updated_at": "2026-10-06T18:40:02+00:00"
 }
