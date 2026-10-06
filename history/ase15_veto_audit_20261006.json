@@ -11423,7 +11423,34 @@
       "video_no": 1,
       "mtf_context": "15M_MAP | DEMAND=91.58-91.71 | SUPPLY=91.76-92 || 5M_DEVELOPMENT | 5M=YES 2/3 | O=92.09 | H=92.39 | L=92.09 | C=92.34 | DEMAND=92.1-92.28 | SUPPLY=92.23-92.29 || 3M_REACTION | 3M=YES 3/3 | O=92.27 | H=92.4 | L=92.27 | C=92.4 | DEMAND=92.09-92.2 | SUPPLY=92.23-92.25 || NEAREST_ZONE=SUPPLY_5M 92.23-92.29 || FVG_CONTEXT=15M_FVG | BULL=92.08-92.11 | NEAR=BULL 92.08-92.11 || 5M_FVG | BULL=92.08-92.1 | NEAR=BULL 92.08-92.1 || 3M_FVG | BULL=92.23-92.27 | NEAR=BULL 92.23-92.27",
       "event_id": "KXHYPE15M-26OCT061700-00:HYPE:YES:FULL_2USD_DEPTH:1791320318956:4"
+    },
+    {
+      "ts": "2026-10-06T21:01:56.965+00:00",
+      "epoch": 1791320516.9655504,
+      "asset": "NEAR",
+      "ticker": "KXNEAR15M-26OCT061715-15",
+      "side": "NO",
+      "stage": "FULL_2USD_DEPTH",
+      "reason": "availableSpend=$1.3000 required=$1.98 cap=0.65",
+      "ask": 0.63,
+      "underlying": 5.1733,
+      "target": 5.1826,
+      "distance_bps": -17.94466098097411,
+      "left_s": 783.0343191623688,
+      "prob": 0.8187274273449894,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": -22.62250650486472,
+      "risk_bps": 27.88934034985912,
+      "entry_required_prob": 0.6900000000000001,
+      "entry_window_edge": null,
+      "market_quality": "TREND",
+      "flow_gate": "YES 0/3 NO 1/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 2,
+      "video_no": 2,
+      "mtf_context": "15M_MAP | DEMAND=5.0512-5.0703 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=5.1809 | H=5.1822 | L=5.1655 | C=5.1795 | DEMAND=5.0512-5.0569 || 3M_REACTION | 3M=YES 2/3 | O=5.1755 | H=5.1795 | L=5.1655 | C=5.1795 | DEMAND=5.1576-5.1739 || NEAREST_ZONE=DEMAND_3M 5.1576-5.1739 || FVG_CONTEXT=15M_FVG | BULL=5.1359-5.1576 | NEAR=BULL 5.1359-5.1576 || 5M_FVG | BULL=5.1431-5.1563 | NEAR=BULL 5.1431-5.1563 || 3M_FVG | BULL=5.1535-5.1601 | NEAR=BULL 5.1535-5.1601",
+      "event_id": "KXNEAR15M-26OCT061715-15:NEAR:NO:FULL_2USD_DEPTH:1791320516965:5"
     }
   ],
-  "updated_at": "2026-10-06T20:59:55+00:00"
+  "updated_at": "2026-10-06T21:02:33+00:00"
 }
