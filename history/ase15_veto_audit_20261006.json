@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112Q_STRUCTURAL_COUNTERSIDE_REEVAL_CAP65_2USD_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112V_FIX2_BALANCE_FALLBACK_CAP65_2USD_LIVE",
   "date_utc": "20261006",
   "events": [
     {
@@ -11666,7 +11666,34 @@
       "video_no": 5,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=779.57 | H=779.57 | L=779.13 | C=779.27 | DEMAND=779.14-779.54 | SUPPLY=779.44-779.63 || 3M_REACTION | 3M=YES 2/3 | O=779.13 | H=779.35 | L=779.13 | C=779.27 | DEMAND=779.35-779.53 | SUPPLY=779.65-780.07 || NEAREST_ZONE=DEMAND_5M 779.14-779.54 || FVG_CONTEXT=15M_FVG | BEAR=779.78-780.65 | NEAR=BEAR 779.78-780.65 || 5M_FVG | BEAR=779.78-780.4 | NEAR=BEAR 779.78-780.4 || 3M_FVG | BULL=778.83-779.11 | BEAR=779.35-779.65 | NEAR=BEAR 779.35-779.65",
       "event_id": "KXBNB15M-26OCT061800-00:BNB:NO:FULL_2USD_DEPTH:1791323258877:3"
+    },
+    {
+      "ts": "2026-10-06T23:13:50.570+00:00",
+      "epoch": 1791328430.5703423,
+      "asset": "XRP",
+      "ticker": "KXXRP15M-26OCT061915-15",
+      "side": "NO",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.0470 allowed=0.05-0.65",
+      "ask": 0.055,
+      "underlying": 1.4984,
+      "target": 1.4986,
+      "distance_bps": -1.3345789403441743,
+      "left_s": 69.42954778671265,
+      "prob": 0.7675751885972617,
+      "settlement_score": 2,
+      "opposite_score": 1,
+      "projected_bps": -0.2784157591374621,
+      "risk_bps": 1.5526734225406047,
+      "entry_required_prob": 0.25,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 0/3 NO 2/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 3,
+      "video_no": 3,
+      "mtf_context": "15M_MAP | DEMAND=1.5011-1.5027 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=1.4982 | H=1.4984 | L=1.4976 | C=1.4978 | DEMAND=1.4996-1.5014 | SUPPLY=1.4999-1.5003 || 3M_REACTION | 3M=NO 3/3 | O=1.498 | H=1.498 | L=1.4976 | C=1.4978 | DEMAND=1.4986-1.4995 | SUPPLY=1.4995-1.4997 || NEAREST_ZONE=DEMAND_3M 1.4986-1.4995 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | BEAR=1.5004-1.5011 | NEAR=BEAR 1.5004-1.5011 || 3M_FVG | BEAR=1.4989-1.4991 | NEAR=BEAR 1.4989-1.4991",
+      "event_id": "KXXRP15M-26OCT061915-15:XRP:NO:ASK_RANGE:1791328430570:1"
     }
   ],
-  "updated_at": "2026-10-06T21:48:45+00:00"
+  "updated_at": "2026-10-06T23:14:59+00:00"
 }
