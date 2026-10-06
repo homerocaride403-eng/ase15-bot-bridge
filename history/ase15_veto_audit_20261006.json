@@ -10748,7 +10748,34 @@
       "video_no": 1,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=1359.44 | H=1359.71 | L=1357.51 | C=1357.63 | DEMAND=1343.63-1346.74 || 3M_REACTION | 3M=YES 3/3 | O=1358.62 | H=1359.66 | L=1356.83 | C=1359.26 | DEMAND=1343.63-1346.74 | SUPPLY=1369.86-1373.66 || NEAREST_ZONE=SUPPLY_3M 1369.86-1373.66 || FVG_CONTEXT=15M_FVG | BULL=1354.11-1362.85 | NEAR=BULL 1354.11-1362.85 || 5M_FVG | BULL=1353.45-1363.04 | BEAR=1360.29-1366.02 | NEAR=BULL 1353.45-1363.04 || 3M_FVG | BULL=1353.45-1357.03 | BEAR=1360.22-1362.41 | NEAR=BEAR 1360.22-1362.41",
       "event_id": "KXZEC15M-26OCT061445-45:ZEC:YES:ASK_RANGE:1791311937994:1"
+    },
+    {
+      "ts": "2026-10-06T18:41:31.689+00:00",
+      "epoch": 1791312091.6898537,
+      "asset": "ZEC",
+      "ticker": "KXZEC15M-26OCT061445-45",
+      "side": "YES",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.5400 allowed=0.05-0.50",
+      "ask": 0.4,
+      "underlying": 1360.41,
+      "target": 1359.7719,
+      "distance_bps": 4.692698826914443,
+      "left_s": 208.3099594116211,
+      "prob": 0.5901678542448985,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": 9.491010766187337,
+      "risk_bps": 9.734868027983998,
+      "entry_required_prob": 0.5,
+      "entry_window_edge": null,
+      "market_quality": "TREND",
+      "flow_gate": "YES 1/3 NO 0/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 2,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 2/3 | O=1357.73 | H=1360.59 | L=1356.74 | C=1359.75 | DEMAND=1343.63-1346.74 || 3M_REACTION | 3M=NO 2/3 | O=1360.21 | H=1360.59 | L=1359.32 | C=1359.76 | DEMAND=1343.63-1346.74 | SUPPLY=1369.86-1373.66 || NEAREST_ZONE=SUPPLY_3M 1369.86-1373.66 || FVG_CONTEXT=15M_FVG | BULL=1354.11-1362.85 | NEAR=BULL 1354.11-1362.85 || 5M_FVG | BULL=1353.45-1363.04 | BEAR=1360.29-1366.02 | NEAR=BULL 1353.45-1363.04 || 3M_FVG | BULL=1353.45-1357.03 | BEAR=1360.22-1362.41 | NEAR=BEAR 1360.22-1362.41",
+      "event_id": "KXZEC15M-26OCT061445-45:ZEC:YES:ASK_RANGE:1791312091689:2"
     }
   ],
-  "updated_at": "2026-10-06T18:40:02+00:00"
+  "updated_at": "2026-10-06T18:42:53+00:00"
 }
