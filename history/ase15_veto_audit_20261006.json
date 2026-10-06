@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112F_FRESH_BOOK_EV_REVALIDATE_2USD_CAP50_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112H_EARLY_EDGE_FORMATION_2USD_CAP50_LIVE",
   "date_utc": "20261006",
   "events": [
     {
@@ -10559,7 +10559,34 @@
       "video_no": 2,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=120.46 | H=120.49 | L=120.38 | C=120.44 | DEMAND=120.48-120.75 | SUPPLY=120.3-120.55 || 3M_REACTION | 3M=YES 3/3 | O=120.4 | H=120.45 | L=120.38 | C=120.44 | DEMAND=120.29-120.38 | SUPPLY=120.44-120.55 || NEAREST_ZONE=SUPPLY_3M 120.44-120.55 || FVG_CONTEXT=15M_FVG | BEAR=120.59-120.64 | NEAR=BEAR 120.59-120.64 || 5M_FVG | BEAR=120.59-120.64 | NEAR=BEAR 120.59-120.64 || 3M_FVG | BEAR=120.53-120.64 | NEAR=BEAR 120.53-120.64",
       "event_id": "KXSOL15M-26OCT061400-00:SOL:YES:ASK_RANGE:1791309025935:10"
+    },
+    {
+      "ts": "2026-10-06T18:20:08.167+00:00",
+      "epoch": 1791310808.1677363,
+      "asset": "HYPE",
+      "ticker": "KXHYPE15M-26OCT061430-30",
+      "side": "YES",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.5100 allowed=0.05-0.50",
+      "ask": 0.46,
+      "underlying": 91.98,
+      "target": 91.9556,
+      "distance_bps": 2.6534544932554383,
+      "left_s": 591.8320450782776,
+      "prob": 0.8376827264918647,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": 13.21165926124354,
+      "risk_bps": 8.031400925434848,
+      "entry_required_prob": 0.5,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 2/3 NO 0/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 1,
+      "mtf_context": "15M_MAP | DEMAND=91.44-91.55 || 5M_DEVELOPMENT | 5M=UNCERTAIN 2/3 | O=91.95 | H=91.99 | L=91.91 | C=91.96 | DEMAND=91.6-91.83 | SUPPLY=91.8-91.89 || 3M_REACTION | 3M=YES 2/3 | O=91.94 | H=91.99 | L=91.91 | C=91.96 | DEMAND=91.68-91.69 | SUPPLY=91.9-91.98 || NEAREST_ZONE=SUPPLY_3M 91.9-91.98 || FVG_CONTEXT=15M_FVG | BULL=91.7-91.81 | BEAR=91.98-92.07 | NEAR=BEAR 91.98-92.07 || 5M_FVG | BULL=91.59-91.71 | BEAR=91.85-92.08 | NEAR=BEAR 91.85-92.08 || 3M_FVG | BULL=91.53-91.68 | BEAR=92-92.08 | NEAR=BEAR 92-92.08",
+      "event_id": "KXHYPE15M-26OCT061430-30:HYPE:YES:ASK_RANGE:1791310808167:1"
     }
   ],
-  "updated_at": "2026-10-06T17:53:30+00:00"
+  "updated_at": "2026-10-06T18:20:29+00:00"
 }
