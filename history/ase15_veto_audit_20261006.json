@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_V4_2_0_PROFESSIONAL_CHART_READER_SETTLEMENT_ONLY_LIVE_1USD",
+  "bot": "ASE15_V4_2_7_PROFESSIONAL_DURABLE_FILL_AUDIT_CAP65_LIVE_1USD",
   "date_utc": "20261006",
   "events": [
     {
@@ -2216,7 +2216,34 @@
       "video_no": 0,
       "mtf_context": "15M_MAP | DEMAND=5.2279-5.2692 || 5M_DEVELOPMENT | 5M=YES 3/3 | O=5.2854 | H=5.3005 | L=5.2835 | C=5.2952 | DEMAND=5.2393-5.2604 | SUPPLY=5.3207-5.3377 || 3M_REACTION | 3M=YES 3/3 | O=5.2968 | H=5.306 | L=5.2934 | C=5.306 | DEMAND=5.2928-5.3017 || NEAREST_ZONE=DEMAND_3M 5.2928-5.3017 || FVG_CONTEXT=15M_FVG | BULL=5.281-5.2958 | NEAR=BULL 5.281-5.2958 || 5M_FVG | BULL=5.2612-5.276 | BEAR=5.3193-5.3207 | NEAR=BEAR 5.3193-5.3207 || 3M_FVG | BULL=5.2823-5.2924 | BEAR=5.3249-5.325 | NEAR=BULL 5.2823-5.2924",
       "event_id": "KXNEAR15M-26OCT052245-45:NEAR:YES:ASK_RANGE:1791254464624:5"
+    },
+    {
+      "ts": "2026-10-06T03:01:28.788+00:00",
+      "epoch": 1791255688.788032,
+      "asset": "BNB",
+      "ticker": "KXBNB15M-26OCT052315-15",
+      "side": "NO",
+      "stage": "FRESH_BOOK_REPRICE_RESET",
+      "reason": "decisionAsk=0.3700 liveAsk=0.4300 jump=+0.0600 limit=0.0555",
+      "ask": 0.37,
+      "underlying": 780.97,
+      "target": 781.05,
+      "distance_bps": -1.0242622111251167,
+      "left_s": 811.2118563652039,
+      "prob": 0.8762917924356624,
+      "settlement_score": null,
+      "opposite_score": null,
+      "projected_bps": -16.079833385312135,
+      "risk_bps": 7.298332841773868,
+      "entry_required_prob": 0.74,
+      "entry_window_edge": null,
+      "market_quality": "WARMUP",
+      "flow_gate": "WAIT",
+      "video_yes": 0,
+      "video_no": 0,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 2/3 | O=781.05 | H=781.39 | L=780.64 | C=781.24 | SUPPLY=782.3-783.48 || 3M_REACTION | 3M=YES 2/3 | O=781.17 | H=781.39 | L=780.64 | C=781.24 | DEMAND=782-783.2 | SUPPLY=782.43-783.1 || NEAREST_ZONE=DEMAND_3M 782-783.2 || FVG_CONTEXT=15M_FVG | BEAR=783.2-783.25 | NEAR=BEAR 783.2-783.25 || 5M_FVG | BEAR=781.76-781.77 | NEAR=BEAR 781.76-781.77 || 3M_FVG | BEAR=781.76-782.15 | NEAR=BEAR 781.76-782.15",
+      "event_id": "KXBNB15M-26OCT052315-15:BNB:NO:FRESH_BOOK_REPRICE_RESET:1791255688788:1"
     }
   ],
-  "updated_at": "2026-10-06T02:42:02+00:00"
+  "updated_at": "2026-10-06T03:04:23+00:00"
 }
