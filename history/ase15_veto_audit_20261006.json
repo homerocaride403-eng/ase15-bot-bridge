@@ -11558,7 +11558,34 @@
       "video_no": 3,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 2/3 | O=779.24 | H=779.75 | L=779.14 | C=779.75 | DEMAND=779.25-779.54 | SUPPLY=779.44-779.63 || 3M_REACTION | 3M=YES 3/3 | O=779.53 | H=779.82 | L=779.53 | C=779.55 | DEMAND=779.35-779.53 | SUPPLY=779.47-779.77 || NEAREST_ZONE=DEMAND_5M 779.25-779.54 || FVG_CONTEXT=15M_FVG | BEAR=779.78-780.65 | NEAR=BEAR 779.78-780.65 || 5M_FVG | BEAR=779.78-780.4 | NEAR=BEAR 779.78-780.4 || 3M_FVG | BULL=779.36-779.53 | BEAR=780.01-780.4 | NEAR=BULL 779.36-779.53",
       "event_id": "KXBNB15M-26OCT061730-30:BNB:NO:FULL_2USD_DEPTH:1791322049010:2"
+    },
+    {
+      "ts": "2026-10-06T21:29:27.890+00:00",
+      "epoch": 1791322167.890894,
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT061730-30",
+      "side": "YES",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.6900 allowed=0.05-0.65",
+      "ask": 0.22,
+      "underlying": 120.9,
+      "target": 120.8923,
+      "distance_bps": 0.636930557198417,
+      "left_s": 32.10886526107788,
+      "prob": 0.7126319741121798,
+      "settlement_score": 2,
+      "opposite_score": 0,
+      "projected_bps": 0.31575216473024276,
+      "risk_bps": 1.890429749896289,
+      "entry_required_prob": 0.6900000000000001,
+      "entry_window_edge": null,
+      "market_quality": "TREND",
+      "flow_gate": "YES 1/3 NO 2/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 1,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=YES 3/3 | O=120.86 | H=120.89 | L=120.81 | C=120.88 || 3M_REACTION | 3M=YES 3/3 | O=120.84 | H=120.89 | L=120.83 | C=120.88 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | NONE || 3M_FVG | BULL=120.78-120.83 | BEAR=120.88-120.91 | NEAR=BEAR 120.88-120.91",
+      "event_id": "KXSOL15M-26OCT061730-30:SOL:YES:ASK_RANGE:1791322167890:3"
     }
   ],
-  "updated_at": "2026-10-06T21:28:50+00:00"
+  "updated_at": "2026-10-06T21:30:19+00:00"
 }
