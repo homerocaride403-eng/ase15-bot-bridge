@@ -1946,7 +1946,34 @@
       "video_no": 0,
       "mtf_context": "15M_MAP | DEMAND=5.2279-5.2692 || 5M_DEVELOPMENT | 5M=YES 2/3 | O=5.2954 | H=5.3118 | L=5.2943 | C=5.3 | DEMAND=5.2393-5.2604 | SUPPLY=5.3207-5.3377 || 3M_REACTION | 3M=NO 3/3 | O=5.3017 | H=5.3017 | L=5.2958 | C=5.3 | DEMAND=5.2669-5.2825 || NEAREST_ZONE=DEMAND_3M 5.2669-5.2825 || FVG_CONTEXT=15M_FVG | BULL=5.281-5.2958 | NEAR=BULL 5.281-5.2958 || 5M_FVG | BULL=5.2612-5.276 | BEAR=5.3193-5.3207 | NEAR=BULL 5.2612-5.276 || 3M_FVG | BULL=5.2823-5.2924 | BEAR=5.3249-5.325 | NEAR=BULL 5.2823-5.2924",
       "event_id": "KXNEAR15M-26OCT052230-30:NEAR:NO:FRESH_BOOK_REPRICE_RESET:1791253257976:1"
+    },
+    {
+      "ts": "2026-10-06T02:21:05.743+00:00",
+      "epoch": 1791253265.7433958,
+      "asset": "NEAR",
+      "ticker": "KXNEAR15M-26OCT052230-30",
+      "side": "NO",
+      "stage": "FRESH_BOOK_REPRICE_RESET",
+      "reason": "decisionAsk=0.5200 liveAsk=0.6500 jump=+0.1300 limit=0.0780",
+      "ask": 0.52,
+      "underlying": 5.2929,
+      "target": 5.3036,
+      "distance_bps": -20.174975488347407,
+      "left_s": 534.2564585208893,
+      "prob": null,
+      "settlement_score": null,
+      "opposite_score": null,
+      "projected_bps": -30.7784383235335,
+      "risk_bps": 20.529075061687195,
+      "entry_required_prob": 0.74,
+      "entry_window_edge": null,
+      "market_quality": "WARMUP",
+      "flow_gate": "WAIT",
+      "video_yes": 0,
+      "video_no": 0,
+      "mtf_context": "15M_MAP | DEMAND=5.2279-5.2692 || 5M_DEVELOPMENT | 5M=YES 2/3 | O=5.2954 | H=5.3118 | L=5.2943 | C=5.3 | DEMAND=5.2393-5.2604 | SUPPLY=5.3207-5.3377 || 3M_REACTION | 3M=NO 3/3 | O=5.3017 | H=5.3017 | L=5.2928 | C=5.2929 | DEMAND=5.2669-5.2825 || NEAREST_ZONE=DEMAND_3M 5.2669-5.2825 || FVG_CONTEXT=15M_FVG | BULL=5.281-5.2958 | NEAR=BULL 5.281-5.2958 || 5M_FVG | BULL=5.2612-5.276 | BEAR=5.3193-5.3207 | NEAR=BULL 5.2612-5.276 || 3M_FVG | BULL=5.2823-5.2924 | BEAR=5.3249-5.325 | NEAR=BULL 5.2823-5.2924",
+      "event_id": "KXNEAR15M-26OCT052230-30:NEAR:NO:FRESH_BOOK_REPRICE_RESET:1791253265743:2"
     }
   ],
-  "updated_at": "2026-10-06T02:21:28+00:00"
+  "updated_at": "2026-10-06T02:23:36+00:00"
 }
