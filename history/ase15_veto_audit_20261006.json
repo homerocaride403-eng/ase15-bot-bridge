@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_111_PROFESSIONAL_AUTHORITY_EV_25C_CAP50_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112BA_SINGLE_ENTRY_AUTHORITY_AUDITED_25C_CAP50_LIVE",
   "date_utc": "20261006",
   "events": [
     {
@@ -9749,7 +9749,34 @@
       "video_no": 3,
       "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 3/3 | O=5.1084 | H=5.1111 | L=5.0929 | C=5.1023 | DEMAND=5.1245-5.1273 | SUPPLY=5.1337-5.145 || 3M_REACTION | 3M=YES 3/3 | O=5.0952 | H=5.1076 | L=5.0929 | C=5.1023 | DEMAND=5.1012-5.1059 || NEAREST_ZONE=DEMAND_3M 5.1012-5.1059 || FVG_CONTEXT=15M_FVG | BEAR=5.1264-5.1326 | NEAR=BEAR 5.1264-5.1326 || 5M_FVG | NONE || 3M_FVG | BEAR=5.1267-5.1325 | NEAR=BEAR 5.1267-5.1325",
       "event_id": "KXNEAR15M-26OCT061245-45:NEAR:YES:FRESH_BOOK_REPRICE_RESET:1791304754938:1"
+    },
+    {
+      "ts": "2026-10-06T16:51:10.609+00:00",
+      "epoch": 1791305470.609585,
+      "asset": "SOL",
+      "ticker": "KXSOL15M-26OCT061300-00",
+      "side": "NO",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.5100 allowed=0.05-0.50",
+      "ask": 0.47,
+      "underlying": 120.43,
+      "target": 120.4945,
+      "distance_bps": -5.352941420562377,
+      "left_s": 529.3902955055237,
+      "prob": 0.6968823996600252,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": -10.02121819647186,
+      "risk_bps": 13.464826359323531,
+      "entry_required_prob": 0.51,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 0/3 NO 1/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 2,
+      "video_no": 3,
+      "mtf_context": "15M_MAP || 5M_DEVELOPMENT | 5M=NO 2/3 | O=120.5 | H=120.59 | L=120.36 | C=120.38 | DEMAND=120.48-120.75 | SUPPLY=121.02-121.17 || 3M_REACTION | 3M=NO 3/3 | O=120.48 | H=120.48 | L=120.36 | C=120.44 | DEMAND=120.29-120.38 | SUPPLY=120.77-120.9 || NEAREST_ZONE=DEMAND_3M 120.29-120.38 || FVG_CONTEXT=15M_FVG | BEAR=121.1-121.35 | NEAR=BEAR 121.1-121.35 || 5M_FVG | BEAR=120.59-120.64 | NEAR=BEAR 120.59-120.64 || 3M_FVG | BEAR=120.53-120.64 | NEAR=BEAR 120.53-120.64",
+      "event_id": "KXSOL15M-26OCT061300-00:SOL:NO:ASK_RANGE:1791305470609:1"
     }
   ],
-  "updated_at": "2026-10-06T16:40:56+00:00"
+  "updated_at": "2026-10-06T16:53:01+00:00"
 }
