@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112W_EARLY_RESOLUTION_CAP65_2USD_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112Y_BREAK_REACTION_CONTROL_CAP65_2USD_LIVE",
   "date_utc": "20261007",
   "events": [
     {
@@ -56,7 +56,34 @@
       "video_no": 3,
       "mtf_context": "15M_MAP | DEMAND=91.58-91.71 | SUPPLY=91.96-92.06 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=91.97 | H=91.97 | L=91.92 | C=91.93 | SUPPLY=91.83-91.92 || 3M_REACTION | 3M=NO 3/3 | O=91.94 | H=91.95 | L=91.89 | C=91.89 | DEMAND=91.79-91.88 | SUPPLY=91.95-91.96 || NEAREST_ZONE=SUPPLY_15M 91.96-92.06 || FVG_CONTEXT=15M_FVG | BULL=91.7-91.71 | NEAR=BULL 91.7-91.71 || 5M_FVG | BULL=91.85-91.96 | BEAR=92.05-92.2 | NEAR=BULL 91.85-91.96 || 3M_FVG | BULL=91.88-91.96 | BEAR=91.97-92.03 | NEAR=BEAR 91.97-92.03",
       "event_id": "KXHYPE15M-26OCT062015-15:HYPE:NO:FRESH_BOOK_EDGE_LOST:1791331916652:2"
+    },
+    {
+      "ts": "2026-10-07T00:50:09.819+00:00",
+      "epoch": 1791334209.8193367,
+      "asset": "ZEC",
+      "ticker": "KXZEC15M-26OCT062100-00",
+      "side": "YES",
+      "stage": "FRESH_BOOK_EDGE_LOST",
+      "reason": "P=0.423 reqFresh=0.630 edge=-0.207",
+      "ask": 0.63,
+      "underlying": 1367.14,
+      "target": 1366.5243,
+      "distance_bps": 4.505591301962657,
+      "left_s": 590.1804776191711,
+      "prob": 0.4234158617380104,
+      "settlement_score": 0,
+      "opposite_score": 1,
+      "projected_bps": -1.4017657040063707,
+      "risk_bps": 20.6736203359634,
+      "entry_required_prob": 0.6300000000000001,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 1/3 NO 1/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 3,
+      "video_no": 3,
+      "mtf_context": "15M_MAP | DEMAND=1344.11-1349.15 || 5M_DEVELOPMENT | 5M=YES 3/3 | O=1366.79 | H=1368.5 | L=1365.49 | C=1368.09 | DEMAND=1344.11-1344.75 | SUPPLY=1365.17-1368.21 || 3M_REACTION | 3M=YES 2/3 | O=1366.13 | H=1368.5 | L=1365.49 | C=1368.09 | DEMAND=1359.89-1360.82 | SUPPLY=1364.81-1366.7 || NEAREST_ZONE=SUPPLY_5M 1365.17-1368.21 || FVG_CONTEXT=15M_FVG | BULL=1349.32-1358.87 | NEAR=BULL 1349.32-1358.87 || 5M_FVG | BULL=1353.49-1358.87 | NEAR=BULL 1353.49-1358.87 || 3M_FVG | BULL=1363.6-1364.22 | NEAR=BULL 1363.6-1364.22",
+      "event_id": "KXZEC15M-26OCT062100-00:ZEC:YES:FRESH_BOOK_EDGE_LOST:1791334209819:1"
     }
   ],
-  "updated_at": "2026-10-07T00:13:01+00:00"
+  "updated_at": "2026-10-07T00:54:14+00:00"
 }
