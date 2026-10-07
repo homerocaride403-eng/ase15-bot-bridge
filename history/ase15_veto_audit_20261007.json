@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112AR_STRONG_SETTLEMENT_DIRECT_AUTHORITY_NO_DOUBLE_VETO_CAP65_2USD_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112BA_CLEAN_SINGLE_AUTHORITY_CALIBRATION_CAP65_2USD_LIVE",
   "date_utc": "20261007",
   "events": [
     {
@@ -650,7 +650,34 @@
       "video_no": 0,
       "mtf_context": "15M_MAP | DEMAND=115.67-115.9 | SUPPLY=116.19-116.35 || 5M_DEVELOPMENT | 5M=YES 3/3 | O=115.88 | H=115.93 | L=115.83 | C=115.89 | DEMAND=115.93-116 | SUPPLY=116.19-116.32 || 3M_REACTION | 3M=YES 3/3 | O=115.88 | H=115.97 | L=115.87 | C=115.97 | SUPPLY=116-116.06 || NEAREST_ZONE=DEMAND_5M 115.93-116 || FVG_CONTEXT=15M_FVG | BEAR=115.88-115.97 | NEAR=BEAR 115.88-115.97 || 5M_FVG | BULL=115.81-115.83 | BEAR=115.88-115.98 | NEAR=BEAR 115.88-115.98 || 3M_FVG | BULL=115.78-115.83 | BEAR=115.9-116 | NEAR=BEAR 115.9-116",
       "event_id": "KXSOL15M-26OCT071845-45:SOL:YES:ASK_RANGE:1791412322911:1"
+    },
+    {
+      "ts": "2026-10-07T23:48:37.978+00:00",
+      "epoch": 1791416917.9781168,
+      "asset": "BNB",
+      "ticker": "KXBNB15M-26OCT072000-00",
+      "side": "YES",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.6600 allowed=0.05-0.65",
+      "ask": 0.69,
+      "underlying": 773.4,
+      "target": 773.06,
+      "distance_bps": 4.3981062272014055,
+      "left_s": 682.021735906601,
+      "prob": 0.7464759772969455,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": 8.201912621218892,
+      "risk_bps": 10.0506328675466,
+      "entry_required_prob": 0.6900000000000001,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 1/3 NO 0/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 4,
+      "video_no": 2,
+      "mtf_context": "15M_MAP | DEMAND=770.04-770.8 | SUPPLY=771.05-771.59 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=773.25 | H=773.25 | L=772.91 | C=772.91 | DEMAND=769.67-770.18 | SUPPLY=768.87-769.19 || 3M_REACTION | 3M=YES 3/3 | O=773.03 | H=773.4 | L=772.91 | C=773.4 | DEMAND=772.91-773.04 | SUPPLY=773.47-773.57 || NEAREST_ZONE=SUPPLY_3M 773.47-773.57 || FVG_CONTEXT=15M_FVG | BEAR=770.79-771.16 | NEAR=BEAR 770.79-771.16 || 5M_FVG | BULL=772.45-773.31 | NEAR=BULL 772.45-773.31 || 3M_FVG | BULL=772.74-773.19 | NEAR=BULL 772.74-773.19",
+      "event_id": "KXBNB15M-26OCT072000-00:BNB:YES:ASK_RANGE:1791416917978:1"
     }
   ],
-  "updated_at": "2026-10-07T22:32:57+00:00"
+  "updated_at": "2026-10-07T23:51:38+00:00"
 }
