@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112AL_PRETARGET_ANTICIPATION_CAP65_2USD_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112AM_ROUND15_PRIMARY_6H_CONTEXT_CAP65_2USD_LIVE",
   "date_utc": "20261007",
   "events": [
     {
@@ -596,7 +596,34 @@
       "video_no": 2,
       "mtf_context": "15M_MAP | DEMAND=765.21-765.67 | SUPPLY=773.35-775.43 || 5M_DEVELOPMENT | 5M=YES 3/3 | O=767.44 | H=767.76 | L=767.05 | C=767.65 | SUPPLY=770.69-770.86 || 3M_REACTION | 3M=YES 3/3 | O=767.47 | H=767.72 | L=767.33 | C=767.71 | DEMAND=766.99-767.38 | SUPPLY=767.62-768.25 || NEAREST_ZONE=SUPPLY_3M 767.62-768.25 || FVG_CONTEXT=15M_FVG | BEAR=767.67-768.3 | NEAR=BEAR 767.67-768.3 || 5M_FVG | BULL=765.96-767.05 | BEAR=767.42-768.53 | NEAR=BEAR 767.42-768.53 || 3M_FVG | BULL=766.3-766.81 | BEAR=767.48-768.53 | NEAR=BEAR 767.48-768.53",
       "event_id": "KXBNB15M-26OCT070815-15:BNB:YES:FRESH_BOOK_EDGE_LOST:1791374761160:7"
+    },
+    {
+      "ts": "2026-10-07T17:41:45.715+00:00",
+      "epoch": 1791394905.715321,
+      "asset": "HYPE",
+      "ticker": "KXHYPE15M-26OCT071345-45",
+      "side": "NO",
+      "stage": "ASK_RANGE",
+      "reason": "best_ask=0.6600 allowed=0.05-0.65",
+      "ask": 0.56,
+      "underlying": 87.69,
+      "target": 87.7228,
+      "distance_bps": -3.739050737095581,
+      "left_s": 194.28447937965393,
+      "prob": 0.8196142255395413,
+      "settlement_score": 4,
+      "opposite_score": 0,
+      "projected_bps": -17.387156643999056,
+      "risk_bps": 9.746325364812686,
+      "entry_required_prob": 0.68,
+      "entry_window_edge": null,
+      "market_quality": "TREND",
+      "flow_gate": "YES 0/3 NO 2/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 1,
+      "video_no": 5,
+      "mtf_context": "15M_MAP | DEMAND=87.79-87.94 | SUPPLY=87.83-88.36 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=87.86 | H=87.89 | L=87.72 | C=87.73 | DEMAND=87.79-87.87 | SUPPLY=88.5-88.84 || 3M_REACTION | 3M=NO 3/3 | O=87.77 | H=87.81 | L=87.62 | C=87.62 | DEMAND=88.33-88.44 | SUPPLY=88.57-88.76 || NEAREST_ZONE=DEMAND_5M 87.79-87.87 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | BEAR=87.85-88.14 | NEAR=BEAR 87.85-88.14 || 3M_FVG | BEAR=87.85-88.08 | NEAR=BEAR 87.85-88.08",
+      "event_id": "KXHYPE15M-26OCT071345-45:HYPE:NO:ASK_RANGE:1791394905715:1"
     }
   ],
-  "updated_at": "2026-10-07T12:06:51+00:00"
+  "updated_at": "2026-10-07T17:43:02+00:00"
 }
