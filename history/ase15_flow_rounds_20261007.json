@@ -10418,9 +10418,28 @@
       "veto_audit_count": 0,
       "final_proxy_side": "NO",
       "official_settlement_side": null,
-      "settlement": null
+      "settlement": {
+        "round_id": "BNB:KXBNB15M-26OCT071515-15",
+        "asset": "BNB",
+        "ticker": "KXBNB15M-26OCT071515-15",
+        "side": "NO",
+        "result": "NO",
+        "settlement_gross": 1.2236,
+        "round_gross": 1.2236,
+        "fees": 0.0165,
+        "net": 1.2071,
+        "smart_shadow_verdict": "ACCEPTED_EXIT",
+        "smart_shadow_action": "DEFENSIVE_EXIT",
+        "smart_shadow_exit_bid": 0.62,
+        "smart_shadow_gross": 0.0,
+        "smart_shadow_fees": 0.0809,
+        "smart_shadow_net": -0.0809,
+        "smart_shadow_delta_vs_real": -1.288,
+        "smart_shadow_hold_scans": 164,
+        "settled_at": "2026-10-07T19:15:48+00:00"
+      }
     }
   ],
   "orphan_settlements": [],
-  "updated_at": "2026-10-07T19:16:06+00:00"
+  "updated_at": "2026-10-07T19:17:22+00:00"
 }
