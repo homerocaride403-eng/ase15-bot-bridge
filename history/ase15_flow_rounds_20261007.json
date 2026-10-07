@@ -1645,7 +1645,26 @@
       "veto_audit_count": 2,
       "final_proxy_side": "YES",
       "official_settlement_side": null,
-      "settlement": null
+      "settlement": {
+        "round_id": "HYPE:KXHYPE15M-26OCT062015-15",
+        "asset": "HYPE",
+        "ticker": "KXHYPE15M-26OCT062015-15",
+        "side": "NO",
+        "result": "YES",
+        "settlement_gross": -1.9068000000000003,
+        "round_gross": -1.9068000000000003,
+        "fees": 0.017,
+        "net": -1.9238000000000002,
+        "smart_shadow_verdict": "ACCEPTED_EXIT",
+        "smart_shadow_action": "DEFENSIVE_EXIT",
+        "smart_shadow_exit_bid": 0.37,
+        "smart_shadow_gross": -0.2270000000000002,
+        "smart_shadow_fees": 0.1078,
+        "smart_shadow_net": -0.3348000000000002,
+        "smart_shadow_delta_vs_real": 1.589,
+        "smart_shadow_hold_scans": 66,
+        "settled_at": "2026-10-07T00:20:33+00:00"
+      }
     },
     {
       "round_id": "NEAR:KXNEAR15M-26OCT062015-15",
@@ -1741,5 +1760,5 @@
     }
   ],
   "orphan_settlements": [],
-  "updated_at": "2026-10-07T00:17:54+00:00"
+  "updated_at": "2026-10-07T00:23:32+00:00"
 }
