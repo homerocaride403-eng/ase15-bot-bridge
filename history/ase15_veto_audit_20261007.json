@@ -1,6 +1,6 @@
 {
   "schema": "ase15_veto_audit_history_v1",
-  "bot": "ASE15_FLOW_V4_1_112AD_SR_DESTINATION_RUNTIME_FIX_CAP65_2USD_LIVE",
+  "bot": "ASE15_FLOW_V4_1_112AL_PRETARGET_ANTICIPATION_CAP65_2USD_LIVE",
   "date_utc": "20261007",
   "events": [
     {
@@ -407,7 +407,34 @@
       "video_no": 3,
       "mtf_context": "15M_MAP | DEMAND=91.58-91.71 || 5M_DEVELOPMENT | 5M=NO 2/3 | O=91.54 | H=91.69 | L=91.49 | C=91.59 || 3M_REACTION | 3M=NO 3/3 | O=91.56 | H=91.56 | L=91.53 | C=91.55 | SUPPLY=92.18-92.2 || NEAREST_ZONE=DEMAND_15M 91.58-91.71 || FVG_CONTEXT=15M_FVG | NONE || 5M_FVG | BEAR=91.69-91.96 | NEAR=BEAR 91.69-91.96 || 3M_FVG | BEAR=91.69-91.7 | NEAR=BEAR 91.69-91.7",
       "event_id": "KXHYPE15M-26OCT062145-45:HYPE:NO:FRESH_BOOK_EDGE_LOST:1791337123002:12"
+    },
+    {
+      "ts": "2026-10-07T09:50:39.056+00:00",
+      "epoch": 1791366639.056124,
+      "asset": "ETH",
+      "ticker": "KXETH15M-26OCT070600-00",
+      "side": "YES",
+      "stage": "FRESH_BOOK_EDGE_LOST",
+      "reason": "P=0.457 reqFresh=0.650 edge=-0.193",
+      "ask": 0.68,
+      "underlying": 2598.76,
+      "target": 2598.19,
+      "distance_bps": 2.193834938938891,
+      "left_s": 560.9437575340271,
+      "prob": 0.45670396787944634,
+      "settlement_score": 0,
+      "opposite_score": 1,
+      "projected_bps": -0.6936043178761322,
+      "risk_bps": 14.816304477491858,
+      "entry_required_prob": 0.65,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 1/3 NO 1/3 | SELL_ABSORPTION | ABSORPTION=VETO_ONLY",
+      "video_yes": 2,
+      "video_no": 3,
+      "mtf_context": "15M_MAP | DEMAND=2611.1-2619.2 | SUPPLY=2610.39-2614 || 5M_DEVELOPMENT | 5M=YES 3/3 | O=2597.23 | H=2599.64 | L=2596.11 | C=2599.5 | SUPPLY=2608.97-2610.71 || 3M_REACTION | 3M=YES 3/3 | O=2598 | H=2599.64 | L=2596.95 | C=2599.5 | SUPPLY=2610.39-2611.2 || NEAREST_ZONE=SUPPLY_5M 2608.97-2610.71 || FVG_CONTEXT=15M_FVG | BEAR=2605.61-2605.78 | NEAR=BEAR 2605.61-2605.78 || 5M_FVG | BEAR=2599.12-2603.73 | NEAR=BEAR 2599.12-2603.73 || 3M_FVG | BEAR=2600.32-2603.73 | NEAR=BEAR 2600.32-2603.73",
+      "event_id": "KXETH15M-26OCT070600-00:ETH:YES:FRESH_BOOK_EDGE_LOST:1791366639056:1"
     }
   ],
-  "updated_at": "2026-10-07T01:41:04+00:00"
+  "updated_at": "2026-10-07T09:51:14+00:00"
 }
