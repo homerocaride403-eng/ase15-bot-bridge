@@ -515,7 +515,34 @@
       "video_no": 3,
       "mtf_context": "15M_MAP | DEMAND=0.08975-0.08984 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=0.08969 | H=0.08969 | L=0.08949 | C=0.08956 | SUPPLY=0.09026-0.09038 || 3M_REACTION | 3M=NO 3/3 | O=0.08957 | H=0.08958 | L=0.0895 | C=0.08951 | SUPPLY=0.08994-0.08996 || NEAREST_ZONE=DEMAND_15M 0.08975-0.08984 || FVG_CONTEXT=15M_FVG | BEAR=0.08971-0.08988 | NEAR=BEAR 0.08971-0.08988 || 5M_FVG | BEAR=0.08968-0.08991 | NEAR=BEAR 0.08968-0.08991 || 3M_FVG | BEAR=0.08959-0.08974 | NEAR=BEAR 0.08959-0.08974",
       "event_id": "KXDOGE15M-26OCT070600-00:DOGE:NO:FRESH_BOOK_EDGE_LOST:1791367077401:4"
+    },
+    {
+      "ts": "2026-10-07T10:11:03.468+00:00",
+      "epoch": 1791367863.468509,
+      "asset": "BNB",
+      "ticker": "KXBNB15M-26OCT070615-15",
+      "side": "YES",
+      "stage": "FRESH_BOOK_EDGE_LOST",
+      "reason": "P=0.596 reqFresh=0.670 edge=-0.074",
+      "ask": 0.52,
+      "underlying": 769.86,
+      "target": 769.67,
+      "distance_bps": 2.4685904348624033,
+      "left_s": 236.5313332080841,
+      "prob": 0.5962192836214668,
+      "settlement_score": 3,
+      "opposite_score": 0,
+      "projected_bps": 19.463986880338318,
+      "risk_bps": 13.790796423604267,
+      "entry_required_prob": 0.5900000000000001,
+      "entry_window_edge": null,
+      "market_quality": "TRANSITION",
+      "flow_gate": "YES 1/3 NO 0/3 | MIXED | ABSORPTION=VETO_ONLY",
+      "video_yes": 3,
+      "video_no": 3,
+      "mtf_context": "15M_MAP | DEMAND=765.21-765.67 || 5M_DEVELOPMENT | 5M=NO 3/3 | O=769.34 | H=769.34 | L=766.22 | C=769.31 | DEMAND=772.32-772.95 | SUPPLY=772.55-773.08 || 3M_REACTION | 3M=YES 3/3 | O=768.81 | H=769.86 | L=768.81 | C=769.86 | DEMAND=769.03-769.54 || NEAREST_ZONE=DEMAND_3M 769.03-769.54 || FVG_CONTEXT=15M_FVG | BULL=766.58-773.35 | BEAR=771-772.32 | NEAR=BULL 766.58-773.35 || 5M_FVG | BEAR=771.09-772.47 | NEAR=BEAR 771.09-772.47 || 3M_FVG | BEAR=771.8-772.55 | NEAR=BEAR 771.8-772.55",
+      "event_id": "KXBNB15M-26OCT070615-15:BNB:YES:FRESH_BOOK_EDGE_LOST:1791367863468:5"
     }
   ],
-  "updated_at": "2026-10-07T10:00:17+00:00"
+  "updated_at": "2026-10-07T10:11:26+00:00"
 }
