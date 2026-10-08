@@ -2822,7 +2822,18 @@
           }
         }
       ],
-      "settlement": null
+      "settlement": {
+        "round_id": "XRP:KXXRP15M-26OCT081045-45",
+        "asset": "XRP",
+        "ticker": "KXXRP15M-26OCT081045-45",
+        "side": "NO",
+        "result": "NO",
+        "settlement_gross": 0.42999999999999994,
+        "round_gross": 0.42999999999999994,
+        "fees": 0.0172,
+        "net": 0.41279999999999994,
+        "settled_at": "2026-10-08T14:45:44+00:00"
+      }
     },
     {
       "round_id": "BTC:KXBTC15M-26OCT081045-45",
@@ -2897,5 +2908,5 @@
     }
   ],
   "orphan_settlements": [],
-  "updated_at": "2026-10-08T14:46:16+00:00"
+  "updated_at": "2026-10-08T14:48:32+00:00"
 }
