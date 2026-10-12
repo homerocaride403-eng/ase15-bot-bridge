@@ -5,59 +5,59 @@
   "entry_dollars": 1.0,
   "max_entry_ask": 0.6,
   "session_realized_pnl": 0.0,
-  "published_at": "2026-10-12T13:47:19+00:00",
+  "published_at": "2026-10-12T13:49:12+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 82658.21,
+      "spot": 82713.94,
       "market": "KXBTC15M-26OCT121000-00",
       "cycle_id": "KXBTC15M-26OCT121000-00",
       "position_open": false
     },
     "ETH": {
-      "spot": 2530.66,
+      "spot": 2532.82,
       "market": "KXETH15M-26OCT121000-00",
       "cycle_id": "KXETH15M-26OCT121000-00",
       "position_open": false
     },
     "SOL": {
-      "spot": 110.14,
+      "spot": 110.16,
       "market": "KXSOL15M-26OCT121000-00",
       "cycle_id": "KXSOL15M-26OCT121000-00",
       "position_open": false
     },
     "HYPE": {
-      "spot": 85.0,
+      "spot": 85.08,
       "market": "KXHYPE15M-26OCT121000-00",
       "cycle_id": "KXHYPE15M-26OCT121000-00",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.08568,
+      "spot": 0.08564,
       "market": "KXDOGE15M-26OCT121000-00",
       "cycle_id": "KXDOGE15M-26OCT121000-00",
       "position_open": false
     },
     "BNB": {
-      "spot": 746.47,
+      "spot": 746.35,
       "market": "KXBNB15M-26OCT121000-00",
       "cycle_id": "KXBNB15M-26OCT121000-00",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.387,
+      "spot": 1.3874,
       "market": "KXXRP15M-26OCT121000-00",
       "cycle_id": "KXXRP15M-26OCT121000-00",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1284.18,
+      "spot": 1283.9,
       "market": "KXZEC15M-26OCT121000-00",
       "cycle_id": "KXZEC15M-26OCT121000-00",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.628,
+      "spot": 5.6333,
       "market": "KXNEAR15M-26OCT121000-00",
       "cycle_id": "KXNEAR15M-26OCT121000-00",
       "position_open": false
@@ -109,7 +109,33 @@
     "08:47:02 | STATUS |  | entries=0 PNL=$+0.00",
     "08:47:07 | STATUS |  | entries=0 PNL=$+0.00",
     "08:47:12 | STATUS |  | entries=0 PNL=$+0.00",
-    "08:47:18 | STATUS |  | entries=0 PNL=$+0.00"
+    "08:47:18 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:47:22 | KALSHI WS CONNECTED | 9 books",
+    "08:47:23 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:47:28 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:47:33 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:47:38 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:47:43 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:47:48 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:47:53 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:47:58 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:03 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:08 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:12 | KALSHI WS CONNECTED | 9 books",
+    "08:48:13 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:18 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:23 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:28 | BTC | market refresh error: <urlopen error [Errno 104] Connection reset by peer>",
+    "08:48:29 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:34 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:39 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:44 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:49 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:54 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:48:59 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:49:01 | KALSHI WS CONNECTED | 9 books",
+    "08:49:05 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:49:10 | STATUS |  | entries=0 PNL=$+0.00"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
