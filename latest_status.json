@@ -5,59 +5,59 @@
   "entry_dollars": 1.0,
   "max_entry_ask": 0.6,
   "session_realized_pnl": 0.0,
-  "published_at": "2026-10-12T13:39:25+00:00",
+  "published_at": "2026-10-12T13:40:59+00:00",
   "open_positions": [],
   "assets": {
     "BTC": {
-      "spot": 82640.16,
+      "spot": 82665.04,
       "market": "KXBTC15M-26OCT120945-45",
       "cycle_id": "KXBTC15M-26OCT120945-45",
       "position_open": false
     },
     "ETH": {
-      "spot": 2531.13,
+      "spot": 2531.24,
       "market": "KXETH15M-26OCT120945-45",
       "cycle_id": "KXETH15M-26OCT120945-45",
       "position_open": false
     },
     "SOL": {
-      "spot": 110.12,
+      "spot": 110.2,
       "market": "KXSOL15M-26OCT120945-45",
       "cycle_id": "KXSOL15M-26OCT120945-45",
       "position_open": false
     },
     "HYPE": {
-      "spot": 85.19,
+      "spot": 85.26,
       "market": "KXHYPE15M-26OCT120945-45",
       "cycle_id": "KXHYPE15M-26OCT120945-45",
       "position_open": false
     },
     "DOGE": {
-      "spot": 0.08588,
+      "spot": 0.08596,
       "market": "KXDOGE15M-26OCT120945-45",
       "cycle_id": "KXDOGE15M-26OCT120945-45",
       "position_open": false
     },
     "BNB": {
-      "spot": 745.5,
+      "spot": 746.7,
       "market": "KXBNB15M-26OCT120945-45",
       "cycle_id": "KXBNB15M-26OCT120945-45",
       "position_open": false
     },
     "XRP": {
-      "spot": 1.3862,
+      "spot": 1.3873,
       "market": "KXXRP15M-26OCT120945-45",
       "cycle_id": "KXXRP15M-26OCT120945-45",
       "position_open": false
     },
     "ZEC": {
-      "spot": 1283.67,
+      "spot": 1287.38,
       "market": "KXZEC15M-26OCT120945-45",
       "cycle_id": "KXZEC15M-26OCT120945-45",
       "position_open": false
     },
     "NEAR": {
-      "spot": 5.615,
+      "spot": 5.6461,
       "market": "KXNEAR15M-26OCT120945-45",
       "cycle_id": "KXNEAR15M-26OCT120945-45",
       "position_open": false
@@ -109,7 +109,28 @@
     "08:39:06 | STATUS |  | entries=0 PNL=$+0.00",
     "08:39:11 | STATUS |  | entries=0 PNL=$+0.00",
     "08:39:16 | STATUS |  | entries=0 PNL=$+0.00",
-    "08:39:21 | STATUS |  | entries=0 PNL=$+0.00"
+    "08:39:21 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:39:25 | KALSHI WS CONNECTED | 9 books",
+    "08:39:26 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:39:31 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:39:36 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:39:41 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:39:46 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:39:51 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:39:57 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:02 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:07 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:12 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:14 | KALSHI WS CONNECTED | 9 books",
+    "08:40:17 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:22 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:27 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:32 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:37 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:42 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:47 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:52 | STATUS |  | entries=0 PNL=$+0.00",
+    "08:40:57 | STATUS |  | entries=0 PNL=$+0.00"
   ],
   "privacy": "sanitized telemetry only; no credentials, tokens or private keys"
 }
