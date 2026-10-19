@@ -1,5 +1,5 @@
 {
-  "utc": "2026-10-19T05:33:40.863166+00:00",
+  "utc": "2026-10-19T05:34:56.176503+00:00",
   "mode": "LIVE",
   "positions": {
     "NEAR": {
@@ -25,59 +25,43 @@
       }
     }
   },
-  "daily_buy_usd": 3.44,
+  "daily_buy_usd": 4.12,
   "markets": {
     "NEAR": {
-      "signal": "YES",
-      "reason": "pullback_continuation_mtf",
-      "spot": 5.0587,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 75.50102428202875,
-          "rsi_slow": 68.21450400302544,
-          "macd_hist": 0.0019323978389553175,
-          "macd_fading": false,
-          "ema9": 5.052103924111634,
-          "ema20": 5.0489169196694155,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.7013815689678653
-        },
-        "m3": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 72.94162735497372,
-          "rsi_slow": 61.6032124218665,
-          "macd_hist": -0.000786369256952209,
-          "macd_fading": false,
-          "ema9": 5.047684484462703,
-          "ema20": 5.044653361489952,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 1.1323137431221155
-        },
-        "m5": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 67.32800211885387,
-          "rsi_slow": 61.217205555159396,
-          "macd_hist": 0.0009064018749114031,
-          "macd_fading": false,
-          "ema9": 5.0475177923867385,
-          "ema20": 5.040955919764762,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.6893486218345088
-        }
-      }
+      "position": "YES",
+      "bid": 68,
+      "exit_evidence": [
+        "MACD pierde impulso comprador"
+      ],
+      "exit_features": {
+        "price": 5.0544,
+        "rsi": 57.741421,
+        "macd_hist": 0.00164,
+        "cvd_slope_proxy": 10401.582,
+        "delta_proxy": -0.44,
+        "ema9": 5.052563,
+        "ema50": 5.046405,
+        "vwap": 5.05196,
+        "support": 5.0249,
+        "resistance": 5.0651,
+        "volratio": 7.1e-05
+      },
+      "entry_features": {
+        "price": 5.0587,
+        "rsi": 68.214504,
+        "macd_hist": 0.001932,
+        "cvd_slope_proxy": 10145.977,
+        "delta_proxy": -2027.087,
+        "ema9": 5.052104,
+        "ema50": 5.046078,
+        "vwap": 5.051847,
+        "support": 5.0249,
+        "resistance": 5.0651,
+        "volratio": 0.333864
+      },
+      "entry_utc": "2026-10-19T05:33:48.060729+00:00",
+      "entry_c": 68,
+      "ticker": "KXNEAR15M-26OCT190145-45"
     }
   },
   "warnings": []
