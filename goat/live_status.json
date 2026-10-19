@@ -1,5 +1,5 @@
 {
-  "utc": "2026-10-19T04:04:44.835189+00:00",
+  "utc": "2026-10-19T04:05:53.265634+00:00",
   "mode": "LIVE",
   "positions": {
     "SOL": {
@@ -29,7 +29,7 @@
   "markets": {
     "SOL": {
       "position": "NO",
-      "bid": 66,
+      "bid": 64,
       "exit_evidence": [],
       "exit_features": {
         "price": 105.02,
