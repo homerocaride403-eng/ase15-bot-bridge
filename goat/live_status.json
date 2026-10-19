@@ -1,5 +1,5 @@
 {
-  "utc": "2026-10-19T05:34:56.176503+00:00",
+  "utc": "2026-10-19T05:36:04.564301+00:00",
   "mode": "LIVE",
   "positions": {
     "NEAR": {
@@ -29,7 +29,7 @@
   "markets": {
     "NEAR": {
       "position": "YES",
-      "bid": 68,
+      "bid": 67,
       "exit_evidence": [
         "MACD pierde impulso comprador"
       ],
