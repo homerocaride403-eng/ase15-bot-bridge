@@ -1,5 +1,5 @@
 {
-  "utc": "2026-10-19T03:51:33.180908+00:00",
+  "utc": "2026-10-19T03:52:41.743381+00:00",
   "mode": "LIVE",
   "positions": {
     "SOL": {
@@ -29,7 +29,7 @@
   "markets": {
     "SOL": {
       "position": "YES",
-      "bid": 40,
+      "bid": 41,
       "exit_evidence": [
         "pierde EMA9 descendente"
       ],
@@ -62,6 +62,58 @@
       "entry_utc": "2026-10-19T03:49:15.996695+00:00",
       "entry_c": 43,
       "ticker": "KXSOL15M-26OCT190000-00"
+    },
+    "HYPE": {
+      "signal": "WAIT",
+      "reason": "low_volume",
+      "spot": 79.53,
+      "mtf": {
+        "m1": {
+          "valid": true,
+          "trend": 1,
+          "rsi_fast": 74.39613726669644,
+          "rsi_slow": 67.0580802697818,
+          "macd_hist": 0.011080338183857803,
+          "macd_fading": false,
+          "ema9": 79.45252460341933,
+          "ema20": 79.41958120663415,
+          "up_divergence": false,
+          "down_divergence": false,
+          "near_recent_high": true,
+          "near_recent_low": false,
+          "vol_ratio": 0.05902985713063564
+        },
+        "m3": {
+          "valid": true,
+          "trend": 1,
+          "rsi_fast": 77.69773187529486,
+          "rsi_slow": 68.57835659917379,
+          "macd_hist": 0.001154333971673152,
+          "macd_fading": false,
+          "ema9": 79.40820877247538,
+          "ema20": 79.34908658038445,
+          "up_divergence": false,
+          "down_divergence": false,
+          "near_recent_high": true,
+          "near_recent_low": false,
+          "vol_ratio": 0.055415887732571355
+        },
+        "m5": {
+          "valid": true,
+          "trend": 1,
+          "rsi_fast": 80.99761635482574,
+          "rsi_slow": 72.63146625643039,
+          "macd_hist": 0.006726928863514697,
+          "macd_fading": false,
+          "ema9": 79.40941149808828,
+          "ema20": 79.29899813113123,
+          "up_divergence": false,
+          "down_divergence": false,
+          "near_recent_high": true,
+          "near_recent_low": false,
+          "vol_ratio": 0.10086407894960897
+        }
+      }
     }
   },
   "warnings": []
