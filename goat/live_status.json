@@ -1,8 +1,61 @@
 {
-  "utc": "2026-10-19T10:47:51.427635+00:00",
+  "utc": "2026-10-19T10:48:59.224160+00:00",
   "mode": "LIVE",
   "positions": {},
   "daily_buy_usd": 4.97,
-  "markets": {},
+  "markets": {
+    "NEAR": {
+      "signal": "WAIT",
+      "reason": "low_volume",
+      "spot": 4.9977,
+      "mtf": {
+        "m1": {
+          "valid": true,
+          "trend": 1,
+          "rsi_fast": 62.91224935324783,
+          "rsi_slow": 53.88495805626415,
+          "macd_hist": 0.0028845461041669997,
+          "macd_fading": false,
+          "ema9": 4.992522083280514,
+          "ema20": 4.9970756407392685,
+          "up_divergence": false,
+          "down_divergence": false,
+          "near_recent_high": false,
+          "near_recent_low": false,
+          "vol_ratio": 0.013072369408859823
+        },
+        "m3": {
+          "valid": true,
+          "trend": -1,
+          "rsi_fast": 49.33166119429425,
+          "rsi_slow": 41.242602078476686,
+          "macd_hist": -0.0034611964849382906,
+          "macd_fading": false,
+          "ema9": 5.002034991777261,
+          "ema20": 5.02070211419864,
+          "up_divergence": false,
+          "down_divergence": false,
+          "near_recent_high": false,
+          "near_recent_low": false,
+          "vol_ratio": 0.04883888212782389
+        },
+        "m5": {
+          "valid": true,
+          "trend": -1,
+          "rsi_fast": 34.17441996052101,
+          "rsi_slow": 32.48025113841925,
+          "macd_hist": -0.006775077404775743,
+          "macd_fading": false,
+          "ema9": 5.016293048010613,
+          "ema20": 5.0355325188765505,
+          "up_divergence": false,
+          "down_divergence": true,
+          "near_recent_high": false,
+          "near_recent_low": false,
+          "vol_ratio": 0.05370673415773182
+        }
+      }
+    }
+  },
   "warnings": []
 }
