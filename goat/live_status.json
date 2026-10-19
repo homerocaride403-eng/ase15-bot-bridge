@@ -1,5 +1,5 @@
 {
-  "utc": "2026-10-19T03:50:24.125174+00:00",
+  "utc": "2026-10-19T03:51:33.180908+00:00",
   "mode": "LIVE",
   "positions": {
     "SOL": {
@@ -29,7 +29,7 @@
   "markets": {
     "SOL": {
       "position": "YES",
-      "bid": 32,
+      "bid": 40,
       "exit_evidence": [
         "pierde EMA9 descendente"
       ],
