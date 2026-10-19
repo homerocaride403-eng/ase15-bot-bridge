@@ -1,6 +1,6 @@
 {
-  "utc": "2026-10-19T03:08:33.327987+00:00",
-  "mode": "LIVE",
+  "utc": "2026-10-19T03:09:34.157453+00:00",
+  "mode": "LIVE_STARTUP",
   "positions": {
     "NEAR": {
       "symbol": "NEAR",
@@ -25,46 +25,7 @@
       }
     }
   },
-  "daily_buy_usd": 0,
-  "markets": {
-    "NEAR": {
-      "position": "NO",
-      "bid": 89,
-      "exit_evidence": [
-        "MACD pierde impulso vendedor",
-        "delta acumulado proxy gira comprador",
-        "divergencia de agotamiento bajista"
-      ],
-      "exit_features": {
-        "price": 5.0163,
-        "rsi": 36.517662,
-        "macd_hist": -0.001789,
-        "cvd_slope_proxy": 1425.725,
-        "delta_proxy": -320.739,
-        "ema9": 5.021221,
-        "ema50": 5.030803,
-        "vwap": 5.032269,
-        "support": 5.0114,
-        "resistance": 5.0637,
-        "volratio": 0.039391
-      },
-      "entry_features": {
-        "price": 5.0206,
-        "rsi": 36.79799,
-        "macd_hist": -0.001878,
-        "cvd_slope_proxy": -61088.2,
-        "delta_proxy": -11832.983,
-        "ema9": 5.028563,
-        "ema50": 5.033721,
-        "vwap": 5.033088,
-        "support": 5.001,
-        "resistance": 5.0637,
-        "volratio": 1.462979
-      },
-      "entry_utc": "2026-10-19T03:03:40.242941+00:00",
-      "entry_c": 79,
-      "ticker": "KXNEAR15M-26OCT182315-15"
-    }
-  },
-  "warnings": []
+  "warnings": [
+    "Signals unvalidated; orders require monitoring"
+  ]
 }
