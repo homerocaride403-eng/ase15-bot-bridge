@@ -1,58 +1,58 @@
 {
-  "utc": "2026-10-19T10:48:59.224160+00:00",
+  "utc": "2026-10-19T10:50:07.299153+00:00",
   "mode": "LIVE",
   "positions": {},
   "daily_buy_usd": 4.97,
   "markets": {
-    "NEAR": {
+    "SOL": {
       "signal": "WAIT",
       "reason": "low_volume",
-      "spot": 4.9977,
+      "spot": 104.81,
       "mtf": {
         "m1": {
           "valid": true,
           "trend": 1,
-          "rsi_fast": 62.91224935324783,
-          "rsi_slow": 53.88495805626415,
-          "macd_hist": 0.0028845461041669997,
-          "macd_fading": false,
-          "ema9": 4.992522083280514,
-          "ema20": 4.9970756407392685,
-          "up_divergence": false,
+          "rsi_fast": 54.69664704885282,
+          "rsi_slow": 55.08694865757976,
+          "macd_hist": 0.048676384512392035,
+          "macd_fading": true,
+          "ema9": 104.77609006370452,
+          "ema20": 104.76428942129337,
+          "up_divergence": true,
           "down_divergence": false,
           "near_recent_high": false,
           "near_recent_low": false,
-          "vol_ratio": 0.013072369408859823
+          "vol_ratio": 0.3058711876044432
         },
         "m3": {
           "valid": true,
-          "trend": -1,
-          "rsi_fast": 49.33166119429425,
-          "rsi_slow": 41.242602078476686,
-          "macd_hist": -0.0034611964849382906,
+          "trend": 1,
+          "rsi_fast": 57.58897537120552,
+          "rsi_slow": 46.416781233005366,
+          "macd_hist": -0.013554292746435076,
           "macd_fading": false,
-          "ema9": 5.002034991777261,
-          "ema20": 5.02070211419864,
+          "ema9": 104.77487977226805,
+          "ema20": 104.98277991427668,
           "up_divergence": false,
           "down_divergence": false,
           "near_recent_high": false,
           "near_recent_low": false,
-          "vol_ratio": 0.04883888212782389
+          "vol_ratio": 0.09523032234817955
         },
         "m5": {
           "valid": true,
           "trend": -1,
-          "rsi_fast": 34.17441996052101,
-          "rsi_slow": 32.48025113841925,
-          "macd_hist": -0.006775077404775743,
+          "rsi_fast": 44.25355372004064,
+          "rsi_slow": 37.323312625154166,
+          "macd_hist": -0.07474077627752804,
           "macd_fading": false,
-          "ema9": 5.016293048010613,
-          "ema20": 5.0355325188765505,
+          "ema9": 104.92780386083703,
+          "ema20": 105.1726391737136,
           "up_divergence": false,
-          "down_divergence": true,
+          "down_divergence": false,
           "near_recent_high": false,
           "near_recent_low": false,
-          "vol_ratio": 0.05370673415773182
+          "vol_ratio": 0.17519681094708434
         }
       }
     }
