@@ -1,5 +1,5 @@
 {
-  "utc": "2026-10-19T03:10:47.737889+00:00",
+  "utc": "2026-10-19T03:11:56.969057+00:00",
   "mode": "LIVE",
   "positions": {
     "NEAR": {
@@ -27,9 +27,61 @@
   },
   "daily_buy_usd": 0,
   "markets": {
+    "BNB": {
+      "signal": "YES",
+      "reason": "early_reversal_mtf",
+      "spot": 726.08,
+      "mtf": {
+        "m1": {
+          "valid": true,
+          "trend": -1,
+          "rsi_fast": 43.765418142420984,
+          "rsi_slow": 40.50386195247821,
+          "macd_hist": -0.1359239426982916,
+          "macd_fading": false,
+          "ema9": 726.1836513225829,
+          "ema20": 726.3222906607809,
+          "up_divergence": false,
+          "down_divergence": false,
+          "near_recent_high": false,
+          "near_recent_low": false,
+          "vol_ratio": 0.3190218149778891
+        },
+        "m3": {
+          "valid": true,
+          "trend": -1,
+          "rsi_fast": 38.6279981888736,
+          "rsi_slow": 48.80311794674722,
+          "macd_hist": -0.12410614721248225,
+          "macd_fading": true,
+          "ema9": 726.2757134094098,
+          "ema20": 725.9008861930032,
+          "up_divergence": false,
+          "down_divergence": false,
+          "near_recent_high": false,
+          "near_recent_low": false,
+          "vol_ratio": 1.4533957545597995
+        },
+        "m5": {
+          "valid": true,
+          "trend": 1,
+          "rsi_fast": 41.59055139840271,
+          "rsi_slow": 53.280031541454264,
+          "macd_hist": -0.24597569076930315,
+          "macd_fading": true,
+          "ema9": 726.2287894309878,
+          "ema20": 725.249537631928,
+          "up_divergence": false,
+          "down_divergence": false,
+          "near_recent_high": false,
+          "near_recent_low": false,
+          "vol_ratio": 0.7618969468591937
+        }
+      }
+    },
     "NEAR": {
       "position": "NO",
-      "bid": 97,
+      "bid": 99,
       "exit_evidence": [
         "MACD pierde impulso vendedor",
         "delta acumulado proxy gira comprador"
