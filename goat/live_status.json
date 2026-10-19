@@ -1,60 +1,65 @@
 {
-  "utc": "2026-10-19T04:03:36.578233+00:00",
+  "utc": "2026-10-19T04:04:44.835189+00:00",
   "mode": "LIVE",
-  "positions": {},
-  "daily_buy_usd": 0.86,
-  "markets": {
-    "NEAR": {
-      "signal": "WAIT",
-      "reason": "no_independent_confluence",
-      "spot": 5.018,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 35.901759162683945,
-          "rsi_slow": 46.7918890828213,
-          "macd_hist": -0.00019218869481985772,
-          "macd_fading": true,
-          "ema9": 5.020455143870995,
-          "ema20": 5.017961750104274,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": true,
-          "vol_ratio": 0.5996195416842902
-        },
-        "m3": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 50.20974976600337,
-          "rsi_slow": 52.87371629655936,
-          "macd_hist": 0.002956102041214978,
-          "macd_fading": true,
-          "ema9": 5.016712901565825,
-          "ema20": 5.015588706889181,
-          "up_divergence": true,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.11181987284556537
-        },
-        "m5": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 59.94347672907527,
-          "rsi_slow": 52.4192043500836,
-          "macd_hist": 0.00034582300709354134,
-          "macd_fading": false,
-          "ema9": 5.014487586559746,
-          "ema20": 5.018117302794708,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.09177518449280743
-        }
+  "positions": {
+    "SOL": {
+      "symbol": "SOL",
+      "ticker": "KXSOL15M-26OCT190015-15",
+      "side": "NO",
+      "qty": "1",
+      "entry_price_c": 75,
+      "entry_reason": "pullback_continuation_mtf | RSI 27.2 MACD -0.001121 CVD proxy -1208.861 | 3m ST -1 RSI7 18.6 | 5m ST 1",
+      "entry_utc": "2026-10-19T04:04:23.790449+00:00",
+      "entry_features": {
+        "price": 105.02,
+        "rsi": 27.224406,
+        "macd_hist": -0.001121,
+        "cvd_slope_proxy": -1208.860896,
+        "delta_proxy": -105.270679,
+        "ema9": 105.075212,
+        "ema50": 105.149821,
+        "vwap": 105.226182,
+        "support": 105.01,
+        "resistance": 105.39,
+        "volratio": 0.609124
       }
+    }
+  },
+  "daily_buy_usd": 1.61,
+  "markets": {
+    "SOL": {
+      "position": "NO",
+      "bid": 66,
+      "exit_evidence": [],
+      "exit_features": {
+        "price": 105.02,
+        "rsi": 27.224406,
+        "macd_hist": -0.001121,
+        "cvd_slope_proxy": -1208.860896,
+        "delta_proxy": -105.270679,
+        "ema9": 105.075212,
+        "ema50": 105.149821,
+        "vwap": 105.226182,
+        "support": 105.01,
+        "resistance": 105.39,
+        "volratio": 0.609124
+      },
+      "entry_features": {
+        "price": 105.02,
+        "rsi": 27.224406,
+        "macd_hist": -0.001121,
+        "cvd_slope_proxy": -1208.860896,
+        "delta_proxy": -105.270679,
+        "ema9": 105.075212,
+        "ema50": 105.149821,
+        "vwap": 105.226182,
+        "support": 105.01,
+        "resistance": 105.39,
+        "volratio": 0.609124
+      },
+      "entry_utc": "2026-10-19T04:04:23.790449+00:00",
+      "entry_c": 75,
+      "ticker": "KXSOL15M-26OCT190015-15"
     }
   },
   "warnings": []
