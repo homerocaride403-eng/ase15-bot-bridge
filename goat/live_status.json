@@ -1,112 +1,117 @@
 {
-  "utc": "2026-10-19T03:03:13.068470+00:00",
+  "utc": "2026-10-19T03:04:25.194228+00:00",
   "mode": "LIVE",
-  "positions": {},
-  "daily_buy_usd": 0,
+  "positions": {
+    "NEAR": {
+      "symbol": "NEAR",
+      "ticker": "KXNEAR15M-26OCT182315-15",
+      "side": "NO",
+      "qty": "1",
+      "entry_price_c": 79,
+      "entry_reason": "pullback_continuation_mtf | RSI 36.8 MACD -0.001878 CVD proxy -61088.2 | 3m ST -1 RSI7 32.0 | 5m ST -1",
+      "entry_utc": "2026-10-19T03:03:40.242941+00:00",
+      "entry_features": {
+        "price": 5.0206,
+        "rsi": 36.79799,
+        "macd_hist": -0.001878,
+        "cvd_slope_proxy": -61088.2,
+        "delta_proxy": -11832.983,
+        "ema9": 5.028563,
+        "ema50": 5.033721,
+        "vwap": 5.033088,
+        "support": 5.001,
+        "resistance": 5.0637,
+        "volratio": 1.462979
+      }
+    }
+  },
+  "daily_buy_usd": 0.79,
   "markets": {
-    "XRP": {
+    "SOL": {
       "signal": "WAIT",
       "reason": "low_volume",
-      "spot": 1.3109,
+      "spot": 105.24,
       "mtf": {
         "m1": {
           "valid": true,
           "trend": 1,
-          "rsi_fast": 35.59614195442798,
-          "rsi_slow": 44.792389052020376,
-          "macd_hist": -0.0002557587469790545,
+          "rsi_fast": 24.159353068421993,
+          "rsi_slow": 39.3904794233719,
+          "macd_hist": -0.03591450184758811,
           "macd_fading": true,
-          "ema9": 1.3113037046061813,
-          "ema20": 1.3111301691743371,
+          "ema9": 105.32035490106074,
+          "ema20": 105.29540920463421,
           "up_divergence": false,
           "down_divergence": false,
           "near_recent_high": false,
           "near_recent_low": true,
-          "vol_ratio": 0.10866430641123989
+          "vol_ratio": 1.049984330262535
         },
         "m3": {
           "valid": true,
           "trend": 1,
-          "rsi_fast": 51.62978812409169,
-          "rsi_slow": 56.209540111448966,
-          "macd_hist": 0.0001961898266624883,
+          "rsi_fast": 40.328005493104826,
+          "rsi_slow": 53.1707442496389,
+          "macd_hist": 0.012116268801915964,
           "macd_fading": true,
-          "ema9": 1.3106377397003495,
-          "ema20": 1.309984406289477,
+          "ema9": 105.26961985180331,
+          "ema20": 105.12188299844362,
           "up_divergence": false,
           "down_divergence": false,
           "near_recent_high": false,
           "near_recent_low": false,
-          "vol_ratio": 3.1396393346538964
+          "vol_ratio": 0.31628522692593736
         },
         "m5": {
           "valid": true,
           "trend": 1,
-          "rsi_fast": 53.24933476069247,
-          "rsi_slow": 55.144921926400784,
-          "macd_hist": -0.0001641342323702741,
+          "rsi_fast": 55.15373177125056,
+          "rsi_slow": 60.61877274493729,
+          "macd_hist": 0.0030417218742142538,
           "macd_fading": true,
-          "ema9": 1.3104785672840347,
-          "ema20": 1.309461937134958,
+          "ema9": 105.16035388565838,
+          "ema20": 104.94542196330096,
           "up_divergence": true,
           "down_divergence": false,
           "near_recent_high": false,
           "near_recent_low": false,
-          "vol_ratio": 1.544426299872517
+          "vol_ratio": 0.24456881444669284
         }
       }
     },
-    "HYPE": {
-      "signal": "WAIT",
-      "reason": "low_volume",
-      "spot": 79.39,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 55.985965719507575,
-          "rsi_slow": 54.58248145872772,
-          "macd_hist": -0.013171093436044445,
-          "macd_fading": false,
-          "ema9": 79.38068011510869,
-          "ema20": 79.34741955627663,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.15167973121334782
-        },
-        "m3": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 60.699753511480075,
-          "rsi_slow": 62.961613690456744,
-          "macd_hist": 0.023348550692248504,
-          "macd_fading": true,
-          "ema9": 79.32980466718186,
-          "ema20": 79.24082371886655,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 1.2479881244124578
-        },
-        "m5": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 81.32690668811158,
-          "rsi_slow": 69.79043982323799,
-          "macd_hist": 0.004058840295786348,
-          "macd_fading": false,
-          "ema9": 79.26523828376175,
-          "ema20": 79.16348101101416,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.7666135461448503
-        }
-      }
+    "NEAR": {
+      "position": "NO",
+      "bid": 79,
+      "exit_evidence": [],
+      "exit_features": {
+        "price": 5.016,
+        "rsi": 32.649659,
+        "macd_hist": -0.002294,
+        "cvd_slope_proxy": -88589.426,
+        "delta_proxy": 0.0,
+        "ema9": 5.026051,
+        "ema50": 5.033026,
+        "vwap": 5.032988,
+        "support": 5.001,
+        "resistance": 5.0637,
+        "volratio": 2.6e-05
+      },
+      "entry_features": {
+        "price": 5.0206,
+        "rsi": 36.79799,
+        "macd_hist": -0.001878,
+        "cvd_slope_proxy": -61088.2,
+        "delta_proxy": -11832.983,
+        "ema9": 5.028563,
+        "ema50": 5.033721,
+        "vwap": 5.033088,
+        "support": 5.001,
+        "resistance": 5.0637,
+        "volratio": 1.462979
+      },
+      "entry_utc": "2026-10-19T03:03:40.242941+00:00",
+      "entry_c": 79,
+      "ticker": "KXNEAR15M-26OCT182315-15"
     }
   },
   "warnings": []
