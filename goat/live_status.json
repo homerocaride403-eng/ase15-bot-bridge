@@ -1,5 +1,5 @@
 {
-  "utc": "2026-10-19T02:30:21.668622+00:00",
+  "utc": "2026-10-19T02:31:36.427883+00:00",
   "mode": "LIVE",
   "positions": {
     "HYPE": {
@@ -47,163 +47,116 @@
       }
     }
   },
-  "daily_buy_usd": 0,
+  "daily_buy_usd": 1.97,
   "markets": {
     "HYPE": {
-      "signal": "YES",
-      "reason": "early_reversal_mtf",
-      "spot": 79.09,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 36.64752713018319,
-          "rsi_slow": 39.37875231807134,
-          "macd_hist": -0.020294777218610546,
-          "macd_fading": false,
-          "ema9": 79.12594091474598,
-          "ema20": 79.13896633178388,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 1.150772227907281
-        },
-        "m3": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 42.32388515811428,
-          "rsi_slow": 48.05934031317462,
-          "macd_hist": -0.002646070731371415,
-          "macd_fading": true,
-          "ema9": 79.11884135360005,
-          "ema20": 79.0954738308303,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.31435982807393725
-        },
-        "m5": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 44.20967389353294,
-          "rsi_slow": 50.601889896512006,
-          "macd_hist": -0.029547035846471587,
-          "macd_fading": true,
-          "ema9": 79.10526636655852,
-          "ema20": 79.04259391961938,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.37390629238497003
-        }
-      }
+      "position": "YES",
+      "bid": 30,
+      "exit_evidence": [
+        "pierde EMA9 descendente"
+      ],
+      "exit_features": {
+        "price": 79.09,
+        "rsi": 39.378752,
+        "macd_hist": -0.020295,
+        "cvd_slope_proxy": 115.217,
+        "delta_proxy": 128.537,
+        "ema9": 79.125941,
+        "ema50": 79.111274,
+        "vwap": 79.099395,
+        "support": 78.94,
+        "resistance": 79.35,
+        "volratio": 1.037319
+      },
+      "entry_features": {
+        "price": 79.09,
+        "rsi": 39.378752,
+        "macd_hist": -0.020295,
+        "cvd_slope_proxy": 115.217,
+        "delta_proxy": 128.537,
+        "ema9": 79.125941,
+        "ema50": 79.111274,
+        "vwap": 79.099395,
+        "support": 78.94,
+        "resistance": 79.35,
+        "volratio": 1.037319
+      },
+      "entry_utc": "2026-10-19T02:30:23.637668+00:00",
+      "entry_c": 64,
+      "ticker": "KXHYPE15M-26OCT182245-45"
     },
     "DOGE": {
-      "signal": "YES",
-      "reason": "early_reversal_mtf",
-      "spot": 0.07954,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 32.06733810402564,
-          "rsi_slow": 31.136651935529756,
-          "macd_hist": -3.090470085347088e-05,
-          "macd_fading": false,
-          "ema9": 0.07960550752851829,
-          "ema20": 0.07967729375176603,
-          "up_divergence": false,
-          "down_divergence": true,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.7446382427024026
-        },
-        "m3": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 27.140558729518546,
-          "rsi_slow": 35.18996830044665,
-          "macd_hist": -4.319378825336447e-05,
-          "macd_fading": true,
-          "ema9": 0.07967667902008548,
-          "ema20": 0.07967658659290316,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.32600904988174884
-        },
-        "m5": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 25.45484675698573,
-          "rsi_slow": 39.643113296194734,
-          "macd_hist": -4.3694246052928024e-05,
-          "macd_fading": true,
-          "ema9": 0.07969602866278969,
-          "ema20": 0.07961144556548087,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": true,
-          "vol_ratio": 0.8149133586792511
-        }
-      }
+      "position": "YES",
+      "bid": 54,
+      "exit_evidence": [
+        "delta acumulado proxy gira vendedor",
+        "pierde EMA9 descendente"
+      ],
+      "exit_features": {
+        "price": 0.07954,
+        "rsi": 31.136652,
+        "macd_hist": -3.1e-05,
+        "cvd_slope_proxy": -42367.3,
+        "delta_proxy": 17569.3,
+        "ema9": 0.079606,
+        "ema50": 0.079696,
+        "vwap": 0.079778,
+        "support": 0.07948,
+        "resistance": 0.07998,
+        "volratio": 0.425966
+      },
+      "entry_features": {
+        "price": 0.07954,
+        "rsi": 31.136652,
+        "macd_hist": -3.1e-05,
+        "cvd_slope_proxy": -42367.3,
+        "delta_proxy": 17569.3,
+        "ema9": 0.079606,
+        "ema50": 0.079696,
+        "vwap": 0.079778,
+        "support": 0.07948,
+        "resistance": 0.07998,
+        "volratio": 0.425966
+      },
+      "entry_utc": "2026-10-19T02:30:51.493948+00:00",
+      "entry_c": 74,
+      "ticker": "KXDOGE15M-26OCT182245-45"
     },
     "NEAR": {
-      "signal": "YES",
-      "reason": "early_reversal_mtf",
-      "spot": 5.0173,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 37.848289661142225,
-          "rsi_slow": 33.753570542427724,
-          "macd_hist": -0.0037381426380493736,
-          "macd_fading": false,
-          "ema9": 5.025537997832041,
-          "ema20": 5.038173483600378,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.49178172779877366
-        },
-        "m3": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 25.27286560388309,
-          "rsi_slow": 32.67955669552235,
-          "macd_hist": -0.007628283049811911,
-          "macd_fading": true,
-          "ema9": 5.040045020949416,
-          "ema20": 5.045271459994873,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.5906756980744717
-        },
-        "m5": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 19.419967792546785,
-          "rsi_slow": 34.202810233486204,
-          "macd_hist": -0.008203074591746046,
-          "macd_fading": true,
-          "ema9": 5.045566282818987,
-          "ema20": 5.03991194042137,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 2.023688013813763
-        }
-      }
+      "position": "YES",
+      "bid": 32,
+      "exit_evidence": [
+        "pierde EMA9 descendente"
+      ],
+      "exit_features": {
+        "price": 5.0173,
+        "rsi": 33.753571,
+        "macd_hist": -0.003738,
+        "cvd_slope_proxy": 5569.933,
+        "delta_proxy": 3869.224,
+        "ema9": 5.025538,
+        "ema50": 5.047296,
+        "vwap": 5.06037,
+        "support": 5.005,
+        "resistance": 5.0812,
+        "volratio": 0.652852
+      },
+      "entry_features": {
+        "price": 5.0173,
+        "rsi": 33.753571,
+        "macd_hist": -0.003738,
+        "cvd_slope_proxy": 5569.933,
+        "delta_proxy": 3869.224,
+        "ema9": 5.025538,
+        "ema50": 5.047296,
+        "vwap": 5.06037,
+        "support": 5.005,
+        "resistance": 5.0812,
+        "volratio": 0.652852
+      },
+      "entry_utc": "2026-10-19T02:30:26.118783+00:00",
+      "entry_c": 59,
+      "ticker": "KXNEAR15M-26OCT182245-45"
     }
   },
   "warnings": []
