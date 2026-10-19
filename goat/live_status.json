@@ -1,5 +1,5 @@
 {
-  "utc": "2026-10-19T03:49:13.969127+00:00",
+  "utc": "2026-10-19T03:50:24.125174+00:00",
   "mode": "LIVE",
   "positions": {
     "SOL": {
@@ -25,163 +25,43 @@
       }
     }
   },
-  "daily_buy_usd": 0,
+  "daily_buy_usd": 0.86,
   "markets": {
-    "BTC": {
-      "signal": "WAIT",
-      "reason": "no_independent_confluence",
-      "spot": 82425.5,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 55.763190235201485,
-          "rsi_slow": 44.78135917183382,
-          "macd_hist": -5.642544809890737,
-          "macd_fading": false,
-          "ema9": 82424.82129051001,
-          "ema20": 82451.08005883105,
-          "up_divergence": false,
-          "down_divergence": true,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.5312312969003634
-        },
-        "m3": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 31.86956471285474,
-          "rsi_slow": 35.28414084497736,
-          "macd_hist": -19.742925484960107,
-          "macd_fading": false,
-          "ema9": 82463.9057067014,
-          "ema20": 82478.5956347457,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.8242718146116257
-        },
-        "m5": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 26.559478017294282,
-          "rsi_slow": 40.4759249126422,
-          "macd_hist": -22.771910912454388,
-          "macd_fading": true,
-          "ema9": 82474.8586157603,
-          "ema20": 82455.05952348161,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.5649702756072481
-        }
-      }
-    },
     "SOL": {
-      "signal": "YES",
-      "reason": "early_reversal_mtf",
-      "spot": 105.08,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 32.85262333298226,
-          "rsi_slow": 34.84918519458326,
-          "macd_hist": -0.01938173038133894,
-          "macd_fading": false,
-          "ema9": 105.12376361654235,
-          "ema20": 105.17634297339802,
-          "up_divergence": false,
-          "down_divergence": true,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 1.3623048652503214
-        },
-        "m3": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 17.444767517398333,
-          "rsi_slow": 32.20625153415553,
-          "macd_hist": -0.04202319975728158,
-          "macd_fading": true,
-          "ema9": 105.18875606246087,
-          "ema20": 105.19277058616747,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.7791442383051954
-        },
-        "m5": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 27.583628493727417,
-          "rsi_slow": 42.44779894137846,
-          "macd_hist": -0.04947182559473215,
-          "macd_fading": true,
-          "ema9": 105.19650519270856,
-          "ema20": 105.1106173550135,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": true,
-          "vol_ratio": 0.7408567980225579
-        }
-      }
-    },
-    "NEAR": {
-      "signal": "WAIT",
-      "reason": "low_volume",
-      "spot": 5.0075,
-      "mtf": {
-        "m1": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 36.401239598433676,
-          "rsi_slow": 45.28216355094629,
-          "macd_hist": -0.00015783635113172196,
-          "macd_fading": true,
-          "ema9": 5.009558440015287,
-          "ema20": 5.008789057501936,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.00011077893012794266
-        },
-        "m3": {
-          "valid": true,
-          "trend": 1,
-          "rsi_fast": 44.601777216466,
-          "rsi_slow": 45.325143863282555,
-          "macd_hist": 0.001001839870514774,
-          "macd_fading": true,
-          "ema9": 5.009362664496776,
-          "ema20": 5.013932231225759,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.2511287968955312
-        },
-        "m5": {
-          "valid": true,
-          "trend": -1,
-          "rsi_fast": 48.29011228334419,
-          "rsi_slow": 44.34088040106569,
-          "macd_hist": -0.0024162351792379436,
-          "macd_fading": false,
-          "ema9": 5.009490463359197,
-          "ema20": 5.016536243164891,
-          "up_divergence": false,
-          "down_divergence": false,
-          "near_recent_high": false,
-          "near_recent_low": false,
-          "vol_ratio": 0.2228528808246418
-        }
-      }
+      "position": "YES",
+      "bid": 32,
+      "exit_evidence": [
+        "pierde EMA9 descendente"
+      ],
+      "exit_features": {
+        "price": 105.08,
+        "rsi": 34.849185,
+        "macd_hist": -0.019382,
+        "cvd_slope_proxy": 205.292665,
+        "delta_proxy": 201.75044,
+        "ema9": 105.123764,
+        "ema50": 105.202817,
+        "vwap": 105.393057,
+        "support": 105.01,
+        "resistance": 105.4,
+        "volratio": 0.864632
+      },
+      "entry_features": {
+        "price": 105.08,
+        "rsi": 34.849185,
+        "macd_hist": -0.019382,
+        "cvd_slope_proxy": 205.292665,
+        "delta_proxy": 201.75044,
+        "ema9": 105.123764,
+        "ema50": 105.202817,
+        "vwap": 105.393057,
+        "support": 105.01,
+        "resistance": 105.4,
+        "volratio": 0.864632
+      },
+      "entry_utc": "2026-10-19T03:49:15.996695+00:00",
+      "entry_c": 43,
+      "ticker": "KXSOL15M-26OCT190000-00"
     }
   },
   "warnings": []
